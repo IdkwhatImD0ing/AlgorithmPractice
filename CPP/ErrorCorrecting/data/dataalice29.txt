@@ -1,0 +1,6993 @@
+Error: 0.001
+3.486860
+Total bytes processed: 304178
+Uncorrected errors: 13
+Corrected errors: 2428
+Error rate: 0.000043
+Time: 25
+Error: 0.002
+3.563765
+Total bytes processed: 304178
+Uncorrected errors: 36
+Corrected errors: 4880
+Error rate: 0.000118
+Time: 26
+Error: 0.003
+3.631793
+Total bytes processed: 304178
+Uncorrected errors: 76
+Corrected errors: 7206
+Error rate: 0.000250
+Time: 24
+Error: 0.004
+3.697122
+Total bytes processed: 304178
+Uncorrected errors: 126
+Corrected errors: 9557
+Error rate: 0.000414
+Time: 24
+Error: 0.005
+3.757998
+Total bytes processed: 304178
+Uncorrected errors: 202
+Corrected errors: 11797
+Error rate: 0.000664
+Time: 25
+Error: 0.006
+3.818106
+Total bytes processed: 304178
+Uncorrected errors: 298
+Corrected errors: 14062
+Error rate: 0.000980
+Time: 26
+Error: 0.007
+3.874233
+Total bytes processed: 304178
+Uncorrected errors: 420
+Corrected errors: 16199
+Error rate: 0.001381
+Time: 28
+Error: 0.008
+3.930706
+Total bytes processed: 304178
+Uncorrected errors: 519
+Corrected errors: 18463
+Error rate: 0.001706
+Time: 28
+Error: 0.009
+3.984071
+Total bytes processed: 304178
+Uncorrected errors: 656
+Corrected errors: 20587
+Error rate: 0.002157
+Time: 27
+Error: 0.01
+4.036028
+Total bytes processed: 304178
+Uncorrected errors: 780
+Corrected errors: 22725
+Error rate: 0.002564
+Time: 26
+Error: 0.011
+4.087073
+Total bytes processed: 304178
+Uncorrected errors: 959
+Corrected errors: 24771
+Error rate: 0.003153
+Time: 26
+Error: 0.012
+4.137548
+Total bytes processed: 304178
+Uncorrected errors: 1138
+Corrected errors: 26843
+Error rate: 0.003741
+Time: 25
+Error: 0.013
+4.187707
+Total bytes processed: 304178
+Uncorrected errors: 1340
+Corrected errors: 28912
+Error rate: 0.004405
+Time: 25
+Error: 0.014
+4.235127
+Total bytes processed: 304178
+Uncorrected errors: 1554
+Corrected errors: 30871
+Error rate: 0.005109
+Time: 34
+Error: 0.015
+4.280736
+Total bytes processed: 304178
+Uncorrected errors: 1763
+Corrected errors: 32786
+Error rate: 0.005796
+Time: 29
+Error: 0.016
+4.327117
+Total bytes processed: 304178
+Uncorrected errors: 1997
+Corrected errors: 34732
+Error rate: 0.006565
+Time: 28
+Error: 0.017
+4.371520
+Total bytes processed: 304178
+Uncorrected errors: 2232
+Corrected errors: 36614
+Error rate: 0.007338
+Time: 26
+Error: 0.018
+4.415863
+Total bytes processed: 304178
+Uncorrected errors: 2489
+Corrected errors: 38482
+Error rate: 0.008183
+Time: 26
+Error: 0.019
+4.459434
+Total bytes processed: 304178
+Uncorrected errors: 2719
+Corrected errors: 40388
+Error rate: 0.008939
+Time: 25
+Error: 0.02
+4.502805
+Total bytes processed: 304178
+Uncorrected errors: 2983
+Corrected errors: 42264
+Error rate: 0.009807
+Time: 31
+Error: 0.021
+4.546024
+Total bytes processed: 304178
+Uncorrected errors: 3275
+Corrected errors: 44112
+Error rate: 0.010767
+Time: 26
+Error: 0.022
+4.587162
+Total bytes processed: 304178
+Uncorrected errors: 3577
+Corrected errors: 45849
+Error rate: 0.011760
+Time: 27
+Error: 0.023
+4.626561
+Total bytes processed: 304178
+Uncorrected errors: 3901
+Corrected errors: 47492
+Error rate: 0.012825
+Time: 27
+Error: 0.024
+4.667036
+Total bytes processed: 304178
+Uncorrected errors: 4235
+Corrected errors: 49206
+Error rate: 0.013923
+Time: 27
+Error: 0.025
+4.707746
+Total bytes processed: 304178
+Uncorrected errors: 4609
+Corrected errors: 50889
+Error rate: 0.015152
+Time: 27
+Error: 0.026
+4.745837
+Total bytes processed: 304178
+Uncorrected errors: 4948
+Corrected errors: 52501
+Error rate: 0.016267
+Time: 25
+Error: 0.027
+4.784273
+Total bytes processed: 304178
+Uncorrected errors: 5288
+Corrected errors: 54162
+Error rate: 0.017385
+Time: 30
+Error: 0.028
+4.822168
+Total bytes processed: 304178
+Uncorrected errors: 5633
+Corrected errors: 55809
+Error rate: 0.018519
+Time: 27
+Error: 0.029
+4.858636
+Total bytes processed: 304178
+Uncorrected errors: 5991
+Corrected errors: 57369
+Error rate: 0.019696
+Time: 27
+Error: 0.03
+4.896412
+Total bytes processed: 304178
+Uncorrected errors: 6364
+Corrected errors: 59011
+Error rate: 0.020922
+Time: 26
+Error: 0.031
+4.934206
+Total bytes processed: 304178
+Uncorrected errors: 6788
+Corrected errors: 60583
+Error rate: 0.022316
+Time: 28
+Error: 0.032
+4.971375
+Total bytes processed: 304178
+Uncorrected errors: 7175
+Corrected errors: 62202
+Error rate: 0.023588
+Time: 29
+Error: 0.033
+5.006812
+Total bytes processed: 304178
+Uncorrected errors: 7616
+Corrected errors: 63652
+Error rate: 0.025038
+Time: 27
+Error: 0.034
+5.041654
+Total bytes processed: 304178
+Uncorrected errors: 8020
+Corrected errors: 65151
+Error rate: 0.026366
+Time: 28
+Error: 0.035
+5.076173
+Total bytes processed: 304178
+Uncorrected errors: 8475
+Corrected errors: 66563
+Error rate: 0.027862
+Time: 27
+Error: 0.036
+5.109881
+Total bytes processed: 304178
+Uncorrected errors: 8867
+Corrected errors: 68041
+Error rate: 0.029151
+Time: 27
+Error: 0.037
+5.144280
+Total bytes processed: 304178
+Uncorrected errors: 9327
+Corrected errors: 69475
+Error rate: 0.030663
+Time: 28
+Error: 0.038
+5.176952
+Total bytes processed: 304178
+Uncorrected errors: 9742
+Corrected errors: 70878
+Error rate: 0.032027
+Time: 29
+Error: 0.039
+5.209576
+Total bytes processed: 304178
+Uncorrected errors: 10155
+Corrected errors: 72311
+Error rate: 0.033385
+Time: 27
+Error: 0.04
+5.240285
+Total bytes processed: 304178
+Uncorrected errors: 10605
+Corrected errors: 73573
+Error rate: 0.034864
+Time: 33
+Error: 0.041
+5.272507
+Total bytes processed: 304178
+Uncorrected errors: 11062
+Corrected errors: 74960
+Error rate: 0.036367
+Time: 37
+Error: 0.042
+5.304041
+Total bytes processed: 304178
+Uncorrected errors: 11551
+Corrected errors: 76256
+Error rate: 0.037974
+Time: 30
+Error: 0.043
+5.335769
+Total bytes processed: 304178
+Uncorrected errors: 12053
+Corrected errors: 77555
+Error rate: 0.039625
+Time: 28
+Error: 0.044
+5.367344
+Total bytes processed: 304178
+Uncorrected errors: 12545
+Corrected errors: 78874
+Error rate: 0.041242
+Time: 33
+Error: 0.045
+5.397534
+Total bytes processed: 304178
+Uncorrected errors: 13074
+Corrected errors: 80058
+Error rate: 0.042981
+Time: 30
+Error: 0.046
+5.429005
+Total bytes processed: 304178
+Uncorrected errors: 13574
+Corrected errors: 81402
+Error rate: 0.044625
+Time: 32
+Error: 0.047
+5.458910
+Total bytes processed: 304178
+Uncorrected errors: 14092
+Corrected errors: 82614
+Error rate: 0.046328
+Time: 29
+Error: 0.048
+5.489439
+Total bytes processed: 304178
+Uncorrected errors: 14692
+Corrected errors: 83755
+Error rate: 0.048301
+Time: 29
+Error: 0.049
+5.518965
+Total bytes processed: 304178
+Uncorrected errors: 15208
+Corrected errors: 84975
+Error rate: 0.049997
+Time: 32
+Error: 0.05
+5.547141
+Total bytes processed: 304178
+Uncorrected errors: 15754
+Corrected errors: 86068
+Error rate: 0.051792
+Time: 34
+Error: 0.051
+5.575291
+Total bytes processed: 304178
+Uncorrected errors: 16273
+Corrected errors: 87217
+Error rate: 0.053498
+Time: 38
+Error: 0.052
+5.603989
+Total bytes processed: 304178
+Uncorrected errors: 16849
+Corrected errors: 88341
+Error rate: 0.055392
+Time: 33
+Error: 0.053
+5.632020
+Total bytes processed: 304178
+Uncorrected errors: 17389
+Corrected errors: 89476
+Error rate: 0.057167
+Time: 30
+Error: 0.054
+5.660295
+Total bytes processed: 304178
+Uncorrected errors: 17917
+Corrected errors: 90676
+Error rate: 0.058903
+Time: 32
+Error: 0.055
+5.688097
+Total bytes processed: 304178
+Uncorrected errors: 18461
+Corrected errors: 91821
+Error rate: 0.060691
+Time: 31
+Error: 0.056
+5.715238
+Total bytes processed: 304178
+Uncorrected errors: 19059
+Corrected errors: 92836
+Error rate: 0.062657
+Time: 31
+Error: 0.057
+5.742090
+Total bytes processed: 304178
+Uncorrected errors: 19674
+Corrected errors: 93827
+Error rate: 0.064679
+Time: 31
+Error: 0.058
+5.768864
+Total bytes processed: 304178
+Uncorrected errors: 20305
+Corrected errors: 94800
+Error rate: 0.066754
+Time: 33
+Error: 0.059
+5.794324
+Total bytes processed: 304178
+Uncorrected errors: 20880
+Corrected errors: 95791
+Error rate: 0.068644
+Time: 30
+Error: 0.06
+5.819531
+Total bytes processed: 304178
+Uncorrected errors: 21444
+Corrected errors: 96768
+Error rate: 0.070498
+Time: 33
+Error: 0.061
+5.845220
+Total bytes processed: 304178
+Uncorrected errors: 22007
+Corrected errors: 97816
+Error rate: 0.072349
+Time: 36
+Error: 0.062
+5.870843
+Total bytes processed: 304178
+Uncorrected errors: 22582
+Corrected errors: 98837
+Error rate: 0.074239
+Time: 32
+Error: 0.063
+5.894879
+Total bytes processed: 304178
+Uncorrected errors: 23159
+Corrected errors: 99743
+Error rate: 0.076136
+Time: 28
+Error: 0.064
+5.918912
+Total bytes processed: 304178
+Uncorrected errors: 23694
+Corrected errors: 100733
+Error rate: 0.077895
+Time: 28
+Error: 0.065
+5.943362
+Total bytes processed: 304178
+Uncorrected errors: 24300
+Corrected errors: 101664
+Error rate: 0.079887
+Time: 29
+Error: 0.066
+5.966778
+Total bytes processed: 304178
+Uncorrected errors: 24863
+Corrected errors: 102598
+Error rate: 0.081738
+Time: 33
+Error: 0.067
+5.990692
+Total bytes processed: 304178
+Uncorrected errors: 25487
+Corrected errors: 103471
+Error rate: 0.083790
+Time: 28
+Error: 0.068
+6.013102
+Total bytes processed: 304178
+Uncorrected errors: 26051
+Corrected errors: 104334
+Error rate: 0.085644
+Time: 29
+Error: 0.069
+6.035686
+Total bytes processed: 304178
+Uncorrected errors: 26646
+Corrected errors: 105170
+Error rate: 0.087600
+Time: 28
+Error: 0.07
+6.059443
+Total bytes processed: 304178
+Uncorrected errors: 27229
+Corrected errors: 106122
+Error rate: 0.089517
+Time: 36
+Error: 0.071
+6.081939
+Total bytes processed: 304178
+Uncorrected errors: 27814
+Corrected errors: 106995
+Error rate: 0.091440
+Time: 30
+Error: 0.072
+6.104790
+Total bytes processed: 304178
+Uncorrected errors: 28426
+Corrected errors: 107857
+Error rate: 0.093452
+Time: 29
+Error: 0.073
+6.127283
+Total bytes processed: 304178
+Uncorrected errors: 29073
+Corrected errors: 108660
+Error rate: 0.095579
+Time: 30
+Error: 0.074
+6.149688
+Total bytes processed: 304178
+Uncorrected errors: 29701
+Corrected errors: 109487
+Error rate: 0.097643
+Time: 30
+Error: 0.075
+6.171489
+Total bytes processed: 304178
+Uncorrected errors: 30332
+Corrected errors: 110275
+Error rate: 0.099718
+Time: 31
+Error: 0.076
+6.192856
+Total bytes processed: 304178
+Uncorrected errors: 30982
+Corrected errors: 111019
+Error rate: 0.101855
+Time: 30
+Error: 0.077
+6.214363
+Total bytes processed: 304178
+Uncorrected errors: 31598
+Corrected errors: 111838
+Error rate: 0.103880
+Time: 29
+Error: 0.078
+6.235309
+Total bytes processed: 304178
+Uncorrected errors: 32206
+Corrected errors: 112612
+Error rate: 0.105879
+Time: 30
+Error: 0.079
+6.255962
+Total bytes processed: 304178
+Uncorrected errors: 32858
+Corrected errors: 113313
+Error rate: 0.108022
+Time: 30
+Error: 0.08
+6.276279
+Total bytes processed: 304178
+Uncorrected errors: 33484
+Corrected errors: 114038
+Error rate: 0.110080
+Time: 32
+Error: 0.081
+6.295537
+Total bytes processed: 304178
+Uncorrected errors: 34119
+Corrected errors: 114665
+Error rate: 0.112168
+Time: 31
+Error: 0.082
+6.316336
+Total bytes processed: 304178
+Uncorrected errors: 34748
+Corrected errors: 115451
+Error rate: 0.114236
+Time: 31
+Error: 0.083
+6.336155
+Total bytes processed: 304178
+Uncorrected errors: 35365
+Corrected errors: 116159
+Error rate: 0.116264
+Time: 30
+Error: 0.084
+6.355607
+Total bytes processed: 304178
+Uncorrected errors: 36029
+Corrected errors: 116792
+Error rate: 0.118447
+Time: 30
+Error: 0.085
+6.374776
+Total bytes processed: 304178
+Uncorrected errors: 36676
+Corrected errors: 117415
+Error rate: 0.120574
+Time: 30
+Error: 0.086
+6.394711
+Total bytes processed: 304178
+Uncorrected errors: 37353
+Corrected errors: 118073
+Error rate: 0.122800
+Time: 30
+Error: 0.087
+6.412840
+Total bytes processed: 304178
+Uncorrected errors: 37918
+Corrected errors: 118748
+Error rate: 0.124657
+Time: 31
+Error: 0.088
+6.432487
+Total bytes processed: 304178
+Uncorrected errors: 38509
+Corrected errors: 119543
+Error rate: 0.126600
+Time: 31
+Error: 0.089
+6.451198
+Total bytes processed: 304178
+Uncorrected errors: 39154
+Corrected errors: 120163
+Error rate: 0.128721
+Time: 31
+Error: 0.09
+6.470054
+Total bytes processed: 304178
+Uncorrected errors: 39733
+Corrected errors: 120934
+Error rate: 0.130624
+Time: 31
+Error: 0.091
+6.487892
+Total bytes processed: 304178
+Uncorrected errors: 40399
+Corrected errors: 121485
+Error rate: 0.132814
+Time: 31
+Error: 0.092
+6.506436
+Total bytes processed: 304178
+Uncorrected errors: 41100
+Corrected errors: 122062
+Error rate: 0.135118
+Time: 30
+Error: 0.093
+6.524352
+Total bytes processed: 304178
+Uncorrected errors: 41721
+Corrected errors: 122697
+Error rate: 0.137160
+Time: 30
+Error: 0.094
+6.542019
+Total bytes processed: 304178
+Uncorrected errors: 42342
+Corrected errors: 123292
+Error rate: 0.139201
+Time: 33
+Error: 0.095
+6.559674
+Total bytes processed: 304178
+Uncorrected errors: 43024
+Corrected errors: 123842
+Error rate: 0.141443
+Time: 32
+Error: 0.096
+6.576885
+Total bytes processed: 304178
+Uncorrected errors: 43675
+Corrected errors: 124388
+Error rate: 0.143584
+Time: 31
+Error: 0.097
+6.593661
+Total bytes processed: 304178
+Uncorrected errors: 44367
+Corrected errors: 124823
+Error rate: 0.145859
+Time: 31
+Error: 0.098
+6.610615
+Total bytes processed: 304178
+Uncorrected errors: 45021
+Corrected errors: 125366
+Error rate: 0.148009
+Time: 30
+Error: 0.099
+6.626254
+Total bytes processed: 304178
+Uncorrected errors: 45584
+Corrected errors: 125946
+Error rate: 0.149860
+Time: 30
+Error: 0.1
+6.642408
+Total bytes processed: 304178
+Uncorrected errors: 46211
+Corrected errors: 126458
+Error rate: 0.151921
+Time: 34
+Error: 0.101
+6.658673
+Total bytes processed: 304178
+Uncorrected errors: 46942
+Corrected errors: 126840
+Error rate: 0.154324
+Time: 31
+Error: 0.102
+6.674517
+Total bytes processed: 304178
+Uncorrected errors: 47586
+Corrected errors: 127326
+Error rate: 0.156441
+Time: 30
+Error: 0.103
+6.690564
+Total bytes processed: 304178
+Uncorrected errors: 48224
+Corrected errors: 127838
+Error rate: 0.158539
+Time: 31
+Error: 0.104
+6.706559
+Total bytes processed: 304178
+Uncorrected errors: 48963
+Corrected errors: 128227
+Error rate: 0.160968
+Time: 30
+Error: 0.105
+6.721699
+Total bytes processed: 304178
+Uncorrected errors: 49573
+Corrected errors: 128708
+Error rate: 0.162974
+Time: 31
+Error: 0.106
+6.737143
+Total bytes processed: 304178
+Uncorrected errors: 50255
+Corrected errors: 129120
+Error rate: 0.165216
+Time: 30
+Error: 0.107
+6.752296
+Total bytes processed: 304178
+Uncorrected errors: 50872
+Corrected errors: 129624
+Error rate: 0.167244
+Time: 36
+Error: 0.108
+6.767378
+Total bytes processed: 304178
+Uncorrected errors: 51500
+Corrected errors: 130096
+Error rate: 0.169309
+Time: 32
+Error: 0.109
+6.782305
+Total bytes processed: 304178
+Uncorrected errors: 52159
+Corrected errors: 130525
+Error rate: 0.171475
+Time: 32
+Error: 0.11
+6.796618
+Total bytes processed: 304178
+Uncorrected errors: 52776
+Corrected errors: 130960
+Error rate: 0.173504
+Time: 31
+Error: 0.111
+6.811219
+Total bytes processed: 304178
+Uncorrected errors: 53453
+Corrected errors: 131347
+Error rate: 0.175729
+Time: 31
+Error: 0.112
+6.825613
+Total bytes processed: 304178
+Uncorrected errors: 54140
+Corrected errors: 131714
+Error rate: 0.177988
+Time: 35
+Error: 0.113
+6.839295
+Total bytes processed: 304178
+Uncorrected errors: 54740
+Corrected errors: 132139
+Error rate: 0.179960
+Time: 34
+Error: 0.114
+6.853027
+Total bytes processed: 304178
+Uncorrected errors: 55392
+Corrected errors: 132519
+Error rate: 0.182104
+Time: 35
+Error: 0.115
+6.866988
+Total bytes processed: 304178
+Uncorrected errors: 56034
+Corrected errors: 132913
+Error rate: 0.184215
+Time: 34
+Error: 0.116
+6.880457
+Total bytes processed: 304178
+Uncorrected errors: 56668
+Corrected errors: 133282
+Error rate: 0.186299
+Time: 31
+Error: 0.117
+6.893821
+Total bytes processed: 304178
+Uncorrected errors: 57349
+Corrected errors: 133582
+Error rate: 0.188538
+Time: 32
+Error: 0.118
+6.907140
+Total bytes processed: 304178
+Uncorrected errors: 57970
+Corrected errors: 133975
+Error rate: 0.190579
+Time: 32
+Error: 0.119
+6.920521
+Total bytes processed: 304178
+Uncorrected errors: 58597
+Corrected errors: 134341
+Error rate: 0.192640
+Time: 35
+Error: 0.12
+6.932853
+Total bytes processed: 304178
+Uncorrected errors: 59151
+Corrected errors: 134717
+Error rate: 0.194462
+Time: 32
+Error: 0.121
+6.946324
+Total bytes processed: 304178
+Uncorrected errors: 59782
+Corrected errors: 135108
+Error rate: 0.196536
+Time: 32
+Error: 0.122
+6.958527
+Total bytes processed: 304178
+Uncorrected errors: 60338
+Corrected errors: 135458
+Error rate: 0.198364
+Time: 31
+Error: 0.123
+6.970847
+Total bytes processed: 304178
+Uncorrected errors: 60970
+Corrected errors: 135752
+Error rate: 0.200442
+Time: 32
+Error: 0.124
+6.983196
+Total bytes processed: 304178
+Uncorrected errors: 61591
+Corrected errors: 136081
+Error rate: 0.202483
+Time: 34
+Error: 0.125
+6.995025
+Total bytes processed: 304178
+Uncorrected errors: 62202
+Corrected errors: 136383
+Error rate: 0.204492
+Time: 32
+Error: 0.126
+7.006756
+Total bytes processed: 304178
+Uncorrected errors: 62801
+Corrected errors: 136689
+Error rate: 0.206461
+Time: 33
+Error: 0.127
+7.018986
+Total bytes processed: 304178
+Uncorrected errors: 63431
+Corrected errors: 136976
+Error rate: 0.208533
+Time: 31
+Error: 0.128
+7.031396
+Total bytes processed: 304178
+Uncorrected errors: 64040
+Corrected errors: 137320
+Error rate: 0.210535
+Time: 37
+Error: 0.129
+7.043174
+Total bytes processed: 304178
+Uncorrected errors: 64650
+Corrected errors: 137641
+Error rate: 0.212540
+Time: 32
+Error: 0.13
+7.054766
+Total bytes processed: 304178
+Uncorrected errors: 65270
+Corrected errors: 137914
+Error rate: 0.214578
+Time: 31
+Error: 0.131
+7.066499
+Total bytes processed: 304178
+Uncorrected errors: 65857
+Corrected errors: 138261
+Error rate: 0.216508
+Time: 35
+Error: 0.132
+7.078065
+Total bytes processed: 304178
+Uncorrected errors: 66448
+Corrected errors: 138595
+Error rate: 0.218451
+Time: 50
+Error: 0.133
+7.089263
+Total bytes processed: 304178
+Uncorrected errors: 67063
+Corrected errors: 138869
+Error rate: 0.220473
+Time: 34
+Error: 0.134
+7.100620
+Total bytes processed: 304178
+Uncorrected errors: 67618
+Corrected errors: 139220
+Error rate: 0.222297
+Time: 34
+Error: 0.135
+7.111861
+Total bytes processed: 304178
+Uncorrected errors: 68257
+Corrected errors: 139465
+Error rate: 0.224398
+Time: 31
+Error: 0.136
+7.122530
+Total bytes processed: 304178
+Uncorrected errors: 68798
+Corrected errors: 139796
+Error rate: 0.226177
+Time: 32
+Error: 0.137
+7.133051
+Total bytes processed: 304178
+Uncorrected errors: 69394
+Corrected errors: 140042
+Error rate: 0.228136
+Time: 35
+Error: 0.138
+7.143412
+Total bytes processed: 304178
+Uncorrected errors: 69973
+Corrected errors: 140304
+Error rate: 0.230040
+Time: 32
+Error: 0.139
+7.153984
+Total bytes processed: 304178
+Uncorrected errors: 70575
+Corrected errors: 140554
+Error rate: 0.232019
+Time: 35
+Error: 0.14
+7.164280
+Total bytes processed: 304178
+Uncorrected errors: 71122
+Corrected errors: 140850
+Error rate: 0.233817
+Time: 33
+Error: 0.141
+7.174757
+Total bytes processed: 304178
+Uncorrected errors: 71704
+Corrected errors: 141117
+Error rate: 0.235730
+Time: 32
+Error: 0.142
+7.184697
+Total bytes processed: 304178
+Uncorrected errors: 72223
+Corrected errors: 141417
+Error rate: 0.237437
+Time: 33
+Error: 0.143
+7.195026
+Total bytes processed: 304178
+Uncorrected errors: 72801
+Corrected errors: 141691
+Error rate: 0.239337
+Time: 33
+Error: 0.144
+7.205100
+Total bytes processed: 304178
+Uncorrected errors: 73399
+Corrected errors: 141882
+Error rate: 0.241303
+Time: 32
+Error: 0.145
+7.215129
+Total bytes processed: 304178
+Uncorrected errors: 73974
+Corrected errors: 142147
+Error rate: 0.243193
+Time: 34
+Error: 0.146
+7.224732
+Total bytes processed: 304178
+Uncorrected errors: 74543
+Corrected errors: 142381
+Error rate: 0.245064
+Time: 34
+Error: 0.147
+7.234180
+Total bytes processed: 304178
+Uncorrected errors: 75141
+Corrected errors: 142574
+Error rate: 0.247030
+Time: 33
+Error: 0.148
+7.244057
+Total bytes processed: 304178
+Uncorrected errors: 75704
+Corrected errors: 142808
+Error rate: 0.248881
+Time: 32
+Error: 0.149
+7.253348
+Total bytes processed: 304178
+Uncorrected errors: 76261
+Corrected errors: 143023
+Error rate: 0.250712
+Time: 32
+Error: 0.15
+7.263090
+Total bytes processed: 304178
+Uncorrected errors: 76806
+Corrected errors: 143301
+Error rate: 0.252503
+Time: 34
+Error: 0.151
+7.272260
+Total bytes processed: 304178
+Uncorrected errors: 77373
+Corrected errors: 143491
+Error rate: 0.254368
+Time: 34
+Error: 0.152
+7.280847
+Total bytes processed: 304178
+Uncorrected errors: 77900
+Corrected errors: 143690
+Error rate: 0.256100
+Time: 32
+Error: 0.153
+7.289613
+Total bytes processed: 304178
+Uncorrected errors: 78445
+Corrected errors: 143856
+Error rate: 0.257892
+Time: 34
+Error: 0.154
+7.298258
+Total bytes processed: 304178
+Uncorrected errors: 78990
+Corrected errors: 144052
+Error rate: 0.259683
+Time: 33
+Error: 0.155
+7.306773
+Total bytes processed: 304178
+Uncorrected errors: 79502
+Corrected errors: 144261
+Error rate: 0.261367
+Time: 36
+Error: 0.156
+7.315214
+Total bytes processed: 304178
+Uncorrected errors: 80037
+Corrected errors: 144419
+Error rate: 0.263126
+Time: 41
+Error: 0.157
+7.324205
+Total bytes processed: 304178
+Uncorrected errors: 80652
+Corrected errors: 144536
+Error rate: 0.265147
+Time: 34
+Error: 0.158
+7.332242
+Total bytes processed: 304178
+Uncorrected errors: 81181
+Corrected errors: 144668
+Error rate: 0.266886
+Time: 37
+Error: 0.159
+7.340645
+Total bytes processed: 304178
+Uncorrected errors: 81781
+Corrected errors: 144761
+Error rate: 0.268859
+Time: 33
+Error: 0.16
+7.348891
+Total bytes processed: 304178
+Uncorrected errors: 82291
+Corrected errors: 144964
+Error rate: 0.270536
+Time: 35
+Error: 0.161
+7.357315
+Total bytes processed: 304178
+Uncorrected errors: 82868
+Corrected errors: 145091
+Error rate: 0.272433
+Time: 34
+Error: 0.162
+7.365173
+Total bytes processed: 304178
+Uncorrected errors: 83402
+Corrected errors: 145248
+Error rate: 0.274188
+Time: 33
+Error: 0.163
+7.372841
+Total bytes processed: 304178
+Uncorrected errors: 83965
+Corrected errors: 145348
+Error rate: 0.276039
+Time: 34
+Error: 0.164
+7.380715
+Total bytes processed: 304178
+Uncorrected errors: 84491
+Corrected errors: 145514
+Error rate: 0.277768
+Time: 38
+Error: 0.165
+7.388243
+Total bytes processed: 304178
+Uncorrected errors: 85029
+Corrected errors: 145615
+Error rate: 0.279537
+Time: 34
+Error: 0.166
+7.395819
+Total bytes processed: 304178
+Uncorrected errors: 85484
+Corrected errors: 145841
+Error rate: 0.281033
+Time: 34
+Error: 0.167
+7.403500
+Total bytes processed: 304178
+Uncorrected errors: 85992
+Corrected errors: 146012
+Error rate: 0.282703
+Time: 34
+Error: 0.168
+7.411112
+Total bytes processed: 304178
+Uncorrected errors: 86491
+Corrected errors: 146161
+Error rate: 0.284343
+Time: 34
+Error: 0.169
+7.418487
+Total bytes processed: 304178
+Uncorrected errors: 86969
+Corrected errors: 146334
+Error rate: 0.285915
+Time: 35
+Error: 0.17
+7.425896
+Total bytes processed: 304178
+Uncorrected errors: 87470
+Corrected errors: 146479
+Error rate: 0.287562
+Time: 37
+Error: 0.171
+7.433248
+Total bytes processed: 304178
+Uncorrected errors: 88051
+Corrected errors: 146506
+Error rate: 0.289472
+Time: 35
+Error: 0.172
+7.440056
+Total bytes processed: 304178
+Uncorrected errors: 88515
+Corrected errors: 146648
+Error rate: 0.290997
+Time: 42
+Error: 0.173
+7.447078
+Total bytes processed: 304178
+Uncorrected errors: 88951
+Corrected errors: 146854
+Error rate: 0.292431
+Time: 34
+Error: 0.174
+7.454163
+Total bytes processed: 304178
+Uncorrected errors: 89435
+Corrected errors: 147020
+Error rate: 0.294022
+Time: 35
+Error: 0.175
+7.460903
+Total bytes processed: 304178
+Uncorrected errors: 89903
+Corrected errors: 147148
+Error rate: 0.295560
+Time: 38
+Error: 0.176
+7.467257
+Total bytes processed: 304178
+Uncorrected errors: 90367
+Corrected errors: 147282
+Error rate: 0.297086
+Time: 33
+Error: 0.177
+7.474047
+Total bytes processed: 304178
+Uncorrected errors: 90819
+Corrected errors: 147482
+Error rate: 0.298572
+Time: 35
+Error: 0.178
+7.480456
+Total bytes processed: 304178
+Uncorrected errors: 91311
+Corrected errors: 147574
+Error rate: 0.300189
+Time: 34
+Error: 0.179
+7.486919
+Total bytes processed: 304178
+Uncorrected errors: 91834
+Corrected errors: 147613
+Error rate: 0.301909
+Time: 32
+Error: 0.18
+7.493525
+Total bytes processed: 304178
+Uncorrected errors: 92343
+Corrected errors: 147687
+Error rate: 0.303582
+Time: 34
+Error: 0.181
+7.499839
+Total bytes processed: 304178
+Uncorrected errors: 92837
+Corrected errors: 147747
+Error rate: 0.305206
+Time: 35
+Error: 0.182
+7.506195
+Total bytes processed: 304178
+Uncorrected errors: 93267
+Corrected errors: 147890
+Error rate: 0.306620
+Time: 36
+Error: 0.183
+7.512809
+Total bytes processed: 304178
+Uncorrected errors: 93622
+Corrected errors: 148151
+Error rate: 0.307787
+Time: 34
+Error: 0.184
+7.518779
+Total bytes processed: 304178
+Uncorrected errors: 94082
+Corrected errors: 148239
+Error rate: 0.309299
+Time: 37
+Error: 0.185
+7.524316
+Total bytes processed: 304178
+Uncorrected errors: 94457
+Corrected errors: 148380
+Error rate: 0.310532
+Time: 34
+Error: 0.186
+7.530618
+Total bytes processed: 304178
+Uncorrected errors: 94973
+Corrected errors: 148428
+Error rate: 0.312228
+Time: 33
+Error: 0.187
+7.536623
+Total bytes processed: 304178
+Uncorrected errors: 95447
+Corrected errors: 148506
+Error rate: 0.313787
+Time: 35
+Error: 0.188
+7.542221
+Total bytes processed: 304178
+Uncorrected errors: 95855
+Corrected errors: 148596
+Error rate: 0.315128
+Time: 36
+Error: 0.189
+7.547842
+Total bytes processed: 304178
+Uncorrected errors: 96292
+Corrected errors: 148682
+Error rate: 0.316565
+Time: 33
+Error: 0.19
+7.553487
+Total bytes processed: 304178
+Uncorrected errors: 96699
+Corrected errors: 148799
+Error rate: 0.317903
+Time: 35
+Error: 0.191
+7.559145
+Total bytes processed: 304178
+Uncorrected errors: 97198
+Corrected errors: 148809
+Error rate: 0.319543
+Time: 34
+Error: 0.192
+7.564773
+Total bytes processed: 304178
+Uncorrected errors: 97625
+Corrected errors: 148903
+Error rate: 0.320947
+Time: 35
+Error: 0.193
+7.570638
+Total bytes processed: 304178
+Uncorrected errors: 98005
+Corrected errors: 149071
+Error rate: 0.322196
+Time: 37
+Error: 0.194
+7.576082
+Total bytes processed: 304178
+Uncorrected errors: 98453
+Corrected errors: 149152
+Error rate: 0.323669
+Time: 36
+Error: 0.195
+7.581243
+Total bytes processed: 304178
+Uncorrected errors: 98850
+Corrected errors: 149241
+Error rate: 0.324974
+Time: 36
+Error: 0.196
+7.586548
+Total bytes processed: 304178
+Uncorrected errors: 99231
+Corrected errors: 149327
+Error rate: 0.326227
+Time: 35
+Error: 0.197
+7.591857
+Total bytes processed: 304178
+Uncorrected errors: 99595
+Corrected errors: 149481
+Error rate: 0.327423
+Time: 35
+Error: 0.198
+7.597396
+Total bytes processed: 304178
+Uncorrected errors: 100041
+Corrected errors: 149555
+Error rate: 0.328890
+Time: 37
+Error: 0.199
+7.602562
+Total bytes processed: 304178
+Uncorrected errors: 100484
+Corrected errors: 149585
+Error rate: 0.330346
+Time: 35
+Error: 0.2
+7.607247
+Total bytes processed: 304178
+Uncorrected errors: 100873
+Corrected errors: 149637
+Error rate: 0.331625
+Time: 36
+Error: 0.201
+7.611973
+Total bytes processed: 304178
+Uncorrected errors: 101250
+Corrected errors: 149681
+Error rate: 0.332864
+Time: 36
+Error: 0.202
+7.616557
+Total bytes processed: 304178
+Uncorrected errors: 101634
+Corrected errors: 149730
+Error rate: 0.334127
+Time: 35
+Error: 0.203
+7.621384
+Total bytes processed: 304178
+Uncorrected errors: 102081
+Corrected errors: 149765
+Error rate: 0.335596
+Time: 34
+Error: 0.204
+7.626038
+Total bytes processed: 304178
+Uncorrected errors: 102520
+Corrected errors: 149747
+Error rate: 0.337039
+Time: 36
+Error: 0.205
+7.630540
+Total bytes processed: 304178
+Uncorrected errors: 102938
+Corrected errors: 149730
+Error rate: 0.338414
+Time: 34
+Error: 0.206
+7.635139
+Total bytes processed: 304178
+Uncorrected errors: 103372
+Corrected errors: 149723
+Error rate: 0.339840
+Time: 35
+Error: 0.207
+7.639661
+Total bytes processed: 304178
+Uncorrected errors: 103667
+Corrected errors: 149835
+Error rate: 0.340810
+Time: 35
+Error: 0.208
+7.644356
+Total bytes processed: 304178
+Uncorrected errors: 104099
+Corrected errors: 149828
+Error rate: 0.342231
+Time: 36
+Error: 0.209
+7.648880
+Total bytes processed: 304178
+Uncorrected errors: 104471
+Corrected errors: 149892
+Error rate: 0.343454
+Time: 36
+Error: 0.21
+7.653143
+Total bytes processed: 304178
+Uncorrected errors: 104873
+Corrected errors: 149882
+Error rate: 0.344775
+Time: 36
+Error: 0.211
+7.657509
+Total bytes processed: 304178
+Uncorrected errors: 105223
+Corrected errors: 149941
+Error rate: 0.345926
+Time: 35
+Error: 0.212
+7.661753
+Total bytes processed: 304178
+Uncorrected errors: 105681
+Corrected errors: 149880
+Error rate: 0.347431
+Time: 35
+Error: 0.213
+7.665971
+Total bytes processed: 304178
+Uncorrected errors: 106061
+Corrected errors: 149894
+Error rate: 0.348681
+Time: 36
+Error: 0.214
+7.670184
+Total bytes processed: 304178
+Uncorrected errors: 106383
+Corrected errors: 149974
+Error rate: 0.349739
+Time: 36
+Error: 0.215
+7.674177
+Total bytes processed: 304178
+Uncorrected errors: 106722
+Corrected errors: 150023
+Error rate: 0.350854
+Time: 40
+Error: 0.216
+7.678493
+Total bytes processed: 304178
+Uncorrected errors: 107069
+Corrected errors: 150091
+Error rate: 0.351995
+Time: 35
+Error: 0.217
+7.682813
+Total bytes processed: 304178
+Uncorrected errors: 107435
+Corrected errors: 150154
+Error rate: 0.353198
+Time: 36
+Error: 0.218
+7.686631
+Total bytes processed: 304178
+Uncorrected errors: 107748
+Corrected errors: 150216
+Error rate: 0.354227
+Time: 35
+Error: 0.219
+7.690584
+Total bytes processed: 304178
+Uncorrected errors: 108034
+Corrected errors: 150325
+Error rate: 0.355167
+Time: 35
+Error: 0.22
+7.694121
+Total bytes processed: 304178
+Uncorrected errors: 108309
+Corrected errors: 150389
+Error rate: 0.356071
+Time: 37
+Error: 0.221
+7.697787
+Total bytes processed: 304178
+Uncorrected errors: 108638
+Corrected errors: 150416
+Error rate: 0.357153
+Time: 37
+Error: 0.222
+7.701411
+Total bytes processed: 304178
+Uncorrected errors: 109028
+Corrected errors: 150373
+Error rate: 0.358435
+Time: 36
+Error: 0.223
+7.705064
+Total bytes processed: 304178
+Uncorrected errors: 109341
+Corrected errors: 150436
+Error rate: 0.359464
+Time: 36
+Error: 0.224
+7.708801
+Total bytes processed: 304178
+Uncorrected errors: 109649
+Corrected errors: 150504
+Error rate: 0.360476
+Time: 35
+Error: 0.225
+7.712393
+Total bytes processed: 304178
+Uncorrected errors: 110067
+Corrected errors: 150412
+Error rate: 0.361851
+Time: 37
+Error: 0.226
+7.715933
+Total bytes processed: 304178
+Uncorrected errors: 110405
+Corrected errors: 150430
+Error rate: 0.362962
+Time: 39
+Error: 0.227
+7.719548
+Total bytes processed: 304178
+Uncorrected errors: 110689
+Corrected errors: 150492
+Error rate: 0.363895
+Time: 36
+Error: 0.228
+7.723188
+Total bytes processed: 304178
+Uncorrected errors: 110991
+Corrected errors: 150578
+Error rate: 0.364888
+Time: 36
+Error: 0.229
+7.726816
+Total bytes processed: 304178
+Uncorrected errors: 111288
+Corrected errors: 150640
+Error rate: 0.365865
+Time: 36
+Error: 0.23
+7.730149
+Total bytes processed: 304178
+Uncorrected errors: 111535
+Corrected errors: 150721
+Error rate: 0.366677
+Time: 36
+Error: 0.231
+7.733649
+Total bytes processed: 304178
+Uncorrected errors: 111869
+Corrected errors: 150737
+Error rate: 0.367775
+Time: 38
+Error: 0.232
+7.736763
+Total bytes processed: 304178
+Uncorrected errors: 112090
+Corrected errors: 150832
+Error rate: 0.368501
+Time: 37
+Error: 0.233
+7.740149
+Total bytes processed: 304178
+Uncorrected errors: 112356
+Corrected errors: 150894
+Error rate: 0.369376
+Time: 37
+Error: 0.234
+7.743817
+Total bytes processed: 304178
+Uncorrected errors: 112745
+Corrected errors: 150864
+Error rate: 0.370655
+Time: 36
+Error: 0.235
+7.747233
+Total bytes processed: 304178
+Uncorrected errors: 113090
+Corrected errors: 150838
+Error rate: 0.371789
+Time: 36
+Error: 0.236
+7.750382
+Total bytes processed: 304178
+Uncorrected errors: 113440
+Corrected errors: 150793
+Error rate: 0.372940
+Time: 37
+Error: 0.237
+7.753472
+Total bytes processed: 304178
+Uncorrected errors: 113667
+Corrected errors: 150872
+Error rate: 0.373686
+Time: 38
+Error: 0.238
+7.756783
+Total bytes processed: 304178
+Uncorrected errors: 113973
+Corrected errors: 150905
+Error rate: 0.374692
+Time: 37
+Error: 0.239
+7.759983
+Total bytes processed: 304178
+Uncorrected errors: 114225
+Corrected errors: 150980
+Error rate: 0.375520
+Time: 36
+Error: 0.24
+7.763063
+Total bytes processed: 304178
+Uncorrected errors: 114425
+Corrected errors: 151125
+Error rate: 0.376178
+Time: 37
+Error: 0.241
+7.766060
+Total bytes processed: 304178
+Uncorrected errors: 114725
+Corrected errors: 151114
+Error rate: 0.377164
+Time: 38
+Error: 0.242
+7.769119
+Total bytes processed: 304178
+Uncorrected errors: 115008
+Corrected errors: 151139
+Error rate: 0.378094
+Time: 35
+Error: 0.243
+7.771986
+Total bytes processed: 304178
+Uncorrected errors: 115287
+Corrected errors: 151142
+Error rate: 0.379012
+Time: 37
+Error: 0.244
+7.774564
+Total bytes processed: 304178
+Uncorrected errors: 115511
+Corrected errors: 151181
+Error rate: 0.379748
+Time: 35
+Error: 0.245
+7.777205
+Total bytes processed: 304178
+Uncorrected errors: 115783
+Corrected errors: 151180
+Error rate: 0.380642
+Time: 39
+Error: 0.246
+7.780151
+Total bytes processed: 304178
+Uncorrected errors: 116106
+Corrected errors: 151160
+Error rate: 0.381704
+Time: 36
+Error: 0.247
+7.783119
+Total bytes processed: 304178
+Uncorrected errors: 116333
+Corrected errors: 151224
+Error rate: 0.382450
+Time: 35
+Error: 0.248
+7.785732
+Total bytes processed: 304178
+Uncorrected errors: 116582
+Corrected errors: 151238
+Error rate: 0.383269
+Time: 39
+Error: 0.249
+7.788336
+Total bytes processed: 304178
+Uncorrected errors: 116860
+Corrected errors: 151217
+Error rate: 0.384183
+Time: 39
+Error: 0.25
+7.790818
+Total bytes processed: 304178
+Uncorrected errors: 117048
+Corrected errors: 151295
+Error rate: 0.384801
+Time: 36
+Error: 0.251
+7.793647
+Total bytes processed: 304178
+Uncorrected errors: 117291
+Corrected errors: 151313
+Error rate: 0.385600
+Time: 38
+Error: 0.252
+7.796226
+Total bytes processed: 304178
+Uncorrected errors: 117506
+Corrected errors: 151347
+Error rate: 0.386307
+Time: 36
+Error: 0.253
+7.798762
+Total bytes processed: 304178
+Uncorrected errors: 117713
+Corrected errors: 151397
+Error rate: 0.386987
+Time: 36
+Error: 0.254
+7.801221
+Total bytes processed: 304178
+Uncorrected errors: 117859
+Corrected errors: 151504
+Error rate: 0.387467
+Time: 42
+Error: 0.255
+7.803614
+Total bytes processed: 304178
+Uncorrected errors: 118045
+Corrected errors: 151543
+Error rate: 0.388079
+Time: 37
+Error: 0.256
+7.806091
+Total bytes processed: 304178
+Uncorrected errors: 118236
+Corrected errors: 151615
+Error rate: 0.388707
+Time: 42
+Error: 0.257
+7.808683
+Total bytes processed: 304178
+Uncorrected errors: 118470
+Corrected errors: 151649
+Error rate: 0.389476
+Time: 38
+Error: 0.258
+7.811194
+Total bytes processed: 304178
+Uncorrected errors: 118696
+Corrected errors: 151675
+Error rate: 0.390219
+Time: 43
+Error: 0.259
+7.813461
+Total bytes processed: 304178
+Uncorrected errors: 118933
+Corrected errors: 151664
+Error rate: 0.390998
+Time: 40
+Error: 0.26
+7.815927
+Total bytes processed: 304178
+Uncorrected errors: 119187
+Corrected errors: 151652
+Error rate: 0.391833
+Time: 37
+Error: 0.261
+7.818238
+Total bytes processed: 304178
+Uncorrected errors: 119287
+Corrected errors: 151802
+Error rate: 0.392162
+Time: 38
+Error: 0.262
+7.820597
+Total bytes processed: 304178
+Uncorrected errors: 119534
+Corrected errors: 151759
+Error rate: 0.392974
+Time: 37
+Error: 0.263
+7.822878
+Total bytes processed: 304178
+Uncorrected errors: 119722
+Corrected errors: 151773
+Error rate: 0.393592
+Time: 36
+Error: 0.264
+7.825122
+Total bytes processed: 304178
+Uncorrected errors: 119919
+Corrected errors: 151829
+Error rate: 0.394240
+Time: 41
+Error: 0.265
+7.827257
+Total bytes processed: 304178
+Uncorrected errors: 120105
+Corrected errors: 151863
+Error rate: 0.394851
+Time: 37
+Error: 0.266
+7.829523
+Total bytes processed: 304178
+Uncorrected errors: 120341
+Corrected errors: 151858
+Error rate: 0.395627
+Time: 37
+Error: 0.267
+7.831736
+Total bytes processed: 304178
+Uncorrected errors: 120566
+Corrected errors: 151837
+Error rate: 0.396367
+Time: 41
+Error: 0.268
+7.833853
+Total bytes processed: 304178
+Uncorrected errors: 120783
+Corrected errors: 151829
+Error rate: 0.397080
+Time: 37
+Error: 0.269
+7.835824
+Total bytes processed: 304178
+Uncorrected errors: 121002
+Corrected errors: 151835
+Error rate: 0.397800
+Time: 48
+Error: 0.27
+7.837926
+Total bytes processed: 304178
+Uncorrected errors: 121165
+Corrected errors: 151876
+Error rate: 0.398336
+Time: 40
+Error: 0.271
+7.839865
+Total bytes processed: 304178
+Uncorrected errors: 121264
+Corrected errors: 151988
+Error rate: 0.398661
+Time: 37
+Error: 0.272
+7.841847
+Total bytes processed: 304178
+Uncorrected errors: 121428
+Corrected errors: 152008
+Error rate: 0.399200
+Time: 40
+Error: 0.273
+7.843829
+Total bytes processed: 304178
+Uncorrected errors: 121582
+Corrected errors: 152056
+Error rate: 0.399707
+Time: 37
+Error: 0.274
+7.845844
+Total bytes processed: 304178
+Uncorrected errors: 121756
+Corrected errors: 152098
+Error rate: 0.400279
+Time: 38
+Error: 0.275
+7.847757
+Total bytes processed: 304178
+Uncorrected errors: 121939
+Corrected errors: 152101
+Error rate: 0.400880
+Time: 39
+Error: 0.276
+7.849728
+Total bytes processed: 304178
+Uncorrected errors: 122163
+Corrected errors: 152069
+Error rate: 0.401617
+Time: 37
+Error: 0.277
+7.851584
+Total bytes processed: 304178
+Uncorrected errors: 122351
+Corrected errors: 152096
+Error rate: 0.402235
+Time: 36
+Error: 0.278
+7.853528
+Total bytes processed: 304178
+Uncorrected errors: 122532
+Corrected errors: 152113
+Error rate: 0.402830
+Time: 37
+Error: 0.279
+7.855414
+Total bytes processed: 304178
+Uncorrected errors: 122699
+Corrected errors: 152130
+Error rate: 0.403379
+Time: 37
+Error: 0.28
+7.857297
+Total bytes processed: 304178
+Uncorrected errors: 122902
+Corrected errors: 152131
+Error rate: 0.404046
+Time: 39
+Error: 0.281
+7.859259
+Total bytes processed: 304178
+Uncorrected errors: 123123
+Corrected errors: 152114
+Error rate: 0.404773
+Time: 38
+Error: 0.282
+7.861208
+Total bytes processed: 304178
+Uncorrected errors: 123295
+Corrected errors: 152128
+Error rate: 0.405338
+Time: 37
+Error: 0.283
+7.862984
+Total bytes processed: 304178
+Uncorrected errors: 123415
+Corrected errors: 152190
+Error rate: 0.405733
+Time: 38
+Error: 0.284
+7.864858
+Total bytes processed: 304178
+Uncorrected errors: 123604
+Corrected errors: 152186
+Error rate: 0.406354
+Time: 38
+Error: 0.285
+7.866607
+Total bytes processed: 304178
+Uncorrected errors: 123773
+Corrected errors: 152203
+Error rate: 0.406910
+Time: 38
+Error: 0.286
+7.868295
+Total bytes processed: 304178
+Uncorrected errors: 124028
+Corrected errors: 152123
+Error rate: 0.407748
+Time: 39
+Error: 0.287
+7.870085
+Total bytes processed: 304178
+Uncorrected errors: 124248
+Corrected errors: 152138
+Error rate: 0.408471
+Time: 37
+Error: 0.288
+7.871727
+Total bytes processed: 304178
+Uncorrected errors: 124376
+Corrected errors: 152163
+Error rate: 0.408892
+Time: 41
+Error: 0.289
+7.873436
+Total bytes processed: 304178
+Uncorrected errors: 124523
+Corrected errors: 152179
+Error rate: 0.409375
+Time: 37
+Error: 0.29
+7.875074
+Total bytes processed: 304178
+Uncorrected errors: 124713
+Corrected errors: 152143
+Error rate: 0.410000
+Time: 41
+Error: 0.291
+7.876763
+Total bytes processed: 304178
+Uncorrected errors: 124878
+Corrected errors: 152151
+Error rate: 0.410543
+Time: 37
+Error: 0.292
+7.878252
+Total bytes processed: 304178
+Uncorrected errors: 124990
+Corrected errors: 152194
+Error rate: 0.410911
+Time: 37
+Error: 0.293
+7.879824
+Total bytes processed: 304178
+Uncorrected errors: 125173
+Corrected errors: 152144
+Error rate: 0.411512
+Time: 40
+Error: 0.294
+7.881522
+Total bytes processed: 304178
+Uncorrected errors: 125284
+Corrected errors: 152180
+Error rate: 0.411877
+Time: 39
+Error: 0.295
+7.883143
+Total bytes processed: 304178
+Uncorrected errors: 125341
+Corrected errors: 152281
+Error rate: 0.412065
+Time: 40
+Error: 0.296
+7.884667
+Total bytes processed: 304178
+Uncorrected errors: 125513
+Corrected errors: 152234
+Error rate: 0.412630
+Time: 37
+Error: 0.297
+7.886156
+Total bytes processed: 304178
+Uncorrected errors: 125542
+Corrected errors: 152334
+Error rate: 0.412725
+Time: 37
+Error: 0.298
+7.887696
+Total bytes processed: 304178
+Uncorrected errors: 125643
+Corrected errors: 152380
+Error rate: 0.413057
+Time: 39
+Error: 0.299
+7.889233
+Total bytes processed: 304178
+Uncorrected errors: 125873
+Corrected errors: 152276
+Error rate: 0.413814
+Time: 37
+Error: 0.3
+7.890761
+Total bytes processed: 304178
+Uncorrected errors: 126059
+Corrected errors: 152218
+Error rate: 0.414425
+Time: 38
+Error: 0.301
+7.892252
+Total bytes processed: 304178
+Uncorrected errors: 126189
+Corrected errors: 152217
+Error rate: 0.414852
+Time: 45
+Error: 0.302
+7.893792
+Total bytes processed: 304178
+Uncorrected errors: 126381
+Corrected errors: 152164
+Error rate: 0.415484
+Time: 38
+Error: 0.303
+7.895232
+Total bytes processed: 304178
+Uncorrected errors: 126456
+Corrected errors: 152219
+Error rate: 0.415730
+Time: 59
+Error: 0.304
+7.896573
+Total bytes processed: 304178
+Uncorrected errors: 126636
+Corrected errors: 152207
+Error rate: 0.416322
+Time: 38
+Error: 0.305
+7.898004
+Total bytes processed: 304178
+Uncorrected errors: 126802
+Corrected errors: 152175
+Error rate: 0.416868
+Time: 41
+Error: 0.306
+7.899310
+Total bytes processed: 304178
+Uncorrected errors: 126910
+Corrected errors: 152203
+Error rate: 0.417223
+Time: 40
+Error: 0.307
+7.900655
+Total bytes processed: 304178
+Uncorrected errors: 127011
+Corrected errors: 152226
+Error rate: 0.417555
+Time: 39
+Error: 0.308
+7.901964
+Total bytes processed: 304178
+Uncorrected errors: 127119
+Corrected errors: 152224
+Error rate: 0.417910
+Time: 39
+Error: 0.309
+7.903277
+Total bytes processed: 304178
+Uncorrected errors: 127218
+Corrected errors: 152278
+Error rate: 0.418235
+Time: 39
+Error: 0.31
+7.904578
+Total bytes processed: 304178
+Uncorrected errors: 127348
+Corrected errors: 152263
+Error rate: 0.418663
+Time: 41
+Error: 0.311
+7.906019
+Total bytes processed: 304178
+Uncorrected errors: 127486
+Corrected errors: 152239
+Error rate: 0.419116
+Time: 39
+Error: 0.312
+7.907338
+Total bytes processed: 304178
+Uncorrected errors: 127532
+Corrected errors: 152324
+Error rate: 0.419268
+Time: 39
+Error: 0.313
+7.908585
+Total bytes processed: 304178
+Uncorrected errors: 127702
+Corrected errors: 152292
+Error rate: 0.419827
+Time: 40
+Error: 0.314
+7.909699
+Total bytes processed: 304178
+Uncorrected errors: 127821
+Corrected errors: 152270
+Error rate: 0.420218
+Time: 39
+Error: 0.315
+7.910970
+Total bytes processed: 304178
+Uncorrected errors: 127939
+Corrected errors: 152249
+Error rate: 0.420606
+Time: 41
+Error: 0.316
+7.912142
+Total bytes processed: 304178
+Uncorrected errors: 128047
+Corrected errors: 152246
+Error rate: 0.420961
+Time: 39
+Error: 0.317
+7.913383
+Total bytes processed: 304178
+Uncorrected errors: 128134
+Corrected errors: 152280
+Error rate: 0.421247
+Time: 40
+Error: 0.318
+7.914492
+Total bytes processed: 304178
+Uncorrected errors: 128218
+Corrected errors: 152288
+Error rate: 0.421523
+Time: 39
+Error: 0.319
+7.915748
+Total bytes processed: 304178
+Uncorrected errors: 128364
+Corrected errors: 152253
+Error rate: 0.422003
+Time: 39
+Error: 0.32
+7.916849
+Total bytes processed: 304178
+Uncorrected errors: 128470
+Corrected errors: 152262
+Error rate: 0.422351
+Time: 39
+Error: 0.321
+7.917875
+Total bytes processed: 304178
+Uncorrected errors: 128555
+Corrected errors: 152236
+Error rate: 0.422631
+Time: 40
+Error: 0.322
+7.918974
+Total bytes processed: 304178
+Uncorrected errors: 128671
+Corrected errors: 152252
+Error rate: 0.423012
+Time: 39
+Error: 0.323
+7.920090
+Total bytes processed: 304178
+Uncorrected errors: 128752
+Corrected errors: 152255
+Error rate: 0.423278
+Time: 39
+Error: 0.324
+7.921107
+Total bytes processed: 304178
+Uncorrected errors: 128776
+Corrected errors: 152348
+Error rate: 0.423357
+Time: 47
+Error: 0.325
+7.922214
+Total bytes processed: 304178
+Uncorrected errors: 128886
+Corrected errors: 152337
+Error rate: 0.423719
+Time: 39
+Error: 0.326
+7.923275
+Total bytes processed: 304178
+Uncorrected errors: 129013
+Corrected errors: 152305
+Error rate: 0.424137
+Time: 40
+Error: 0.327
+7.924401
+Total bytes processed: 304178
+Uncorrected errors: 129011
+Corrected errors: 152416
+Error rate: 0.424130
+Time: 49
+Error: 0.328
+7.925522
+Total bytes processed: 304178
+Uncorrected errors: 129097
+Corrected errors: 152429
+Error rate: 0.424413
+Time: 40
+Error: 0.329
+7.926551
+Total bytes processed: 304178
+Uncorrected errors: 129232
+Corrected errors: 152352
+Error rate: 0.424856
+Time: 41
+Error: 0.33
+7.927691
+Total bytes processed: 304178
+Uncorrected errors: 129318
+Corrected errors: 152378
+Error rate: 0.425139
+Time: 42
+Error: 0.331
+7.928840
+Total bytes processed: 304178
+Uncorrected errors: 129298
+Corrected errors: 152477
+Error rate: 0.425073
+Time: 41
+Error: 0.332
+7.929876
+Total bytes processed: 304178
+Uncorrected errors: 129461
+Corrected errors: 152388
+Error rate: 0.425609
+Time: 41
+Error: 0.333
+7.930894
+Total bytes processed: 304178
+Uncorrected errors: 129545
+Corrected errors: 152380
+Error rate: 0.425886
+Time: 42
+Error: 0.334
+7.931912
+Total bytes processed: 304178
+Uncorrected errors: 129657
+Corrected errors: 152350
+Error rate: 0.426254
+Time: 41
+Error: 0.335
+7.932839
+Total bytes processed: 304178
+Uncorrected errors: 129765
+Corrected errors: 152331
+Error rate: 0.426609
+Time: 45
+Error: 0.336
+7.933830
+Total bytes processed: 304178
+Uncorrected errors: 129880
+Corrected errors: 152289
+Error rate: 0.426987
+Time: 40
+Error: 0.337
+7.934786
+Total bytes processed: 304178
+Uncorrected errors: 129934
+Corrected errors: 152282
+Error rate: 0.427164
+Time: 42
+Error: 0.338
+7.935727
+Total bytes processed: 304178
+Uncorrected errors: 129970
+Corrected errors: 152334
+Error rate: 0.427283
+Time: 40
+Error: 0.339
+7.936604
+Total bytes processed: 304178
+Uncorrected errors: 129912
+Corrected errors: 152458
+Error rate: 0.427092
+Time: 42
+Error: 0.34
+7.937493
+Total bytes processed: 304178
+Uncorrected errors: 130041
+Corrected errors: 152425
+Error rate: 0.427516
+Time: 40
+Error: 0.341
+7.938478
+Total bytes processed: 304178
+Uncorrected errors: 130118
+Corrected errors: 152410
+Error rate: 0.427769
+Time: 42
+Error: 0.342
+7.939418
+Total bytes processed: 304178
+Uncorrected errors: 130175
+Corrected errors: 152381
+Error rate: 0.427957
+Time: 42
+Error: 0.343
+7.940189
+Total bytes processed: 304178
+Uncorrected errors: 130280
+Corrected errors: 152359
+Error rate: 0.428302
+Time: 44
+Error: 0.344
+7.941167
+Total bytes processed: 304178
+Uncorrected errors: 130354
+Corrected errors: 152384
+Error rate: 0.428545
+Time: 40
+Error: 0.345
+7.942127
+Total bytes processed: 304178
+Uncorrected errors: 130470
+Corrected errors: 152325
+Error rate: 0.428926
+Time: 45
+Error: 0.346
+7.942954
+Total bytes processed: 304178
+Uncorrected errors: 130521
+Corrected errors: 152324
+Error rate: 0.429094
+Time: 39
+Error: 0.347
+7.943891
+Total bytes processed: 304178
+Uncorrected errors: 130660
+Corrected errors: 152255
+Error rate: 0.429551
+Time: 43
+Error: 0.348
+7.944639
+Total bytes processed: 304178
+Uncorrected errors: 130772
+Corrected errors: 152166
+Error rate: 0.429919
+Time: 40
+Error: 0.349
+7.945399
+Total bytes processed: 304178
+Uncorrected errors: 130815
+Corrected errors: 152175
+Error rate: 0.430061
+Time: 39
+Error: 0.35
+7.946177
+Total bytes processed: 304178
+Uncorrected errors: 130881
+Corrected errors: 152151
+Error rate: 0.430278
+Time: 42
+Error: 0.351
+7.946919
+Total bytes processed: 304178
+Uncorrected errors: 130966
+Corrected errors: 152123
+Error rate: 0.430557
+Time: 40
+Error: 0.352
+7.947710
+Total bytes processed: 304178
+Uncorrected errors: 131032
+Corrected errors: 152083
+Error rate: 0.430774
+Time: 40
+Error: 0.353
+7.948502
+Total bytes processed: 304178
+Uncorrected errors: 131157
+Corrected errors: 152024
+Error rate: 0.431185
+Time: 40
+Error: 0.354
+7.949274
+Total bytes processed: 304178
+Uncorrected errors: 131198
+Corrected errors: 152030
+Error rate: 0.431320
+Time: 41
+Error: 0.355
+7.950136
+Total bytes processed: 304178
+Uncorrected errors: 131251
+Corrected errors: 152056
+Error rate: 0.431494
+Time: 46
+Error: 0.356
+7.950909
+Total bytes processed: 304178
+Uncorrected errors: 131328
+Corrected errors: 152052
+Error rate: 0.431747
+Time: 41
+Error: 0.357
+7.951605
+Total bytes processed: 304178
+Uncorrected errors: 131391
+Corrected errors: 152021
+Error rate: 0.431954
+Time: 39
+Error: 0.358
+7.952308
+Total bytes processed: 304178
+Uncorrected errors: 131393
+Corrected errors: 152036
+Error rate: 0.431961
+Time: 39
+Error: 0.359
+7.953068
+Total bytes processed: 304178
+Uncorrected errors: 131489
+Corrected errors: 151954
+Error rate: 0.432276
+Time: 42
+Error: 0.36
+7.953753
+Total bytes processed: 304178
+Uncorrected errors: 131508
+Corrected errors: 151980
+Error rate: 0.432339
+Time: 43
+Error: 0.361
+7.954512
+Total bytes processed: 304178
+Uncorrected errors: 131618
+Corrected errors: 151912
+Error rate: 0.432701
+Time: 41
+Error: 0.362
+7.955201
+Total bytes processed: 304178
+Uncorrected errors: 131680
+Corrected errors: 151896
+Error rate: 0.432904
+Time: 41
+Error: 0.363
+7.955937
+Total bytes processed: 304178
+Uncorrected errors: 131789
+Corrected errors: 151834
+Error rate: 0.433263
+Time: 43
+Error: 0.364
+7.956678
+Total bytes processed: 304178
+Uncorrected errors: 131822
+Corrected errors: 151862
+Error rate: 0.433371
+Time: 44
+Error: 0.365
+7.957418
+Total bytes processed: 304178
+Uncorrected errors: 131818
+Corrected errors: 151889
+Error rate: 0.433358
+Time: 42
+Error: 0.366
+7.958123
+Total bytes processed: 304178
+Uncorrected errors: 131801
+Corrected errors: 151948
+Error rate: 0.433302
+Time: 43
+Error: 0.367
+7.958833
+Total bytes processed: 304178
+Uncorrected errors: 131760
+Corrected errors: 152013
+Error rate: 0.433167
+Time: 42
+Error: 0.368
+7.959556
+Total bytes processed: 304178
+Uncorrected errors: 131797
+Corrected errors: 151992
+Error rate: 0.433289
+Time: 41
+Error: 0.369
+7.960155
+Total bytes processed: 304178
+Uncorrected errors: 131793
+Corrected errors: 152055
+Error rate: 0.433276
+Time: 41
+Error: 0.37
+7.960931
+Total bytes processed: 304178
+Uncorrected errors: 131835
+Corrected errors: 152068
+Error rate: 0.433414
+Time: 41
+Error: 0.371
+7.961562
+Total bytes processed: 304178
+Uncorrected errors: 131861
+Corrected errors: 152045
+Error rate: 0.433499
+Time: 43
+Error: 0.372
+7.962165
+Total bytes processed: 304178
+Uncorrected errors: 132000
+Corrected errors: 151947
+Error rate: 0.433956
+Time: 40
+Error: 0.373
+7.962786
+Total bytes processed: 304178
+Uncorrected errors: 132023
+Corrected errors: 151952
+Error rate: 0.434032
+Time: 42
+Error: 0.374
+7.963383
+Total bytes processed: 304178
+Uncorrected errors: 132013
+Corrected errors: 152031
+Error rate: 0.433999
+Time: 41
+Error: 0.375
+7.964039
+Total bytes processed: 304178
+Uncorrected errors: 131950
+Corrected errors: 152133
+Error rate: 0.433792
+Time: 42
+Error: 0.376
+7.964601
+Total bytes processed: 304178
+Uncorrected errors: 131978
+Corrected errors: 152108
+Error rate: 0.433884
+Time: 45
+Error: 0.377
+7.965154
+Total bytes processed: 304178
+Uncorrected errors: 131946
+Corrected errors: 152167
+Error rate: 0.433779
+Time: 43
+Error: 0.378
+7.965775
+Total bytes processed: 304178
+Uncorrected errors: 132003
+Corrected errors: 152126
+Error rate: 0.433966
+Time: 42
+Error: 0.379
+7.966300
+Total bytes processed: 304178
+Uncorrected errors: 132052
+Corrected errors: 152119
+Error rate: 0.434127
+Time: 41
+Error: 0.38
+7.966858
+Total bytes processed: 304178
+Uncorrected errors: 132072
+Corrected errors: 152131
+Error rate: 0.434193
+Time: 43
+Error: 0.381
+7.967476
+Total bytes processed: 304178
+Uncorrected errors: 132058
+Corrected errors: 152162
+Error rate: 0.434147
+Time: 43
+Error: 0.382
+7.967964
+Total bytes processed: 304178
+Uncorrected errors: 132050
+Corrected errors: 152201
+Error rate: 0.434121
+Time: 41
+Error: 0.383
+7.968513
+Total bytes processed: 304178
+Uncorrected errors: 132114
+Corrected errors: 152186
+Error rate: 0.434331
+Time: 43
+Error: 0.384
+7.969051
+Total bytes processed: 304178
+Uncorrected errors: 132139
+Corrected errors: 152220
+Error rate: 0.434413
+Time: 43
+Error: 0.385
+7.969647
+Total bytes processed: 304178
+Uncorrected errors: 132182
+Corrected errors: 152177
+Error rate: 0.434555
+Time: 43
+Error: 0.386
+7.970240
+Total bytes processed: 304178
+Uncorrected errors: 132293
+Corrected errors: 152074
+Error rate: 0.434920
+Time: 44
+Error: 0.387
+7.970759
+Total bytes processed: 304178
+Uncorrected errors: 132351
+Corrected errors: 152039
+Error rate: 0.435110
+Time: 41
+Error: 0.388
+7.971235
+Total bytes processed: 304178
+Uncorrected errors: 132314
+Corrected errors: 152101
+Error rate: 0.434989
+Time: 49
+Error: 0.389
+7.971784
+Total bytes processed: 304178
+Uncorrected errors: 132354
+Corrected errors: 152073
+Error rate: 0.435120
+Time: 42
+Error: 0.39
+7.972307
+Total bytes processed: 304178
+Uncorrected errors: 132356
+Corrected errors: 152091
+Error rate: 0.435127
+Time: 42
+Error: 0.391
+7.972826
+Total bytes processed: 304178
+Uncorrected errors: 132470
+Corrected errors: 152021
+Error rate: 0.435502
+Time: 41
+Error: 0.392
+7.973382
+Total bytes processed: 304178
+Uncorrected errors: 132598
+Corrected errors: 151902
+Error rate: 0.435922
+Time: 42
+Error: 0.393
+7.973892
+Total bytes processed: 304178
+Uncorrected errors: 132657
+Corrected errors: 151860
+Error rate: 0.436116
+Time: 42
+Error: 0.394
+7.974382
+Total bytes processed: 304178
+Uncorrected errors: 132697
+Corrected errors: 151871
+Error rate: 0.436248
+Time: 43
+Error: 0.395
+7.974882
+Total bytes processed: 304178
+Uncorrected errors: 132692
+Corrected errors: 151885
+Error rate: 0.436231
+Time: 44
+Error: 0.396
+7.975361
+Total bytes processed: 304178
+Uncorrected errors: 132677
+Corrected errors: 151906
+Error rate: 0.436182
+Time: 43
+Error: 0.397
+7.975876
+Total bytes processed: 304178
+Uncorrected errors: 132739
+Corrected errors: 151853
+Error rate: 0.436386
+Time: 43
+Error: 0.398
+7.976328
+Total bytes processed: 304178
+Uncorrected errors: 132787
+Corrected errors: 151825
+Error rate: 0.436544
+Time: 42
+Error: 0.399
+7.976772
+Total bytes processed: 304178
+Uncorrected errors: 132753
+Corrected errors: 151848
+Error rate: 0.436432
+Time: 43
+Error: 0.4
+7.977183
+Total bytes processed: 304178
+Uncorrected errors: 132790
+Corrected errors: 151834
+Error rate: 0.436554
+Time: 43
+Error: 0.401
+7.977648
+Total bytes processed: 304178
+Uncorrected errors: 132795
+Corrected errors: 151857
+Error rate: 0.436570
+Time: 43
+Error: 0.402
+7.978137
+Total bytes processed: 304178
+Uncorrected errors: 132813
+Corrected errors: 151852
+Error rate: 0.436629
+Time: 46
+Error: 0.403
+7.978567
+Total bytes processed: 304178
+Uncorrected errors: 132903
+Corrected errors: 151773
+Error rate: 0.436925
+Time: 44
+Error: 0.404
+7.979009
+Total bytes processed: 304178
+Uncorrected errors: 132899
+Corrected errors: 151807
+Error rate: 0.436912
+Time: 42
+Error: 0.405
+7.979431
+Total bytes processed: 304178
+Uncorrected errors: 132839
+Corrected errors: 151904
+Error rate: 0.436715
+Time: 43
+Error: 0.406
+7.979852
+Total bytes processed: 304178
+Uncorrected errors: 132795
+Corrected errors: 151961
+Error rate: 0.436570
+Time: 44
+Error: 0.407
+7.980292
+Total bytes processed: 304178
+Uncorrected errors: 132780
+Corrected errors: 151997
+Error rate: 0.436521
+Time: 43
+Error: 0.408
+7.980701
+Total bytes processed: 304178
+Uncorrected errors: 132779
+Corrected errors: 152035
+Error rate: 0.436517
+Time: 43
+Error: 0.409
+7.981099
+Total bytes processed: 304178
+Uncorrected errors: 132799
+Corrected errors: 152027
+Error rate: 0.436583
+Time: 44
+Error: 0.41
+7.981533
+Total bytes processed: 304178
+Uncorrected errors: 132790
+Corrected errors: 152021
+Error rate: 0.436554
+Time: 43
+Error: 0.411
+7.981942
+Total bytes processed: 304178
+Uncorrected errors: 132766
+Corrected errors: 152087
+Error rate: 0.436475
+Time: 45
+Error: 0.412
+7.982310
+Total bytes processed: 304178
+Uncorrected errors: 132769
+Corrected errors: 152116
+Error rate: 0.436485
+Time: 44
+Error: 0.413
+7.982695
+Total bytes processed: 304178
+Uncorrected errors: 132862
+Corrected errors: 152035
+Error rate: 0.436790
+Time: 41
+Error: 0.414
+7.983075
+Total bytes processed: 304178
+Uncorrected errors: 132827
+Corrected errors: 152090
+Error rate: 0.436675
+Time: 43
+Error: 0.415
+7.983441
+Total bytes processed: 304178
+Uncorrected errors: 132846
+Corrected errors: 152076
+Error rate: 0.436738
+Time: 44
+Error: 0.416
+7.983818
+Total bytes processed: 304178
+Uncorrected errors: 132849
+Corrected errors: 152092
+Error rate: 0.436748
+Time: 49
+Error: 0.417
+7.984206
+Total bytes processed: 304178
+Uncorrected errors: 132873
+Corrected errors: 152053
+Error rate: 0.436826
+Time: 43
+Error: 0.418
+7.984593
+Total bytes processed: 304178
+Uncorrected errors: 132939
+Corrected errors: 151983
+Error rate: 0.437043
+Time: 43
+Error: 0.419
+7.984946
+Total bytes processed: 304178
+Uncorrected errors: 132897
+Corrected errors: 152039
+Error rate: 0.436905
+Time: 44
+Error: 0.42
+7.985281
+Total bytes processed: 304178
+Uncorrected errors: 132850
+Corrected errors: 152100
+Error rate: 0.436751
+Time: 44
+Error: 0.421
+7.985614
+Total bytes processed: 304178
+Uncorrected errors: 132899
+Corrected errors: 152026
+Error rate: 0.436912
+Time: 45
+Error: 0.422
+7.985979
+Total bytes processed: 304178
+Uncorrected errors: 132915
+Corrected errors: 152030
+Error rate: 0.436965
+Time: 42
+Error: 0.423
+7.986347
+Total bytes processed: 304178
+Uncorrected errors: 133074
+Corrected errors: 151859
+Error rate: 0.437487
+Time: 43
+Error: 0.424
+7.986718
+Total bytes processed: 304178
+Uncorrected errors: 133035
+Corrected errors: 151931
+Error rate: 0.437359
+Time: 42
+Error: 0.425
+7.987053
+Total bytes processed: 304178
+Uncorrected errors: 133067
+Corrected errors: 151901
+Error rate: 0.437464
+Time: 47
+Error: 0.426
+7.987387
+Total bytes processed: 304178
+Uncorrected errors: 133144
+Corrected errors: 151823
+Error rate: 0.437717
+Time: 42
+Error: 0.427
+7.987702
+Total bytes processed: 304178
+Uncorrected errors: 133133
+Corrected errors: 151847
+Error rate: 0.437681
+Time: 43
+Error: 0.428
+7.987976
+Total bytes processed: 304178
+Uncorrected errors: 133112
+Corrected errors: 151883
+Error rate: 0.437612
+Time: 44
+Error: 0.429
+7.988250
+Total bytes processed: 304178
+Uncorrected errors: 133098
+Corrected errors: 151891
+Error rate: 0.437566
+Time: 51
+Error: 0.43
+7.988602
+Total bytes processed: 304178
+Uncorrected errors: 133101
+Corrected errors: 151903
+Error rate: 0.437576
+Time: 52
+Error: 0.431
+7.988956
+Total bytes processed: 304178
+Uncorrected errors: 133052
+Corrected errors: 151943
+Error rate: 0.437415
+Time: 44
+Error: 0.432
+7.989268
+Total bytes processed: 304178
+Uncorrected errors: 133094
+Corrected errors: 151949
+Error rate: 0.437553
+Time: 44
+Error: 0.433
+7.989549
+Total bytes processed: 304178
+Uncorrected errors: 133026
+Corrected errors: 152050
+Error rate: 0.437329
+Time: 43
+Error: 0.434
+7.989822
+Total bytes processed: 304178
+Uncorrected errors: 133095
+Corrected errors: 151988
+Error rate: 0.437556
+Time: 45
+Error: 0.435
+7.990105
+Total bytes processed: 304178
+Uncorrected errors: 133107
+Corrected errors: 151942
+Error rate: 0.437596
+Time: 43
+Error: 0.436
+7.990387
+Total bytes processed: 304178
+Uncorrected errors: 133123
+Corrected errors: 151936
+Error rate: 0.437648
+Time: 46
+Error: 0.437
+7.990627
+Total bytes processed: 304178
+Uncorrected errors: 133094
+Corrected errors: 151946
+Error rate: 0.437553
+Time: 45
+Error: 0.438
+7.990850
+Total bytes processed: 304178
+Uncorrected errors: 133098
+Corrected errors: 151912
+Error rate: 0.437566
+Time: 44
+Error: 0.439
+7.991083
+Total bytes processed: 304178
+Uncorrected errors: 133181
+Corrected errors: 151822
+Error rate: 0.437839
+Time: 44
+Error: 0.44
+7.991362
+Total bytes processed: 304178
+Uncorrected errors: 133200
+Corrected errors: 151804
+Error rate: 0.437901
+Time: 45
+Error: 0.441
+7.991611
+Total bytes processed: 304178
+Uncorrected errors: 133269
+Corrected errors: 151738
+Error rate: 0.438128
+Time: 46
+Error: 0.442
+7.991852
+Total bytes processed: 304178
+Uncorrected errors: 133324
+Corrected errors: 151721
+Error rate: 0.438309
+Time: 44
+Error: 0.443
+7.992093
+Total bytes processed: 304178
+Uncorrected errors: 133336
+Corrected errors: 151709
+Error rate: 0.438349
+Time: 44
+Error: 0.444
+7.992346
+Total bytes processed: 304178
+Uncorrected errors: 133334
+Corrected errors: 151696
+Error rate: 0.438342
+Time: 45
+Error: 0.445
+7.992596
+Total bytes processed: 304178
+Uncorrected errors: 133306
+Corrected errors: 151720
+Error rate: 0.438250
+Time: 43
+Error: 0.446
+7.992826
+Total bytes processed: 304178
+Uncorrected errors: 133304
+Corrected errors: 151702
+Error rate: 0.438243
+Time: 44
+Error: 0.447
+7.993084
+Total bytes processed: 304178
+Uncorrected errors: 133273
+Corrected errors: 151754
+Error rate: 0.438141
+Time: 44
+Error: 0.448
+7.993323
+Total bytes processed: 304178
+Uncorrected errors: 133261
+Corrected errors: 151755
+Error rate: 0.438102
+Time: 47
+Error: 0.449
+7.993548
+Total bytes processed: 304178
+Uncorrected errors: 133287
+Corrected errors: 151742
+Error rate: 0.438188
+Time: 44
+Error: 0.45
+7.993751
+Total bytes processed: 304178
+Uncorrected errors: 133253
+Corrected errors: 151810
+Error rate: 0.438076
+Time: 43
+Error: 0.451
+7.993966
+Total bytes processed: 304178
+Uncorrected errors: 133225
+Corrected errors: 151875
+Error rate: 0.437984
+Time: 45
+Error: 0.452
+7.994187
+Total bytes processed: 304178
+Uncorrected errors: 133288
+Corrected errors: 151796
+Error rate: 0.438191
+Time: 45
+Error: 0.453
+7.994393
+Total bytes processed: 304178
+Uncorrected errors: 133283
+Corrected errors: 151801
+Error rate: 0.438174
+Time: 44
+Error: 0.454
+7.994576
+Total bytes processed: 304178
+Uncorrected errors: 133284
+Corrected errors: 151808
+Error rate: 0.438178
+Time: 44
+Error: 0.455
+7.994783
+Total bytes processed: 304178
+Uncorrected errors: 133238
+Corrected errors: 151829
+Error rate: 0.438026
+Time: 45
+Error: 0.456
+7.994970
+Total bytes processed: 304178
+Uncorrected errors: 133205
+Corrected errors: 151851
+Error rate: 0.437918
+Time: 47
+Error: 0.457
+7.995170
+Total bytes processed: 304178
+Uncorrected errors: 133218
+Corrected errors: 151873
+Error rate: 0.437961
+Time: 44
+Error: 0.458
+7.995344
+Total bytes processed: 304178
+Uncorrected errors: 133186
+Corrected errors: 151929
+Error rate: 0.437855
+Time: 46
+Error: 0.459
+7.995515
+Total bytes processed: 304178
+Uncorrected errors: 133092
+Corrected errors: 152044
+Error rate: 0.437546
+Time: 44
+Error: 0.46
+7.995670
+Total bytes processed: 304178
+Uncorrected errors: 132995
+Corrected errors: 152140
+Error rate: 0.437228
+Time: 47
+Error: 0.461
+7.995835
+Total bytes processed: 304178
+Uncorrected errors: 133041
+Corrected errors: 152080
+Error rate: 0.437379
+Time: 48
+Error: 0.462
+7.996006
+Total bytes processed: 304178
+Uncorrected errors: 133076
+Corrected errors: 152047
+Error rate: 0.437494
+Time: 43
+Error: 0.463
+7.996173
+Total bytes processed: 304178
+Uncorrected errors: 133061
+Corrected errors: 152047
+Error rate: 0.437445
+Time: 44
+Error: 0.464
+7.996324
+Total bytes processed: 304178
+Uncorrected errors: 133063
+Corrected errors: 152031
+Error rate: 0.437451
+Time: 48
+Error: 0.465
+7.996490
+Total bytes processed: 304178
+Uncorrected errors: 133084
+Corrected errors: 151997
+Error rate: 0.437520
+Time: 44
+Error: 0.466
+7.996641
+Total bytes processed: 304178
+Uncorrected errors: 133123
+Corrected errors: 151954
+Error rate: 0.437648
+Time: 47
+Error: 0.467
+7.996789
+Total bytes processed: 304178
+Uncorrected errors: 133123
+Corrected errors: 151987
+Error rate: 0.437648
+Time: 49
+Error: 0.468
+7.996966
+Total bytes processed: 304178
+Uncorrected errors: 133195
+Corrected errors: 151908
+Error rate: 0.437885
+Time: 44
+Error: 0.469
+7.997083
+Total bytes processed: 304178
+Uncorrected errors: 133236
+Corrected errors: 151910
+Error rate: 0.438020
+Time: 44
+Error: 0.47
+7.997219
+Total bytes processed: 304178
+Uncorrected errors: 133234
+Corrected errors: 151903
+Error rate: 0.438013
+Time: 53
+Error: 0.471
+7.997355
+Total bytes processed: 304178
+Uncorrected errors: 133184
+Corrected errors: 151962
+Error rate: 0.437849
+Time: 45
+Error: 0.472
+7.997487
+Total bytes processed: 304178
+Uncorrected errors: 133139
+Corrected errors: 152000
+Error rate: 0.437701
+Time: 45
+Error: 0.473
+7.997611
+Total bytes processed: 304178
+Uncorrected errors: 133155
+Corrected errors: 151940
+Error rate: 0.437754
+Time: 45
+Error: 0.474
+7.997747
+Total bytes processed: 304178
+Uncorrected errors: 133141
+Corrected errors: 151960
+Error rate: 0.437708
+Time: 45
+Error: 0.475
+7.997860
+Total bytes processed: 304178
+Uncorrected errors: 133144
+Corrected errors: 151948
+Error rate: 0.437717
+Time: 45
+Error: 0.476
+7.997984
+Total bytes processed: 304178
+Uncorrected errors: 133075
+Corrected errors: 152009
+Error rate: 0.437491
+Time: 44
+Error: 0.477
+7.998081
+Total bytes processed: 304178
+Uncorrected errors: 133033
+Corrected errors: 152038
+Error rate: 0.437352
+Time: 45
+Error: 0.478
+7.998178
+Total bytes processed: 304178
+Uncorrected errors: 132992
+Corrected errors: 152084
+Error rate: 0.437218
+Time: 45
+Error: 0.479
+7.998281
+Total bytes processed: 304178
+Uncorrected errors: 132995
+Corrected errors: 152056
+Error rate: 0.437228
+Time: 46
+Error: 0.48
+7.998377
+Total bytes processed: 304178
+Uncorrected errors: 133068
+Corrected errors: 152005
+Error rate: 0.437468
+Time: 45
+Error: 0.481
+7.998464
+Total bytes processed: 304178
+Uncorrected errors: 133096
+Corrected errors: 151975
+Error rate: 0.437560
+Time: 44
+Error: 0.482
+7.998564
+Total bytes processed: 304178
+Uncorrected errors: 133086
+Corrected errors: 151976
+Error rate: 0.437527
+Time: 44
+Error: 0.483
+7.998637
+Total bytes processed: 304178
+Uncorrected errors: 132974
+Corrected errors: 152092
+Error rate: 0.437159
+Time: 43
+Error: 0.484
+7.998703
+Total bytes processed: 304178
+Uncorrected errors: 133018
+Corrected errors: 152059
+Error rate: 0.437303
+Time: 46
+Error: 0.485
+7.998778
+Total bytes processed: 304178
+Uncorrected errors: 133055
+Corrected errors: 152009
+Error rate: 0.437425
+Time: 44
+Error: 0.486
+7.998850
+Total bytes processed: 304178
+Uncorrected errors: 133024
+Corrected errors: 152058
+Error rate: 0.437323
+Time: 44
+Error: 0.487
+7.998909
+Total bytes processed: 304178
+Uncorrected errors: 133016
+Corrected errors: 152062
+Error rate: 0.437297
+Time: 44
+Error: 0.488
+7.998967
+Total bytes processed: 304178
+Uncorrected errors: 132977
+Corrected errors: 152117
+Error rate: 0.437168
+Time: 43
+Error: 0.489
+7.999010
+Total bytes processed: 304178
+Uncorrected errors: 132993
+Corrected errors: 152115
+Error rate: 0.437221
+Time: 46
+Error: 0.49
+7.999054
+Total bytes processed: 304178
+Uncorrected errors: 132939
+Corrected errors: 152169
+Error rate: 0.437043
+Time: 46
+Error: 0.491
+7.999113
+Total bytes processed: 304178
+Uncorrected errors: 132964
+Corrected errors: 152137
+Error rate: 0.437126
+Time: 45
+Error: 0.492
+7.999155
+Total bytes processed: 304178
+Uncorrected errors: 132953
+Corrected errors: 152116
+Error rate: 0.437089
+Time: 52
+Error: 0.493
+7.999185
+Total bytes processed: 304178
+Uncorrected errors: 132933
+Corrected errors: 152135
+Error rate: 0.437024
+Time: 52
+Error: 0.494
+7.999232
+Total bytes processed: 304178
+Uncorrected errors: 132987
+Corrected errors: 152087
+Error rate: 0.437201
+Time: 43
+Error: 0.495
+7.999266
+Total bytes processed: 304178
+Uncorrected errors: 133096
+Corrected errors: 151982
+Error rate: 0.437560
+Time: 46
+Error: 0.496
+7.999312
+Total bytes processed: 304178
+Uncorrected errors: 133095
+Corrected errors: 152007
+Error rate: 0.437556
+Time: 46
+Error: 0.497
+7.999334
+Total bytes processed: 304178
+Uncorrected errors: 133044
+Corrected errors: 152041
+Error rate: 0.437389
+Time: 45
+Error: 0.498
+7.999372
+Total bytes processed: 304178
+Uncorrected errors: 133123
+Corrected errors: 151977
+Error rate: 0.437648
+Time: 45
+Error: 0.499
+7.999388
+Total bytes processed: 304178
+Uncorrected errors: 133030
+Corrected errors: 152052
+Error rate: 0.437343
+Time: 47
+Error: 0.5
+7.999406
+Total bytes processed: 304178
+Uncorrected errors: 132991
+Corrected errors: 152068
+Error rate: 0.437214
+Time: 46
+Error: 0.501
+7.999400
+Total bytes processed: 304178
+Uncorrected errors: 132926
+Corrected errors: 152155
+Error rate: 0.437001
+Time: 46
+Error: 0.502
+7.999398
+Total bytes processed: 304178
+Uncorrected errors: 132844
+Corrected errors: 152255
+Error rate: 0.436731
+Time: 47
+Error: 0.503
+7.999402
+Total bytes processed: 304178
+Uncorrected errors: 132761
+Corrected errors: 152376
+Error rate: 0.436458
+Time: 45
+Error: 0.504
+7.999397
+Total bytes processed: 304178
+Uncorrected errors: 132753
+Corrected errors: 152369
+Error rate: 0.436432
+Time: 48
+Error: 0.505
+7.999392
+Total bytes processed: 304178
+Uncorrected errors: 132728
+Corrected errors: 152434
+Error rate: 0.436350
+Time: 45
+Error: 0.506
+7.999377
+Total bytes processed: 304178
+Uncorrected errors: 132757
+Corrected errors: 152399
+Error rate: 0.436445
+Time: 47
+Error: 0.507
+7.999355
+Total bytes processed: 304178
+Uncorrected errors: 132790
+Corrected errors: 152356
+Error rate: 0.436554
+Time: 45
+Error: 0.508
+7.999337
+Total bytes processed: 304178
+Uncorrected errors: 132752
+Corrected errors: 152345
+Error rate: 0.436429
+Time: 46
+Error: 0.509
+7.999319
+Total bytes processed: 304178
+Uncorrected errors: 132803
+Corrected errors: 152281
+Error rate: 0.436596
+Time: 45
+Error: 0.51
+7.999288
+Total bytes processed: 304178
+Uncorrected errors: 132763
+Corrected errors: 152314
+Error rate: 0.436465
+Time: 46
+Error: 0.511
+7.999263
+Total bytes processed: 304178
+Uncorrected errors: 132792
+Corrected errors: 152277
+Error rate: 0.436560
+Time: 46
+Error: 0.512
+7.999238
+Total bytes processed: 304178
+Uncorrected errors: 132795
+Corrected errors: 152258
+Error rate: 0.436570
+Time: 44
+Error: 0.513
+7.999215
+Total bytes processed: 304178
+Uncorrected errors: 132835
+Corrected errors: 152219
+Error rate: 0.436702
+Time: 44
+Error: 0.514
+7.999173
+Total bytes processed: 304178
+Uncorrected errors: 132836
+Corrected errors: 152218
+Error rate: 0.436705
+Time: 45
+Error: 0.515
+7.999134
+Total bytes processed: 304178
+Uncorrected errors: 132828
+Corrected errors: 152230
+Error rate: 0.436679
+Time: 47
+Error: 0.516
+7.999071
+Total bytes processed: 304178
+Uncorrected errors: 132868
+Corrected errors: 152182
+Error rate: 0.436810
+Time: 44
+Error: 0.517
+7.999016
+Total bytes processed: 304178
+Uncorrected errors: 132906
+Corrected errors: 152168
+Error rate: 0.436935
+Time: 45
+Error: 0.518
+7.998960
+Total bytes processed: 304178
+Uncorrected errors: 132878
+Corrected errors: 152204
+Error rate: 0.436843
+Time: 43
+Error: 0.519
+7.998891
+Total bytes processed: 304178
+Uncorrected errors: 132893
+Corrected errors: 152179
+Error rate: 0.436892
+Time: 48
+Error: 0.52
+7.998844
+Total bytes processed: 304178
+Uncorrected errors: 133032
+Corrected errors: 152023
+Error rate: 0.437349
+Time: 44
+Error: 0.521
+7.998788
+Total bytes processed: 304178
+Uncorrected errors: 133034
+Corrected errors: 152030
+Error rate: 0.437356
+Time: 44
+Error: 0.522
+7.998692
+Total bytes processed: 304178
+Uncorrected errors: 133060
+Corrected errors: 152009
+Error rate: 0.437441
+Time: 44
+Error: 0.523
+7.998602
+Total bytes processed: 304178
+Uncorrected errors: 133067
+Corrected errors: 152017
+Error rate: 0.437464
+Time: 47
+Error: 0.524
+7.998526
+Total bytes processed: 304178
+Uncorrected errors: 133091
+Corrected errors: 151994
+Error rate: 0.437543
+Time: 47
+Error: 0.525
+7.998435
+Total bytes processed: 304178
+Uncorrected errors: 133066
+Corrected errors: 151994
+Error rate: 0.437461
+Time: 45
+Error: 0.526
+7.998327
+Total bytes processed: 304178
+Uncorrected errors: 133027
+Corrected errors: 152030
+Error rate: 0.437333
+Time: 45
+Error: 0.527
+7.998221
+Total bytes processed: 304178
+Uncorrected errors: 133073
+Corrected errors: 151976
+Error rate: 0.437484
+Time: 45
+Error: 0.528
+7.998096
+Total bytes processed: 304178
+Uncorrected errors: 133140
+Corrected errors: 151893
+Error rate: 0.437704
+Time: 45
+Error: 0.529
+7.997992
+Total bytes processed: 304178
+Uncorrected errors: 133184
+Corrected errors: 151901
+Error rate: 0.437849
+Time: 47
+Error: 0.53
+7.997900
+Total bytes processed: 304178
+Uncorrected errors: 133218
+Corrected errors: 151888
+Error rate: 0.437961
+Time: 46
+Error: 0.531
+7.997783
+Total bytes processed: 304178
+Uncorrected errors: 133285
+Corrected errors: 151853
+Error rate: 0.438181
+Time: 44
+Error: 0.532
+7.997685
+Total bytes processed: 304178
+Uncorrected errors: 133200
+Corrected errors: 151925
+Error rate: 0.437901
+Time: 46
+Error: 0.533
+7.997583
+Total bytes processed: 304178
+Uncorrected errors: 133188
+Corrected errors: 151924
+Error rate: 0.437862
+Time: 47
+Error: 0.534
+7.997437
+Total bytes processed: 304178
+Uncorrected errors: 133183
+Corrected errors: 151930
+Error rate: 0.437846
+Time: 45
+Error: 0.535
+7.997316
+Total bytes processed: 304178
+Uncorrected errors: 133202
+Corrected errors: 151920
+Error rate: 0.437908
+Time: 47
+Error: 0.536
+7.997158
+Total bytes processed: 304178
+Uncorrected errors: 133272
+Corrected errors: 151875
+Error rate: 0.438138
+Time: 45
+Error: 0.537
+7.997029
+Total bytes processed: 304178
+Uncorrected errors: 133308
+Corrected errors: 151834
+Error rate: 0.438257
+Time: 45
+Error: 0.538
+7.996878
+Total bytes processed: 304178
+Uncorrected errors: 133384
+Corrected errors: 151750
+Error rate: 0.438506
+Time: 48
+Error: 0.539
+7.996732
+Total bytes processed: 304178
+Uncorrected errors: 133391
+Corrected errors: 151721
+Error rate: 0.438529
+Time: 44
+Error: 0.54
+7.996562
+Total bytes processed: 304178
+Uncorrected errors: 133421
+Corrected errors: 151675
+Error rate: 0.438628
+Time: 44
+Error: 0.541
+7.996414
+Total bytes processed: 304178
+Uncorrected errors: 133421
+Corrected errors: 151680
+Error rate: 0.438628
+Time: 46
+Error: 0.542
+7.996223
+Total bytes processed: 304178
+Uncorrected errors: 133488
+Corrected errors: 151591
+Error rate: 0.438848
+Time: 47
+Error: 0.543
+7.996030
+Total bytes processed: 304178
+Uncorrected errors: 133501
+Corrected errors: 151585
+Error rate: 0.438891
+Time: 44
+Error: 0.544
+7.995849
+Total bytes processed: 304178
+Uncorrected errors: 133454
+Corrected errors: 151635
+Error rate: 0.438737
+Time: 44
+Error: 0.545
+7.995673
+Total bytes processed: 304178
+Uncorrected errors: 133455
+Corrected errors: 151618
+Error rate: 0.438740
+Time: 46
+Error: 0.546
+7.995476
+Total bytes processed: 304178
+Uncorrected errors: 133508
+Corrected errors: 151586
+Error rate: 0.438914
+Time: 43
+Error: 0.547
+7.995309
+Total bytes processed: 304178
+Uncorrected errors: 133488
+Corrected errors: 151601
+Error rate: 0.438848
+Time: 44
+Error: 0.548
+7.995138
+Total bytes processed: 304178
+Uncorrected errors: 133485
+Corrected errors: 151580
+Error rate: 0.438838
+Time: 43
+Error: 0.549
+7.994940
+Total bytes processed: 304178
+Uncorrected errors: 133550
+Corrected errors: 151497
+Error rate: 0.439052
+Time: 43
+Error: 0.55
+7.994730
+Total bytes processed: 304178
+Uncorrected errors: 133446
+Corrected errors: 151590
+Error rate: 0.438710
+Time: 44
+Error: 0.551
+7.994521
+Total bytes processed: 304178
+Uncorrected errors: 133402
+Corrected errors: 151645
+Error rate: 0.438566
+Time: 43
+Error: 0.552
+7.994289
+Total bytes processed: 304178
+Uncorrected errors: 133457
+Corrected errors: 151575
+Error rate: 0.438746
+Time: 43
+Error: 0.553
+7.994059
+Total bytes processed: 304178
+Uncorrected errors: 133456
+Corrected errors: 151570
+Error rate: 0.438743
+Time: 45
+Error: 0.554
+7.993851
+Total bytes processed: 304178
+Uncorrected errors: 133432
+Corrected errors: 151587
+Error rate: 0.438664
+Time: 46
+Error: 0.555
+7.993618
+Total bytes processed: 304178
+Uncorrected errors: 133382
+Corrected errors: 151625
+Error rate: 0.438500
+Time: 54
+Error: 0.556
+7.993392
+Total bytes processed: 304178
+Uncorrected errors: 133324
+Corrected errors: 151667
+Error rate: 0.438309
+Time: 44
+Error: 0.557
+7.993153
+Total bytes processed: 304178
+Uncorrected errors: 133374
+Corrected errors: 151644
+Error rate: 0.438474
+Time: 43
+Error: 0.558
+7.992926
+Total bytes processed: 304178
+Uncorrected errors: 133468
+Corrected errors: 151556
+Error rate: 0.438783
+Time: 45
+Error: 0.559
+7.992695
+Total bytes processed: 304178
+Uncorrected errors: 133473
+Corrected errors: 151572
+Error rate: 0.438799
+Time: 67
+Error: 0.56
+7.992442
+Total bytes processed: 304178
+Uncorrected errors: 133392
+Corrected errors: 151620
+Error rate: 0.438533
+Time: 43
+Error: 0.561
+7.992213
+Total bytes processed: 304178
+Uncorrected errors: 133353
+Corrected errors: 151650
+Error rate: 0.438404
+Time: 44
+Error: 0.562
+7.991948
+Total bytes processed: 304178
+Uncorrected errors: 133317
+Corrected errors: 151677
+Error rate: 0.438286
+Time: 42
+Error: 0.563
+7.991675
+Total bytes processed: 304178
+Uncorrected errors: 133257
+Corrected errors: 151735
+Error rate: 0.438089
+Time: 44
+Error: 0.564
+7.991431
+Total bytes processed: 304178
+Uncorrected errors: 133265
+Corrected errors: 151687
+Error rate: 0.438115
+Time: 46
+Error: 0.565
+7.991159
+Total bytes processed: 304178
+Uncorrected errors: 133202
+Corrected errors: 151739
+Error rate: 0.437908
+Time: 44
+Error: 0.566
+7.990907
+Total bytes processed: 304178
+Uncorrected errors: 133172
+Corrected errors: 151803
+Error rate: 0.437809
+Time: 43
+Error: 0.567
+7.990624
+Total bytes processed: 304178
+Uncorrected errors: 133150
+Corrected errors: 151828
+Error rate: 0.437737
+Time: 43
+Error: 0.568
+7.990325
+Total bytes processed: 304178
+Uncorrected errors: 133091
+Corrected errors: 151902
+Error rate: 0.437543
+Time: 43
+Error: 0.569
+7.990068
+Total bytes processed: 304178
+Uncorrected errors: 133078
+Corrected errors: 151905
+Error rate: 0.437500
+Time: 42
+Error: 0.57
+7.989779
+Total bytes processed: 304178
+Uncorrected errors: 133050
+Corrected errors: 151939
+Error rate: 0.437408
+Time: 43
+Error: 0.571
+7.989526
+Total bytes processed: 304178
+Uncorrected errors: 133047
+Corrected errors: 151964
+Error rate: 0.437398
+Time: 56
+Error: 0.572
+7.989205
+Total bytes processed: 304178
+Uncorrected errors: 133078
+Corrected errors: 151961
+Error rate: 0.437500
+Time: 44
+Error: 0.573
+7.988895
+Total bytes processed: 304178
+Uncorrected errors: 133122
+Corrected errors: 151900
+Error rate: 0.437645
+Time: 44
+Error: 0.574
+7.988585
+Total bytes processed: 304178
+Uncorrected errors: 133099
+Corrected errors: 151950
+Error rate: 0.437569
+Time: 45
+Error: 0.575
+7.988256
+Total bytes processed: 304178
+Uncorrected errors: 133148
+Corrected errors: 151897
+Error rate: 0.437731
+Time: 44
+Error: 0.576
+7.987968
+Total bytes processed: 304178
+Uncorrected errors: 133167
+Corrected errors: 151869
+Error rate: 0.437793
+Time: 44
+Error: 0.577
+7.987638
+Total bytes processed: 304178
+Uncorrected errors: 133118
+Corrected errors: 151889
+Error rate: 0.437632
+Time: 48
+Error: 0.578
+7.987265
+Total bytes processed: 304178
+Uncorrected errors: 133143
+Corrected errors: 151840
+Error rate: 0.437714
+Time: 53
+Error: 0.579
+7.986917
+Total bytes processed: 304178
+Uncorrected errors: 133129
+Corrected errors: 151851
+Error rate: 0.437668
+Time: 43
+Error: 0.58
+7.986534
+Total bytes processed: 304178
+Uncorrected errors: 133125
+Corrected errors: 151858
+Error rate: 0.437655
+Time: 44
+Error: 0.581
+7.986217
+Total bytes processed: 304178
+Uncorrected errors: 133128
+Corrected errors: 151836
+Error rate: 0.437665
+Time: 44
+Error: 0.582
+7.985837
+Total bytes processed: 304178
+Uncorrected errors: 133209
+Corrected errors: 151721
+Error rate: 0.437931
+Time: 43
+Error: 0.583
+7.985498
+Total bytes processed: 304178
+Uncorrected errors: 133201
+Corrected errors: 151746
+Error rate: 0.437905
+Time: 43
+Error: 0.584
+7.985167
+Total bytes processed: 304178
+Uncorrected errors: 133186
+Corrected errors: 151731
+Error rate: 0.437855
+Time: 44
+Error: 0.585
+7.984755
+Total bytes processed: 304178
+Uncorrected errors: 133150
+Corrected errors: 151761
+Error rate: 0.437737
+Time: 44
+Error: 0.586
+7.984356
+Total bytes processed: 304178
+Uncorrected errors: 133107
+Corrected errors: 151783
+Error rate: 0.437596
+Time: 44
+Error: 0.587
+7.983980
+Total bytes processed: 304178
+Uncorrected errors: 133102
+Corrected errors: 151767
+Error rate: 0.437579
+Time: 44
+Error: 0.588
+7.983570
+Total bytes processed: 304178
+Uncorrected errors: 133132
+Corrected errors: 151737
+Error rate: 0.437678
+Time: 43
+Error: 0.589
+7.983186
+Total bytes processed: 304178
+Uncorrected errors: 133144
+Corrected errors: 151714
+Error rate: 0.437717
+Time: 43
+Error: 0.59
+7.982786
+Total bytes processed: 304178
+Uncorrected errors: 133093
+Corrected errors: 151780
+Error rate: 0.437550
+Time: 44
+Error: 0.591
+7.982412
+Total bytes processed: 304178
+Uncorrected errors: 133066
+Corrected errors: 151781
+Error rate: 0.437461
+Time: 46
+Error: 0.592
+7.982060
+Total bytes processed: 304178
+Uncorrected errors: 133019
+Corrected errors: 151801
+Error rate: 0.437306
+Time: 44
+Error: 0.593
+7.981656
+Total bytes processed: 304178
+Uncorrected errors: 133067
+Corrected errors: 151742
+Error rate: 0.437464
+Time: 43
+Error: 0.594
+7.981314
+Total bytes processed: 304178
+Uncorrected errors: 132998
+Corrected errors: 151797
+Error rate: 0.437237
+Time: 43
+Error: 0.595
+7.980862
+Total bytes processed: 304178
+Uncorrected errors: 132905
+Corrected errors: 151895
+Error rate: 0.436932
+Time: 44
+Error: 0.596
+7.980398
+Total bytes processed: 304178
+Uncorrected errors: 132942
+Corrected errors: 151843
+Error rate: 0.437053
+Time: 43
+Error: 0.597
+7.979982
+Total bytes processed: 304178
+Uncorrected errors: 132964
+Corrected errors: 151791
+Error rate: 0.437126
+Time: 44
+Error: 0.598
+7.979563
+Total bytes processed: 304178
+Uncorrected errors: 132879
+Corrected errors: 151883
+Error rate: 0.436846
+Time: 44
+Error: 0.599
+7.979146
+Total bytes processed: 304178
+Uncorrected errors: 132776
+Corrected errors: 151965
+Error rate: 0.436508
+Time: 44
+Error: 0.6
+7.978671
+Total bytes processed: 304178
+Uncorrected errors: 132804
+Corrected errors: 151915
+Error rate: 0.436600
+Time: 42
+Error: 0.601
+7.978249
+Total bytes processed: 304178
+Uncorrected errors: 132728
+Corrected errors: 151955
+Error rate: 0.436350
+Time: 44
+Error: 0.602
+7.977810
+Total bytes processed: 304178
+Uncorrected errors: 132668
+Corrected errors: 151997
+Error rate: 0.436153
+Time: 48
+Error: 0.603
+7.977330
+Total bytes processed: 304178
+Uncorrected errors: 132636
+Corrected errors: 151997
+Error rate: 0.436047
+Time: 44
+Error: 0.604
+7.976895
+Total bytes processed: 304178
+Uncorrected errors: 132613
+Corrected errors: 151998
+Error rate: 0.435972
+Time: 42
+Error: 0.605
+7.976415
+Total bytes processed: 304178
+Uncorrected errors: 132535
+Corrected errors: 152063
+Error rate: 0.435715
+Time: 44
+Error: 0.606
+7.976015
+Total bytes processed: 304178
+Uncorrected errors: 132584
+Corrected errors: 151979
+Error rate: 0.435876
+Time: 44
+Error: 0.607
+7.975586
+Total bytes processed: 304178
+Uncorrected errors: 132569
+Corrected errors: 151976
+Error rate: 0.435827
+Time: 45
+Error: 0.608
+7.975141
+Total bytes processed: 304178
+Uncorrected errors: 132567
+Corrected errors: 151962
+Error rate: 0.435820
+Time: 49
+Error: 0.609
+7.974645
+Total bytes processed: 304178
+Uncorrected errors: 132511
+Corrected errors: 151992
+Error rate: 0.435636
+Time: 45
+Error: 0.61
+7.974093
+Total bytes processed: 304178
+Uncorrected errors: 132527
+Corrected errors: 151996
+Error rate: 0.435689
+Time: 48
+Error: 0.611
+7.973609
+Total bytes processed: 304178
+Uncorrected errors: 132480
+Corrected errors: 152050
+Error rate: 0.435534
+Time: 47
+Error: 0.612
+7.973116
+Total bytes processed: 304178
+Uncorrected errors: 132470
+Corrected errors: 152055
+Error rate: 0.435502
+Time: 46
+Error: 0.613
+7.972626
+Total bytes processed: 304178
+Uncorrected errors: 132386
+Corrected errors: 152112
+Error rate: 0.435225
+Time: 44
+Error: 0.614
+7.972066
+Total bytes processed: 304178
+Uncorrected errors: 132380
+Corrected errors: 152051
+Error rate: 0.435206
+Time: 47
+Error: 0.615
+7.971582
+Total bytes processed: 304178
+Uncorrected errors: 132403
+Corrected errors: 152011
+Error rate: 0.435281
+Time: 47
+Error: 0.616
+7.971015
+Total bytes processed: 304178
+Uncorrected errors: 132388
+Corrected errors: 152005
+Error rate: 0.435232
+Time: 43
+Error: 0.617
+7.970394
+Total bytes processed: 304178
+Uncorrected errors: 132302
+Corrected errors: 152090
+Error rate: 0.434949
+Time: 49
+Error: 0.618
+7.969819
+Total bytes processed: 304178
+Uncorrected errors: 132271
+Corrected errors: 152096
+Error rate: 0.434847
+Time: 47
+Error: 0.619
+7.969268
+Total bytes processed: 304178
+Uncorrected errors: 132212
+Corrected errors: 152107
+Error rate: 0.434653
+Time: 46
+Error: 0.62
+7.968650
+Total bytes processed: 304178
+Uncorrected errors: 132179
+Corrected errors: 152102
+Error rate: 0.434545
+Time: 47
+Error: 0.621
+7.968082
+Total bytes processed: 304178
+Uncorrected errors: 132097
+Corrected errors: 152136
+Error rate: 0.434275
+Time: 44
+Error: 0.622
+7.967554
+Total bytes processed: 304178
+Uncorrected errors: 132095
+Corrected errors: 152081
+Error rate: 0.434269
+Time: 45
+Error: 0.623
+7.967016
+Total bytes processed: 304178
+Uncorrected errors: 132105
+Corrected errors: 152033
+Error rate: 0.434302
+Time: 44
+Error: 0.624
+7.966408
+Total bytes processed: 304178
+Uncorrected errors: 132123
+Corrected errors: 151973
+Error rate: 0.434361
+Time: 43
+Error: 0.625
+7.965747
+Total bytes processed: 304178
+Uncorrected errors: 132068
+Corrected errors: 151990
+Error rate: 0.434180
+Time: 41
+Error: 0.626
+7.965039
+Total bytes processed: 304178
+Uncorrected errors: 132076
+Corrected errors: 151933
+Error rate: 0.434206
+Time: 41
+Error: 0.627
+7.964382
+Total bytes processed: 304178
+Uncorrected errors: 132121
+Corrected errors: 151821
+Error rate: 0.434354
+Time: 44
+Error: 0.628
+7.963787
+Total bytes processed: 304178
+Uncorrected errors: 132093
+Corrected errors: 151782
+Error rate: 0.434262
+Time: 46
+Error: 0.629
+7.963151
+Total bytes processed: 304178
+Uncorrected errors: 132077
+Corrected errors: 151784
+Error rate: 0.434210
+Time: 42
+Error: 0.63
+7.962538
+Total bytes processed: 304178
+Uncorrected errors: 132030
+Corrected errors: 151778
+Error rate: 0.434055
+Time: 41
+Error: 0.631
+7.961898
+Total bytes processed: 304178
+Uncorrected errors: 131945
+Corrected errors: 151830
+Error rate: 0.433776
+Time: 42
+Error: 0.632
+7.961256
+Total bytes processed: 304178
+Uncorrected errors: 131810
+Corrected errors: 151935
+Error rate: 0.433332
+Time: 42
+Error: 0.633
+7.960578
+Total bytes processed: 304178
+Uncorrected errors: 131794
+Corrected errors: 151918
+Error rate: 0.433279
+Time: 45
+Error: 0.634
+7.959938
+Total bytes processed: 304178
+Uncorrected errors: 131792
+Corrected errors: 151886
+Error rate: 0.433273
+Time: 42
+Error: 0.635
+7.959268
+Total bytes processed: 304178
+Uncorrected errors: 131702
+Corrected errors: 151955
+Error rate: 0.432977
+Time: 42
+Error: 0.636
+7.958624
+Total bytes processed: 304178
+Uncorrected errors: 131837
+Corrected errors: 151755
+Error rate: 0.433421
+Time: 41
+Error: 0.637
+7.957864
+Total bytes processed: 304178
+Uncorrected errors: 131712
+Corrected errors: 151828
+Error rate: 0.433010
+Time: 41
+Error: 0.638
+7.957196
+Total bytes processed: 304178
+Uncorrected errors: 131718
+Corrected errors: 151788
+Error rate: 0.433029
+Time: 43
+Error: 0.639
+7.956476
+Total bytes processed: 304178
+Uncorrected errors: 131631
+Corrected errors: 151860
+Error rate: 0.432743
+Time: 42
+Error: 0.64
+7.955798
+Total bytes processed: 304178
+Uncorrected errors: 131622
+Corrected errors: 151806
+Error rate: 0.432714
+Time: 43
+Error: 0.641
+7.955037
+Total bytes processed: 304178
+Uncorrected errors: 131579
+Corrected errors: 151784
+Error rate: 0.432572
+Time: 41
+Error: 0.642
+7.954348
+Total bytes processed: 304178
+Uncorrected errors: 131478
+Corrected errors: 151844
+Error rate: 0.432240
+Time: 42
+Error: 0.643
+7.953614
+Total bytes processed: 304178
+Uncorrected errors: 131438
+Corrected errors: 151835
+Error rate: 0.432109
+Time: 42
+Error: 0.644
+7.952832
+Total bytes processed: 304178
+Uncorrected errors: 131422
+Corrected errors: 151829
+Error rate: 0.432056
+Time: 41
+Error: 0.645
+7.952015
+Total bytes processed: 304178
+Uncorrected errors: 131355
+Corrected errors: 151848
+Error rate: 0.431836
+Time: 43
+Error: 0.646
+7.951269
+Total bytes processed: 304178
+Uncorrected errors: 131325
+Corrected errors: 151837
+Error rate: 0.431737
+Time: 41
+Error: 0.647
+7.950481
+Total bytes processed: 304178
+Uncorrected errors: 131226
+Corrected errors: 151883
+Error rate: 0.431412
+Time: 42
+Error: 0.648
+7.949687
+Total bytes processed: 304178
+Uncorrected errors: 131212
+Corrected errors: 151870
+Error rate: 0.431366
+Time: 41
+Error: 0.649
+7.948972
+Total bytes processed: 304178
+Uncorrected errors: 131192
+Corrected errors: 151832
+Error rate: 0.431300
+Time: 41
+Error: 0.65
+7.948170
+Total bytes processed: 304178
+Uncorrected errors: 131119
+Corrected errors: 151833
+Error rate: 0.431060
+Time: 41
+Error: 0.651
+7.947374
+Total bytes processed: 304178
+Uncorrected errors: 131090
+Corrected errors: 151812
+Error rate: 0.430965
+Time: 40
+Error: 0.652
+7.946509
+Total bytes processed: 304178
+Uncorrected errors: 131059
+Corrected errors: 151772
+Error rate: 0.430863
+Time: 46
+Error: 0.653
+7.945748
+Total bytes processed: 304178
+Uncorrected errors: 131006
+Corrected errors: 151762
+Error rate: 0.430689
+Time: 41
+Error: 0.654
+7.944892
+Total bytes processed: 304178
+Uncorrected errors: 130947
+Corrected errors: 151768
+Error rate: 0.430495
+Time: 42
+Error: 0.655
+7.944028
+Total bytes processed: 304178
+Uncorrected errors: 130931
+Corrected errors: 151750
+Error rate: 0.430442
+Time: 42
+Error: 0.656
+7.943248
+Total bytes processed: 304178
+Uncorrected errors: 130928
+Corrected errors: 151730
+Error rate: 0.430432
+Time: 41
+Error: 0.657
+7.942358
+Total bytes processed: 304178
+Uncorrected errors: 130881
+Corrected errors: 151718
+Error rate: 0.430278
+Time: 40
+Error: 0.658
+7.941493
+Total bytes processed: 304178
+Uncorrected errors: 130770
+Corrected errors: 151753
+Error rate: 0.429913
+Time: 41
+Error: 0.659
+7.940596
+Total bytes processed: 304178
+Uncorrected errors: 130684
+Corrected errors: 151761
+Error rate: 0.429630
+Time: 41
+Error: 0.66
+7.939730
+Total bytes processed: 304178
+Uncorrected errors: 130642
+Corrected errors: 151763
+Error rate: 0.429492
+Time: 40
+Error: 0.661
+7.938875
+Total bytes processed: 304178
+Uncorrected errors: 130616
+Corrected errors: 151699
+Error rate: 0.429406
+Time: 42
+Error: 0.662
+7.937877
+Total bytes processed: 304178
+Uncorrected errors: 130628
+Corrected errors: 151583
+Error rate: 0.429446
+Time: 39
+Error: 0.663
+7.937048
+Total bytes processed: 304178
+Uncorrected errors: 130552
+Corrected errors: 151574
+Error rate: 0.429196
+Time: 40
+Error: 0.664
+7.936106
+Total bytes processed: 304178
+Uncorrected errors: 130318
+Corrected errors: 151717
+Error rate: 0.428427
+Time: 39
+Error: 0.665
+7.935140
+Total bytes processed: 304178
+Uncorrected errors: 130273
+Corrected errors: 151695
+Error rate: 0.428279
+Time: 41
+Error: 0.666
+7.934232
+Total bytes processed: 304178
+Uncorrected errors: 130214
+Corrected errors: 151698
+Error rate: 0.428085
+Time: 43
+Error: 0.667
+7.933266
+Total bytes processed: 304178
+Uncorrected errors: 130132
+Corrected errors: 151692
+Error rate: 0.427815
+Time: 39
+Error: 0.668
+7.932244
+Total bytes processed: 304178
+Uncorrected errors: 130134
+Corrected errors: 151629
+Error rate: 0.427822
+Time: 40
+Error: 0.669
+7.931106
+Total bytes processed: 304178
+Uncorrected errors: 130129
+Corrected errors: 151526
+Error rate: 0.427805
+Time: 40
+Error: 0.67
+7.930187
+Total bytes processed: 304178
+Uncorrected errors: 130055
+Corrected errors: 151497
+Error rate: 0.427562
+Time: 39
+Error: 0.671
+7.928998
+Total bytes processed: 304178
+Uncorrected errors: 129977
+Corrected errors: 151515
+Error rate: 0.427306
+Time: 40
+Error: 0.672
+7.927983
+Total bytes processed: 304178
+Uncorrected errors: 129881
+Corrected errors: 151520
+Error rate: 0.426990
+Time: 50
+Error: 0.673
+7.926888
+Total bytes processed: 304178
+Uncorrected errors: 129767
+Corrected errors: 151533
+Error rate: 0.426615
+Time: 40
+Error: 0.674
+7.925747
+Total bytes processed: 304178
+Uncorrected errors: 129712
+Corrected errors: 151491
+Error rate: 0.426435
+Time: 41
+Error: 0.675
+7.924604
+Total bytes processed: 304178
+Uncorrected errors: 129614
+Corrected errors: 151513
+Error rate: 0.426112
+Time: 40
+Error: 0.676
+7.923571
+Total bytes processed: 304178
+Uncorrected errors: 129565
+Corrected errors: 151512
+Error rate: 0.425951
+Time: 43
+Error: 0.677
+7.922432
+Total bytes processed: 304178
+Uncorrected errors: 129519
+Corrected errors: 151475
+Error rate: 0.425800
+Time: 40
+Error: 0.678
+7.921304
+Total bytes processed: 304178
+Uncorrected errors: 129442
+Corrected errors: 151448
+Error rate: 0.425547
+Time: 39
+Error: 0.679
+7.920122
+Total bytes processed: 304178
+Uncorrected errors: 129357
+Corrected errors: 151429
+Error rate: 0.425267
+Time: 41
+Error: 0.68
+7.918889
+Total bytes processed: 304178
+Uncorrected errors: 129209
+Corrected errors: 151495
+Error rate: 0.424781
+Time: 43
+Error: 0.681
+7.917657
+Total bytes processed: 304178
+Uncorrected errors: 129138
+Corrected errors: 151480
+Error rate: 0.424547
+Time: 41
+Error: 0.682
+7.916471
+Total bytes processed: 304178
+Uncorrected errors: 129008
+Corrected errors: 151518
+Error rate: 0.424120
+Time: 39
+Error: 0.683
+7.915163
+Total bytes processed: 304178
+Uncorrected errors: 128822
+Corrected errors: 151591
+Error rate: 0.423509
+Time: 40
+Error: 0.684
+7.913955
+Total bytes processed: 304178
+Uncorrected errors: 128665
+Corrected errors: 151653
+Error rate: 0.422992
+Time: 39
+Error: 0.685
+7.912834
+Total bytes processed: 304178
+Uncorrected errors: 128480
+Corrected errors: 151742
+Error rate: 0.422384
+Time: 39
+Error: 0.686
+7.911548
+Total bytes processed: 304178
+Uncorrected errors: 128373
+Corrected errors: 151737
+Error rate: 0.422032
+Time: 39
+Error: 0.687
+7.910356
+Total bytes processed: 304178
+Uncorrected errors: 128244
+Corrected errors: 151779
+Error rate: 0.421608
+Time: 38
+Error: 0.688
+7.909069
+Total bytes processed: 304178
+Uncorrected errors: 128169
+Corrected errors: 151720
+Error rate: 0.421362
+Time: 39
+Error: 0.689
+7.907670
+Total bytes processed: 304178
+Uncorrected errors: 128032
+Corrected errors: 151727
+Error rate: 0.420911
+Time: 38
+Error: 0.69
+7.906394
+Total bytes processed: 304178
+Uncorrected errors: 127983
+Corrected errors: 151681
+Error rate: 0.420750
+Time: 39
+Error: 0.691
+7.905203
+Total bytes processed: 304178
+Uncorrected errors: 127847
+Corrected errors: 151691
+Error rate: 0.420303
+Time: 40
+Error: 0.692
+7.903823
+Total bytes processed: 304178
+Uncorrected errors: 127689
+Corrected errors: 151715
+Error rate: 0.419784
+Time: 40
+Error: 0.693
+7.902466
+Total bytes processed: 304178
+Uncorrected errors: 127607
+Corrected errors: 151685
+Error rate: 0.419514
+Time: 38
+Error: 0.694
+7.901143
+Total bytes processed: 304178
+Uncorrected errors: 127526
+Corrected errors: 151624
+Error rate: 0.419248
+Time: 39
+Error: 0.695
+7.899832
+Total bytes processed: 304178
+Uncorrected errors: 127443
+Corrected errors: 151603
+Error rate: 0.418975
+Time: 38
+Error: 0.696
+7.898469
+Total bytes processed: 304178
+Uncorrected errors: 127292
+Corrected errors: 151634
+Error rate: 0.418479
+Time: 39
+Error: 0.697
+7.897037
+Total bytes processed: 304178
+Uncorrected errors: 127171
+Corrected errors: 151596
+Error rate: 0.418081
+Time: 40
+Error: 0.698
+7.895674
+Total bytes processed: 304178
+Uncorrected errors: 127039
+Corrected errors: 151619
+Error rate: 0.417647
+Time: 39
+Error: 0.699
+7.894242
+Total bytes processed: 304178
+Uncorrected errors: 126884
+Corrected errors: 151659
+Error rate: 0.417137
+Time: 41
+Error: 0.7
+7.892949
+Total bytes processed: 304178
+Uncorrected errors: 126772
+Corrected errors: 151655
+Error rate: 0.416769
+Time: 39
+Error: 0.701
+7.891441
+Total bytes processed: 304178
+Uncorrected errors: 126606
+Corrected errors: 151692
+Error rate: 0.416223
+Time: 39
+Error: 0.702
+7.889922
+Total bytes processed: 304178
+Uncorrected errors: 126421
+Corrected errors: 151763
+Error rate: 0.415615
+Time: 39
+Error: 0.703
+7.888363
+Total bytes processed: 304178
+Uncorrected errors: 126276
+Corrected errors: 151776
+Error rate: 0.415139
+Time: 40
+Error: 0.704
+7.886839
+Total bytes processed: 304178
+Uncorrected errors: 126122
+Corrected errors: 151770
+Error rate: 0.414632
+Time: 38
+Error: 0.705
+7.885306
+Total bytes processed: 304178
+Uncorrected errors: 125980
+Corrected errors: 151779
+Error rate: 0.414165
+Time: 41
+Error: 0.706
+7.883696
+Total bytes processed: 304178
+Uncorrected errors: 125865
+Corrected errors: 151717
+Error rate: 0.413787
+Time: 40
+Error: 0.707
+7.882204
+Total bytes processed: 304178
+Uncorrected errors: 125764
+Corrected errors: 151716
+Error rate: 0.413455
+Time: 41
+Error: 0.708
+7.880541
+Total bytes processed: 304178
+Uncorrected errors: 125621
+Corrected errors: 151705
+Error rate: 0.412985
+Time: 38
+Error: 0.709
+7.878859
+Total bytes processed: 304178
+Uncorrected errors: 125421
+Corrected errors: 151760
+Error rate: 0.412328
+Time: 39
+Error: 0.71
+7.877102
+Total bytes processed: 304178
+Uncorrected errors: 125228
+Corrected errors: 151774
+Error rate: 0.411693
+Time: 40
+Error: 0.711
+7.875367
+Total bytes processed: 304178
+Uncorrected errors: 125000
+Corrected errors: 151826
+Error rate: 0.410944
+Time: 41
+Error: 0.712
+7.873627
+Total bytes processed: 304178
+Uncorrected errors: 124794
+Corrected errors: 151853
+Error rate: 0.410266
+Time: 40
+Error: 0.713
+7.871704
+Total bytes processed: 304178
+Uncorrected errors: 124593
+Corrected errors: 151889
+Error rate: 0.409606
+Time: 42
+Error: 0.714
+7.870008
+Total bytes processed: 304178
+Uncorrected errors: 124363
+Corrected errors: 151971
+Error rate: 0.408849
+Time: 40
+Error: 0.715
+7.868365
+Total bytes processed: 304178
+Uncorrected errors: 124314
+Corrected errors: 151858
+Error rate: 0.408688
+Time: 40
+Error: 0.716
+7.866551
+Total bytes processed: 304178
+Uncorrected errors: 124210
+Corrected errors: 151815
+Error rate: 0.408346
+Time: 38
+Error: 0.717
+7.864833
+Total bytes processed: 304178
+Uncorrected errors: 123997
+Corrected errors: 151881
+Error rate: 0.407646
+Time: 38
+Error: 0.718
+7.863116
+Total bytes processed: 304178
+Uncorrected errors: 123892
+Corrected errors: 151783
+Error rate: 0.407301
+Time: 43
+Error: 0.719
+7.861221
+Total bytes processed: 304178
+Uncorrected errors: 123710
+Corrected errors: 151795
+Error rate: 0.406703
+Time: 40
+Error: 0.72
+7.859331
+Total bytes processed: 304178
+Uncorrected errors: 123486
+Corrected errors: 151818
+Error rate: 0.405966
+Time: 39
+Error: 0.721
+7.857387
+Total bytes processed: 304178
+Uncorrected errors: 123359
+Corrected errors: 151780
+Error rate: 0.405549
+Time: 38
+Error: 0.722
+7.855413
+Total bytes processed: 304178
+Uncorrected errors: 123090
+Corrected errors: 151864
+Error rate: 0.404664
+Time: 38
+Error: 0.723
+7.853383
+Total bytes processed: 304178
+Uncorrected errors: 122923
+Corrected errors: 151866
+Error rate: 0.404115
+Time: 39
+Error: 0.724
+7.851455
+Total bytes processed: 304178
+Uncorrected errors: 122774
+Corrected errors: 151813
+Error rate: 0.403626
+Time: 42
+Error: 0.725
+7.849402
+Total bytes processed: 304178
+Uncorrected errors: 122620
+Corrected errors: 151776
+Error rate: 0.403119
+Time: 38
+Error: 0.726
+7.847418
+Total bytes processed: 304178
+Uncorrected errors: 122476
+Corrected errors: 151714
+Error rate: 0.402646
+Time: 39
+Error: 0.727
+7.845397
+Total bytes processed: 304178
+Uncorrected errors: 122311
+Corrected errors: 151704
+Error rate: 0.402103
+Time: 37
+Error: 0.728
+7.843502
+Total bytes processed: 304178
+Uncorrected errors: 122132
+Corrected errors: 151685
+Error rate: 0.401515
+Time: 38
+Error: 0.729
+7.841538
+Total bytes processed: 304178
+Uncorrected errors: 121979
+Corrected errors: 151626
+Error rate: 0.401012
+Time: 39
+Error: 0.73
+7.839328
+Total bytes processed: 304178
+Uncorrected errors: 121766
+Corrected errors: 151658
+Error rate: 0.400312
+Time: 40
+Error: 0.731
+7.837082
+Total bytes processed: 304178
+Uncorrected errors: 121426
+Corrected errors: 151787
+Error rate: 0.399194
+Time: 39
+Error: 0.732
+7.834984
+Total bytes processed: 304178
+Uncorrected errors: 121234
+Corrected errors: 151784
+Error rate: 0.398563
+Time: 38
+Error: 0.733
+7.832933
+Total bytes processed: 304178
+Uncorrected errors: 120966
+Corrected errors: 151825
+Error rate: 0.397682
+Time: 38
+Error: 0.734
+7.830664
+Total bytes processed: 304178
+Uncorrected errors: 120720
+Corrected errors: 151845
+Error rate: 0.396873
+Time: 38
+Error: 0.735
+7.828501
+Total bytes processed: 304178
+Uncorrected errors: 120492
+Corrected errors: 151841
+Error rate: 0.396123
+Time: 38
+Error: 0.736
+7.826253
+Total bytes processed: 304178
+Uncorrected errors: 120216
+Corrected errors: 151914
+Error rate: 0.395216
+Time: 38
+Error: 0.737
+7.823940
+Total bytes processed: 304178
+Uncorrected errors: 119925
+Corrected errors: 151976
+Error rate: 0.394259
+Time: 39
+Error: 0.738
+7.821593
+Total bytes processed: 304178
+Uncorrected errors: 119711
+Corrected errors: 151945
+Error rate: 0.393556
+Time: 44
+Error: 0.739
+7.819206
+Total bytes processed: 304178
+Uncorrected errors: 119512
+Corrected errors: 151911
+Error rate: 0.392902
+Time: 39
+Error: 0.74
+7.816854
+Total bytes processed: 304178
+Uncorrected errors: 119306
+Corrected errors: 151858
+Error rate: 0.392224
+Time: 37
+Error: 0.741
+7.814409
+Total bytes processed: 304178
+Uncorrected errors: 119053
+Corrected errors: 151874
+Error rate: 0.391393
+Time: 37
+Error: 0.742
+7.811970
+Total bytes processed: 304178
+Uncorrected errors: 118787
+Corrected errors: 151883
+Error rate: 0.390518
+Time: 40
+Error: 0.743
+7.809601
+Total bytes processed: 304178
+Uncorrected errors: 118546
+Corrected errors: 151889
+Error rate: 0.389726
+Time: 41
+Error: 0.744
+7.807079
+Total bytes processed: 304178
+Uncorrected errors: 118310
+Corrected errors: 151835
+Error rate: 0.388950
+Time: 40
+Error: 0.745
+7.804517
+Total bytes processed: 304178
+Uncorrected errors: 118038
+Corrected errors: 151845
+Error rate: 0.388056
+Time: 39
+Error: 0.746
+7.801966
+Total bytes processed: 304178
+Uncorrected errors: 117810
+Corrected errors: 151795
+Error rate: 0.387306
+Time: 38
+Error: 0.747
+7.799561
+Total bytes processed: 304178
+Uncorrected errors: 117609
+Corrected errors: 151756
+Error rate: 0.386645
+Time: 38
+Error: 0.748
+7.796981
+Total bytes processed: 304178
+Uncorrected errors: 117433
+Corrected errors: 151670
+Error rate: 0.386067
+Time: 38
+Error: 0.749
+7.794492
+Total bytes processed: 304178
+Uncorrected errors: 117220
+Corrected errors: 151642
+Error rate: 0.385366
+Time: 38
+Error: 0.75
+7.791867
+Total bytes processed: 304178
+Uncorrected errors: 117031
+Corrected errors: 151582
+Error rate: 0.384745
+Time: 42
+Error: 0.751
+7.789187
+Total bytes processed: 304178
+Uncorrected errors: 116861
+Corrected errors: 151495
+Error rate: 0.384186
+Time: 38
+Error: 0.752
+7.786412
+Total bytes processed: 304178
+Uncorrected errors: 116658
+Corrected errors: 151413
+Error rate: 0.383519
+Time: 37
+Error: 0.753
+7.783719
+Total bytes processed: 304178
+Uncorrected errors: 116431
+Corrected errors: 151394
+Error rate: 0.382773
+Time: 39
+Error: 0.754
+7.781021
+Total bytes processed: 304178
+Uncorrected errors: 116171
+Corrected errors: 151394
+Error rate: 0.381918
+Time: 38
+Error: 0.755
+7.778182
+Total bytes processed: 304178
+Uncorrected errors: 115923
+Corrected errors: 151326
+Error rate: 0.381103
+Time: 37
+Error: 0.756
+7.775251
+Total bytes processed: 304178
+Uncorrected errors: 115732
+Corrected errors: 151222
+Error rate: 0.380475
+Time: 37
+Error: 0.757
+7.772407
+Total bytes processed: 304178
+Uncorrected errors: 115396
+Corrected errors: 151308
+Error rate: 0.379370
+Time: 38
+Error: 0.758
+7.769445
+Total bytes processed: 304178
+Uncorrected errors: 115129
+Corrected errors: 151283
+Error rate: 0.378492
+Time: 37
+Error: 0.759
+7.766499
+Total bytes processed: 304178
+Uncorrected errors: 114838
+Corrected errors: 151290
+Error rate: 0.377536
+Time: 38
+Error: 0.76
+7.763423
+Total bytes processed: 304178
+Uncorrected errors: 114503
+Corrected errors: 151301
+Error rate: 0.376434
+Time: 38
+Error: 0.761
+7.760524
+Total bytes processed: 304178
+Uncorrected errors: 114282
+Corrected errors: 151220
+Error rate: 0.375708
+Time: 43
+Error: 0.762
+7.757423
+Total bytes processed: 304178
+Uncorrected errors: 113991
+Corrected errors: 151202
+Error rate: 0.374751
+Time: 43
+Error: 0.763
+7.753941
+Total bytes processed: 304178
+Uncorrected errors: 113736
+Corrected errors: 151099
+Error rate: 0.373913
+Time: 37
+Error: 0.764
+7.750705
+Total bytes processed: 304178
+Uncorrected errors: 113421
+Corrected errors: 151048
+Error rate: 0.372877
+Time: 37
+Error: 0.765
+7.747378
+Total bytes processed: 304178
+Uncorrected errors: 113091
+Corrected errors: 151067
+Error rate: 0.371792
+Time: 37
+Error: 0.766
+7.744109
+Total bytes processed: 304178
+Uncorrected errors: 112813
+Corrected errors: 151028
+Error rate: 0.370878
+Time: 39
+Error: 0.767
+7.740757
+Total bytes processed: 304178
+Uncorrected errors: 112527
+Corrected errors: 150987
+Error rate: 0.369938
+Time: 38
+Error: 0.768
+7.737553
+Total bytes processed: 304178
+Uncorrected errors: 112293
+Corrected errors: 150907
+Error rate: 0.369169
+Time: 38
+Error: 0.769
+7.734313
+Total bytes processed: 304178
+Uncorrected errors: 112013
+Corrected errors: 150866
+Error rate: 0.368248
+Time: 40
+Error: 0.77
+7.730922
+Total bytes processed: 304178
+Uncorrected errors: 111696
+Corrected errors: 150840
+Error rate: 0.367206
+Time: 37
+Error: 0.771
+7.727671
+Total bytes processed: 304178
+Uncorrected errors: 111417
+Corrected errors: 150778
+Error rate: 0.366289
+Time: 36
+Error: 0.772
+7.724404
+Total bytes processed: 304178
+Uncorrected errors: 111170
+Corrected errors: 150676
+Error rate: 0.365477
+Time: 35
+Error: 0.773
+7.720783
+Total bytes processed: 304178
+Uncorrected errors: 110820
+Corrected errors: 150693
+Error rate: 0.364326
+Time: 35
+Error: 0.774
+7.717134
+Total bytes processed: 304178
+Uncorrected errors: 110479
+Corrected errors: 150691
+Error rate: 0.363205
+Time: 35
+Error: 0.775
+7.713685
+Total bytes processed: 304178
+Uncorrected errors: 110173
+Corrected errors: 150662
+Error rate: 0.362199
+Time: 39
+Error: 0.776
+7.710005
+Total bytes processed: 304178
+Uncorrected errors: 109788
+Corrected errors: 150690
+Error rate: 0.360933
+Time: 37
+Error: 0.777
+7.706192
+Total bytes processed: 304178
+Uncorrected errors: 109449
+Corrected errors: 150643
+Error rate: 0.359819
+Time: 36
+Error: 0.778
+7.702777
+Total bytes processed: 304178
+Uncorrected errors: 109214
+Corrected errors: 150532
+Error rate: 0.359046
+Time: 36
+Error: 0.779
+7.699081
+Total bytes processed: 304178
+Uncorrected errors: 108880
+Corrected errors: 150484
+Error rate: 0.357948
+Time: 35
+Error: 0.78
+7.695275
+Total bytes processed: 304178
+Uncorrected errors: 108619
+Corrected errors: 150339
+Error rate: 0.357090
+Time: 41
+Error: 0.781
+7.691364
+Total bytes processed: 304178
+Uncorrected errors: 108288
+Corrected errors: 150230
+Error rate: 0.356002
+Time: 35
+Error: 0.782
+7.687545
+Total bytes processed: 304178
+Uncorrected errors: 107911
+Corrected errors: 150241
+Error rate: 0.354763
+Time: 34
+Error: 0.783
+7.683566
+Total bytes processed: 304178
+Uncorrected errors: 107592
+Corrected errors: 150169
+Error rate: 0.353714
+Time: 36
+Error: 0.784
+7.679492
+Total bytes processed: 304178
+Uncorrected errors: 107285
+Corrected errors: 150093
+Error rate: 0.352705
+Time: 44
+Error: 0.785
+7.675345
+Total bytes processed: 304178
+Uncorrected errors: 106998
+Corrected errors: 149967
+Error rate: 0.351761
+Time: 36
+Error: 0.786
+7.671285
+Total bytes processed: 304178
+Uncorrected errors: 106673
+Corrected errors: 149915
+Error rate: 0.350693
+Time: 36
+Error: 0.787
+7.667256
+Total bytes processed: 304178
+Uncorrected errors: 106366
+Corrected errors: 149830
+Error rate: 0.349683
+Time: 36
+Error: 0.788
+7.663023
+Total bytes processed: 304178
+Uncorrected errors: 106030
+Corrected errors: 149772
+Error rate: 0.348579
+Time: 36
+Error: 0.789
+7.658978
+Total bytes processed: 304178
+Uncorrected errors: 105684
+Corrected errors: 149703
+Error rate: 0.347441
+Time: 37
+Error: 0.79
+7.654817
+Total bytes processed: 304178
+Uncorrected errors: 105348
+Corrected errors: 149628
+Error rate: 0.346337
+Time: 36
+Error: 0.791
+7.650496
+Total bytes processed: 304178
+Uncorrected errors: 104926
+Corrected errors: 149648
+Error rate: 0.344949
+Time: 35
+Error: 0.792
+7.646224
+Total bytes processed: 304178
+Uncorrected errors: 104541
+Corrected errors: 149648
+Error rate: 0.343684
+Time: 35
+Error: 0.793
+7.641879
+Total bytes processed: 304178
+Uncorrected errors: 104189
+Corrected errors: 149566
+Error rate: 0.342526
+Time: 35
+Error: 0.794
+7.637325
+Total bytes processed: 304178
+Uncorrected errors: 103801
+Corrected errors: 149491
+Error rate: 0.341251
+Time: 35
+Error: 0.795
+7.632650
+Total bytes processed: 304178
+Uncorrected errors: 103467
+Corrected errors: 149365
+Error rate: 0.340153
+Time: 36
+Error: 0.796
+7.628028
+Total bytes processed: 304178
+Uncorrected errors: 103130
+Corrected errors: 149258
+Error rate: 0.339045
+Time: 34
+Error: 0.797
+7.623417
+Total bytes processed: 304178
+Uncorrected errors: 102718
+Corrected errors: 149249
+Error rate: 0.337690
+Time: 34
+Error: 0.798
+7.618389
+Total bytes processed: 304178
+Uncorrected errors: 102329
+Corrected errors: 149159
+Error rate: 0.336412
+Time: 35
+Error: 0.799
+7.613520
+Total bytes processed: 304178
+Uncorrected errors: 101876
+Corrected errors: 149147
+Error rate: 0.334922
+Time: 34
+Error: 0.8
+7.608512
+Total bytes processed: 304178
+Uncorrected errors: 101491
+Corrected errors: 149045
+Error rate: 0.333657
+Time: 35
+Error: 0.801
+7.603754
+Total bytes processed: 304178
+Uncorrected errors: 101114
+Corrected errors: 148976
+Error rate: 0.332417
+Time: 35
+Error: 0.802
+7.598681
+Total bytes processed: 304178
+Uncorrected errors: 100717
+Corrected errors: 148892
+Error rate: 0.331112
+Time: 34
+Error: 0.803
+7.593360
+Total bytes processed: 304178
+Uncorrected errors: 100332
+Corrected errors: 148761
+Error rate: 0.329846
+Time: 39
+Error: 0.804
+7.588232
+Total bytes processed: 304178
+Uncorrected errors: 99909
+Corrected errors: 148728
+Error rate: 0.328456
+Time: 35
+Error: 0.805
+7.583078
+Total bytes processed: 304178
+Uncorrected errors: 99484
+Corrected errors: 148676
+Error rate: 0.327058
+Time: 35
+Error: 0.806
+7.577809
+Total bytes processed: 304178
+Uncorrected errors: 99053
+Corrected errors: 148595
+Error rate: 0.325642
+Time: 38
+Error: 0.807
+7.572404
+Total bytes processed: 304178
+Uncorrected errors: 98608
+Corrected errors: 148549
+Error rate: 0.324179
+Time: 37
+Error: 0.808
+7.566916
+Total bytes processed: 304178
+Uncorrected errors: 98183
+Corrected errors: 148459
+Error rate: 0.322781
+Time: 34
+Error: 0.809
+7.561493
+Total bytes processed: 304178
+Uncorrected errors: 97776
+Corrected errors: 148366
+Error rate: 0.321443
+Time: 35
+Error: 0.81
+7.555883
+Total bytes processed: 304178
+Uncorrected errors: 97335
+Corrected errors: 148296
+Error rate: 0.319994
+Time: 35
+Error: 0.811
+7.549736
+Total bytes processed: 304178
+Uncorrected errors: 96832
+Corrected errors: 148253
+Error rate: 0.318340
+Time: 36
+Error: 0.812
+7.543898
+Total bytes processed: 304178
+Uncorrected errors: 96400
+Corrected errors: 148126
+Error rate: 0.316920
+Time: 40
+Error: 0.813
+7.537987
+Total bytes processed: 304178
+Uncorrected errors: 95979
+Corrected errors: 147994
+Error rate: 0.315536
+Time: 36
+Error: 0.814
+7.532480
+Total bytes processed: 304178
+Uncorrected errors: 95548
+Corrected errors: 147923
+Error rate: 0.314119
+Time: 35
+Error: 0.815
+7.526482
+Total bytes processed: 304178
+Uncorrected errors: 95124
+Corrected errors: 147781
+Error rate: 0.312725
+Time: 37
+Error: 0.816
+7.520773
+Total bytes processed: 304178
+Uncorrected errors: 94694
+Corrected errors: 147683
+Error rate: 0.311311
+Time: 35
+Error: 0.817
+7.514332
+Total bytes processed: 304178
+Uncorrected errors: 94234
+Corrected errors: 147558
+Error rate: 0.309799
+Time: 35
+Error: 0.818
+7.508742
+Total bytes processed: 304178
+Uncorrected errors: 93766
+Corrected errors: 147498
+Error rate: 0.308260
+Time: 34
+Error: 0.819
+7.502310
+Total bytes processed: 304178
+Uncorrected errors: 93325
+Corrected errors: 147355
+Error rate: 0.306810
+Time: 33
+Error: 0.82
+7.495743
+Total bytes processed: 304178
+Uncorrected errors: 92837
+Corrected errors: 147251
+Error rate: 0.305206
+Time: 37
+Error: 0.821
+7.489448
+Total bytes processed: 304178
+Uncorrected errors: 92423
+Corrected errors: 147084
+Error rate: 0.303845
+Time: 34
+Error: 0.822
+7.483028
+Total bytes processed: 304178
+Uncorrected errors: 91925
+Corrected errors: 147019
+Error rate: 0.302208
+Time: 33
+Error: 0.823
+7.476640
+Total bytes processed: 304178
+Uncorrected errors: 91459
+Corrected errors: 146910
+Error rate: 0.300676
+Time: 37
+Error: 0.824
+7.470261
+Total bytes processed: 304178
+Uncorrected errors: 90960
+Corrected errors: 146833
+Error rate: 0.299035
+Time: 34
+Error: 0.825
+7.463591
+Total bytes processed: 304178
+Uncorrected errors: 90475
+Corrected errors: 146719
+Error rate: 0.297441
+Time: 34
+Error: 0.826
+7.456794
+Total bytes processed: 304178
+Uncorrected errors: 89979
+Corrected errors: 146615
+Error rate: 0.295810
+Time: 35
+Error: 0.827
+7.449958
+Total bytes processed: 304178
+Uncorrected errors: 89529
+Corrected errors: 146441
+Error rate: 0.294331
+Time: 35
+Error: 0.828
+7.443053
+Total bytes processed: 304178
+Uncorrected errors: 89006
+Corrected errors: 146387
+Error rate: 0.292612
+Time: 34
+Error: 0.829
+7.436039
+Total bytes processed: 304178
+Uncorrected errors: 88461
+Corrected errors: 146334
+Error rate: 0.290820
+Time: 34
+Error: 0.83
+7.428923
+Total bytes processed: 304178
+Uncorrected errors: 87970
+Corrected errors: 146190
+Error rate: 0.289206
+Time: 35
+Error: 0.831
+7.421852
+Total bytes processed: 304178
+Uncorrected errors: 87460
+Corrected errors: 146080
+Error rate: 0.287529
+Time: 33
+Error: 0.832
+7.414588
+Total bytes processed: 304178
+Uncorrected errors: 86960
+Corrected errors: 145962
+Error rate: 0.285885
+Time: 34
+Error: 0.833
+7.407174
+Total bytes processed: 304178
+Uncorrected errors: 86492
+Corrected errors: 145765
+Error rate: 0.284347
+Time: 34
+Error: 0.834
+7.399566
+Total bytes processed: 304178
+Uncorrected errors: 85937
+Corrected errors: 145671
+Error rate: 0.282522
+Time: 35
+Error: 0.835
+7.392062
+Total bytes processed: 304178
+Uncorrected errors: 85351
+Corrected errors: 145622
+Error rate: 0.280596
+Time: 34
+Error: 0.836
+7.384655
+Total bytes processed: 304178
+Uncorrected errors: 84916
+Corrected errors: 145417
+Error rate: 0.279165
+Time: 34
+Error: 0.837
+7.376724
+Total bytes processed: 304178
+Uncorrected errors: 84382
+Corrected errors: 145290
+Error rate: 0.277410
+Time: 34
+Error: 0.838
+7.368673
+Total bytes processed: 304178
+Uncorrected errors: 83866
+Corrected errors: 145116
+Error rate: 0.275714
+Time: 33
+Error: 0.839
+7.360777
+Total bytes processed: 304178
+Uncorrected errors: 83328
+Corrected errors: 144978
+Error rate: 0.273945
+Time: 34
+Error: 0.84
+7.353284
+Total bytes processed: 304178
+Uncorrected errors: 82806
+Corrected errors: 144847
+Error rate: 0.272229
+Time: 33
+Error: 0.841
+7.345260
+Total bytes processed: 304178
+Uncorrected errors: 82306
+Corrected errors: 144676
+Error rate: 0.270585
+Time: 33
+Error: 0.842
+7.336807
+Total bytes processed: 304178
+Uncorrected errors: 81738
+Corrected errors: 144538
+Error rate: 0.268718
+Time: 32
+Error: 0.843
+7.328328
+Total bytes processed: 304178
+Uncorrected errors: 81285
+Corrected errors: 144231
+Error rate: 0.267228
+Time: 33
+Error: 0.844
+7.319456
+Total bytes processed: 304178
+Uncorrected errors: 80743
+Corrected errors: 144030
+Error rate: 0.265447
+Time: 35
+Error: 0.845
+7.311092
+Total bytes processed: 304178
+Uncorrected errors: 80222
+Corrected errors: 143832
+Error rate: 0.263734
+Time: 33
+Error: 0.846
+7.302449
+Total bytes processed: 304178
+Uncorrected errors: 79622
+Corrected errors: 143691
+Error rate: 0.261761
+Time: 34
+Error: 0.847
+7.293873
+Total bytes processed: 304178
+Uncorrected errors: 79033
+Corrected errors: 143580
+Error rate: 0.259825
+Time: 33
+Error: 0.848
+7.284737
+Total bytes processed: 304178
+Uncorrected errors: 78472
+Corrected errors: 143386
+Error rate: 0.257981
+Time: 34
+Error: 0.849
+7.275551
+Total bytes processed: 304178
+Uncorrected errors: 77919
+Corrected errors: 143147
+Error rate: 0.256163
+Time: 34
+Error: 0.85
+7.267068
+Total bytes processed: 304178
+Uncorrected errors: 77365
+Corrected errors: 142997
+Error rate: 0.254341
+Time: 34
+Error: 0.851
+7.257683
+Total bytes processed: 304178
+Uncorrected errors: 76771
+Corrected errors: 142813
+Error rate: 0.252388
+Time: 34
+Error: 0.852
+7.248711
+Total bytes processed: 304178
+Uncorrected errors: 76213
+Corrected errors: 142640
+Error rate: 0.250554
+Time: 33
+Error: 0.853
+7.239409
+Total bytes processed: 304178
+Uncorrected errors: 75622
+Corrected errors: 142467
+Error rate: 0.248611
+Time: 33
+Error: 0.854
+7.229986
+Total bytes processed: 304178
+Uncorrected errors: 75136
+Corrected errors: 142183
+Error rate: 0.247013
+Time: 34
+Error: 0.855
+7.220709
+Total bytes processed: 304178
+Uncorrected errors: 74579
+Corrected errors: 141974
+Error rate: 0.245182
+Time: 32
+Error: 0.856
+7.211344
+Total bytes processed: 304178
+Uncorrected errors: 74038
+Corrected errors: 141743
+Error rate: 0.243404
+Time: 34
+Error: 0.857
+7.201681
+Total bytes processed: 304178
+Uncorrected errors: 73430
+Corrected errors: 141556
+Error rate: 0.241405
+Time: 32
+Error: 0.858
+7.191395
+Total bytes processed: 304178
+Uncorrected errors: 72849
+Corrected errors: 141298
+Error rate: 0.239495
+Time: 32
+Error: 0.859
+7.181479
+Total bytes processed: 304178
+Uncorrected errors: 72238
+Corrected errors: 141128
+Error rate: 0.237486
+Time: 41
+Error: 0.86
+7.171420
+Total bytes processed: 304178
+Uncorrected errors: 71652
+Corrected errors: 140897
+Error rate: 0.235559
+Time: 36
+Error: 0.861
+7.161212
+Total bytes processed: 304178
+Uncorrected errors: 71083
+Corrected errors: 140626
+Error rate: 0.233689
+Time: 36
+Error: 0.862
+7.150804
+Total bytes processed: 304178
+Uncorrected errors: 70499
+Corrected errors: 140342
+Error rate: 0.231769
+Time: 33
+Error: 0.863
+7.140739
+Total bytes processed: 304178
+Uncorrected errors: 69930
+Corrected errors: 140137
+Error rate: 0.229898
+Time: 33
+Error: 0.864
+7.130006
+Total bytes processed: 304178
+Uncorrected errors: 69290
+Corrected errors: 139953
+Error rate: 0.227794
+Time: 33
+Error: 0.865
+7.118896
+Total bytes processed: 304178
+Uncorrected errors: 68683
+Corrected errors: 139671
+Error rate: 0.225799
+Time: 32
+Error: 0.866
+7.108124
+Total bytes processed: 304178
+Uncorrected errors: 68051
+Corrected errors: 139458
+Error rate: 0.223721
+Time: 34
+Error: 0.867
+7.096662
+Total bytes processed: 304178
+Uncorrected errors: 67398
+Corrected errors: 139231
+Error rate: 0.221574
+Time: 33
+Error: 0.868
+7.085516
+Total bytes processed: 304178
+Uncorrected errors: 66806
+Corrected errors: 138942
+Error rate: 0.219628
+Time: 33
+Error: 0.869
+7.074167
+Total bytes processed: 304178
+Uncorrected errors: 66166
+Corrected errors: 138711
+Error rate: 0.217524
+Time: 32
+Error: 0.87
+7.063301
+Total bytes processed: 304178
+Uncorrected errors: 65596
+Corrected errors: 138434
+Error rate: 0.215650
+Time: 33
+Error: 0.871
+7.051593
+Total bytes processed: 304178
+Uncorrected errors: 65011
+Corrected errors: 138090
+Error rate: 0.213727
+Time: 40
+Error: 0.872
+7.039658
+Total bytes processed: 304178
+Uncorrected errors: 64411
+Corrected errors: 137741
+Error rate: 0.211754
+Time: 31
+Error: 0.873
+7.027822
+Total bytes processed: 304178
+Uncorrected errors: 63787
+Corrected errors: 137453
+Error rate: 0.209703
+Time: 33
+Error: 0.874
+7.015785
+Total bytes processed: 304178
+Uncorrected errors: 63144
+Corrected errors: 137147
+Error rate: 0.207589
+Time: 32
+Error: 0.875
+7.003209
+Total bytes processed: 304178
+Uncorrected errors: 62538
+Corrected errors: 136767
+Error rate: 0.205597
+Time: 32
+Error: 0.876
+6.990668
+Total bytes processed: 304178
+Uncorrected errors: 61918
+Corrected errors: 136441
+Error rate: 0.203558
+Time: 33
+Error: 0.877
+6.978167
+Total bytes processed: 304178
+Uncorrected errors: 61262
+Corrected errors: 136157
+Error rate: 0.201402
+Time: 34
+Error: 0.878
+6.965424
+Total bytes processed: 304178
+Uncorrected errors: 60620
+Corrected errors: 135831
+Error rate: 0.199291
+Time: 32
+Error: 0.879
+6.952579
+Total bytes processed: 304178
+Uncorrected errors: 59993
+Corrected errors: 135490
+Error rate: 0.197230
+Time: 33
+Error: 0.88
+6.939895
+Total bytes processed: 304178
+Uncorrected errors: 59341
+Corrected errors: 135182
+Error rate: 0.195086
+Time: 32
+Error: 0.881
+6.926454
+Total bytes processed: 304178
+Uncorrected errors: 58679
+Corrected errors: 134829
+Error rate: 0.192910
+Time: 33
+Error: 0.882
+6.913758
+Total bytes processed: 304178
+Uncorrected errors: 58067
+Corrected errors: 134489
+Error rate: 0.190898
+Time: 32
+Error: 0.883
+6.900607
+Total bytes processed: 304178
+Uncorrected errors: 57443
+Corrected errors: 134104
+Error rate: 0.188847
+Time: 33
+Error: 0.884
+6.887439
+Total bytes processed: 304178
+Uncorrected errors: 56863
+Corrected errors: 133670
+Error rate: 0.186940
+Time: 32
+Error: 0.885
+6.873400
+Total bytes processed: 304178
+Uncorrected errors: 56230
+Corrected errors: 133250
+Error rate: 0.184859
+Time: 32
+Error: 0.886
+6.859999
+Total bytes processed: 304178
+Uncorrected errors: 55590
+Corrected errors: 132916
+Error rate: 0.182755
+Time: 30
+Error: 0.887
+6.845993
+Total bytes processed: 304178
+Uncorrected errors: 55055
+Corrected errors: 132381
+Error rate: 0.180996
+Time: 32
+Error: 0.888
+6.831504
+Total bytes processed: 304178
+Uncorrected errors: 54412
+Corrected errors: 131954
+Error rate: 0.178882
+Time: 31
+Error: 0.889
+6.817248
+Total bytes processed: 304178
+Uncorrected errors: 53746
+Corrected errors: 131600
+Error rate: 0.176693
+Time: 31
+Error: 0.89
+6.803008
+Total bytes processed: 304178
+Uncorrected errors: 53091
+Corrected errors: 131209
+Error rate: 0.174539
+Time: 30
+Error: 0.891
+6.788504
+Total bytes processed: 304178
+Uncorrected errors: 52455
+Corrected errors: 130782
+Error rate: 0.172448
+Time: 32
+Error: 0.892
+6.773766
+Total bytes processed: 304178
+Uncorrected errors: 51813
+Corrected errors: 130341
+Error rate: 0.170338
+Time: 30
+Error: 0.893
+6.758827
+Total bytes processed: 304178
+Uncorrected errors: 51123
+Corrected errors: 129965
+Error rate: 0.168069
+Time: 32
+Error: 0.894
+6.743452
+Total bytes processed: 304178
+Uncorrected errors: 50411
+Corrected errors: 129598
+Error rate: 0.165729
+Time: 32
+Error: 0.895
+6.728474
+Total bytes processed: 304178
+Uncorrected errors: 49771
+Corrected errors: 129138
+Error rate: 0.163625
+Time: 32
+Error: 0.896
+6.712854
+Total bytes processed: 304178
+Uncorrected errors: 49180
+Corrected errors: 128582
+Error rate: 0.161682
+Time: 32
+Error: 0.897
+6.697353
+Total bytes processed: 304178
+Uncorrected errors: 48520
+Corrected errors: 128142
+Error rate: 0.159512
+Time: 31
+Error: 0.898
+6.681869
+Total bytes processed: 304178
+Uncorrected errors: 47907
+Corrected errors: 127623
+Error rate: 0.157497
+Time: 31
+Error: 0.899
+6.666257
+Total bytes processed: 304178
+Uncorrected errors: 47189
+Corrected errors: 127257
+Error rate: 0.155136
+Time: 34
+Error: 0.9
+6.649726
+Total bytes processed: 304178
+Uncorrected errors: 46515
+Corrected errors: 126769
+Error rate: 0.152920
+Time: 30
+Error: 0.901
+6.633558
+Total bytes processed: 304178
+Uncorrected errors: 45871
+Corrected errors: 126294
+Error rate: 0.150803
+Time: 33
+Error: 0.902
+6.617119
+Total bytes processed: 304178
+Uncorrected errors: 45217
+Corrected errors: 125787
+Error rate: 0.148653
+Time: 32
+Error: 0.903
+6.599667
+Total bytes processed: 304178
+Uncorrected errors: 44524
+Corrected errors: 125241
+Error rate: 0.146375
+Time: 31
+Error: 0.904
+6.582688
+Total bytes processed: 304178
+Uncorrected errors: 43902
+Corrected errors: 124660
+Error rate: 0.144330
+Time: 31
+Error: 0.905
+6.565571
+Total bytes processed: 304178
+Uncorrected errors: 43236
+Corrected errors: 124125
+Error rate: 0.142140
+Time: 31
+Error: 0.906
+6.548268
+Total bytes processed: 304178
+Uncorrected errors: 42601
+Corrected errors: 123541
+Error rate: 0.140053
+Time: 35
+Error: 0.907
+6.530988
+Total bytes processed: 304178
+Uncorrected errors: 41987
+Corrected errors: 122934
+Error rate: 0.138034
+Time: 39
+Error: 0.908
+6.513446
+Total bytes processed: 304178
+Uncorrected errors: 41404
+Corrected errors: 122267
+Error rate: 0.136118
+Time: 31
+Error: 0.909
+6.495367
+Total bytes processed: 304178
+Uncorrected errors: 40742
+Corrected errors: 121687
+Error rate: 0.133941
+Time: 31
+Error: 0.91
+6.477271
+Total bytes processed: 304178
+Uncorrected errors: 40099
+Corrected errors: 121097
+Error rate: 0.131827
+Time: 30
+Error: 0.911
+6.458925
+Total bytes processed: 304178
+Uncorrected errors: 39465
+Corrected errors: 120457
+Error rate: 0.129743
+Time: 30
+Error: 0.912
+6.440183
+Total bytes processed: 304178
+Uncorrected errors: 38831
+Corrected errors: 119795
+Error rate: 0.127659
+Time: 32
+Error: 0.913
+6.421682
+Total bytes processed: 304178
+Uncorrected errors: 38171
+Corrected errors: 119195
+Error rate: 0.125489
+Time: 31
+Error: 0.914
+6.402015
+Total bytes processed: 304178
+Uncorrected errors: 37457
+Corrected errors: 118601
+Error rate: 0.123142
+Time: 30
+Error: 0.915
+6.381997
+Total bytes processed: 304178
+Uncorrected errors: 36784
+Corrected errors: 117911
+Error rate: 0.120929
+Time: 30
+Error: 0.916
+6.362887
+Total bytes processed: 304178
+Uncorrected errors: 36208
+Corrected errors: 117153
+Error rate: 0.119036
+Time: 31
+Error: 0.917
+6.342799
+Total bytes processed: 304178
+Uncorrected errors: 35547
+Corrected errors: 116444
+Error rate: 0.116862
+Time: 31
+Error: 0.918
+6.323146
+Total bytes processed: 304178
+Uncorrected errors: 34913
+Corrected errors: 115757
+Error rate: 0.114778
+Time: 31
+Error: 0.919
+6.303155
+Total bytes processed: 304178
+Uncorrected errors: 34293
+Corrected errors: 115034
+Error rate: 0.112740
+Time: 30
+Error: 0.92
+6.283053
+Total bytes processed: 304178
+Uncorrected errors: 33660
+Corrected errors: 114337
+Error rate: 0.110659
+Time: 30
+Error: 0.921
+6.263186
+Total bytes processed: 304178
+Uncorrected errors: 33078
+Corrected errors: 113599
+Error rate: 0.108746
+Time: 29
+Error: 0.922
+6.242504
+Total bytes processed: 304178
+Uncorrected errors: 32457
+Corrected errors: 112841
+Error rate: 0.106704
+Time: 31
+Error: 0.923
+6.221891
+Total bytes processed: 304178
+Uncorrected errors: 31854
+Corrected errors: 112071
+Error rate: 0.104722
+Time: 30
+Error: 0.924
+6.200741
+Total bytes processed: 304178
+Uncorrected errors: 31212
+Corrected errors: 111320
+Error rate: 0.102611
+Time: 30
+Error: 0.925
+6.178936
+Total bytes processed: 304178
+Uncorrected errors: 30570
+Corrected errors: 110532
+Error rate: 0.100500
+Time: 30
+Error: 0.926
+6.157826
+Total bytes processed: 304178
+Uncorrected errors: 29974
+Corrected errors: 109727
+Error rate: 0.098541
+Time: 31
+Error: 0.927
+6.136271
+Total bytes processed: 304178
+Uncorrected errors: 29394
+Corrected errors: 108892
+Error rate: 0.096634
+Time: 30
+Error: 0.928
+6.114221
+Total bytes processed: 304178
+Uncorrected errors: 28742
+Corrected errors: 108121
+Error rate: 0.094491
+Time: 30
+Error: 0.929
+6.091894
+Total bytes processed: 304178
+Uncorrected errors: 28141
+Corrected errors: 107271
+Error rate: 0.092515
+Time: 31
+Error: 0.93
+6.069001
+Total bytes processed: 304178
+Uncorrected errors: 27533
+Corrected errors: 106408
+Error rate: 0.090516
+Time: 30
+Error: 0.931
+6.045930
+Total bytes processed: 304178
+Uncorrected errors: 26904
+Corrected errors: 105584
+Error rate: 0.088448
+Time: 29
+Error: 0.932
+6.023075
+Total bytes processed: 304178
+Uncorrected errors: 26237
+Corrected errors: 104835
+Error rate: 0.086255
+Time: 32
+Error: 0.933
+5.999313
+Total bytes processed: 304178
+Uncorrected errors: 25576
+Corrected errors: 104017
+Error rate: 0.084082
+Time: 34
+Error: 0.934
+5.976445
+Total bytes processed: 304178
+Uncorrected errors: 25030
+Corrected errors: 103078
+Error rate: 0.082287
+Time: 28
+Error: 0.935
+5.952676
+Total bytes processed: 304178
+Uncorrected errors: 24438
+Corrected errors: 102170
+Error rate: 0.080341
+Time: 30
+Error: 0.936
+5.928489
+Total bytes processed: 304178
+Uncorrected errors: 23826
+Corrected errors: 101281
+Error rate: 0.078329
+Time: 28
+Error: 0.937
+5.903594
+Total bytes processed: 304178
+Uncorrected errors: 23229
+Corrected errors: 100323
+Error rate: 0.076366
+Time: 30
+Error: 0.938
+5.878555
+Total bytes processed: 304178
+Uncorrected errors: 22657
+Corrected errors: 99321
+Error rate: 0.074486
+Time: 28
+Error: 0.939
+5.853318
+Total bytes processed: 304178
+Uncorrected errors: 22076
+Corrected errors: 98338
+Error rate: 0.072576
+Time: 31
+Error: 0.94
+5.827595
+Total bytes processed: 304178
+Uncorrected errors: 21478
+Corrected errors: 97340
+Error rate: 0.070610
+Time: 28
+Error: 0.941
+5.801349
+Total bytes processed: 304178
+Uncorrected errors: 20879
+Corrected errors: 96329
+Error rate: 0.068641
+Time: 28
+Error: 0.942
+5.774519
+Total bytes processed: 304178
+Uncorrected errors: 20262
+Corrected errors: 95316
+Error rate: 0.066612
+Time: 30
+Error: 0.943
+5.748188
+Total bytes processed: 304178
+Uncorrected errors: 19685
+Corrected errors: 94289
+Error rate: 0.064715
+Time: 30
+Error: 0.944
+5.721481
+Total bytes processed: 304178
+Uncorrected errors: 19118
+Corrected errors: 93236
+Error rate: 0.062851
+Time: 29
+Error: 0.945
+5.694567
+Total bytes processed: 304178
+Uncorrected errors: 18528
+Corrected errors: 92209
+Error rate: 0.060912
+Time: 30
+Error: 0.946
+5.667115
+Total bytes processed: 304178
+Uncorrected errors: 17958
+Corrected errors: 91121
+Error rate: 0.059038
+Time: 29
+Error: 0.947
+5.639954
+Total bytes processed: 304178
+Uncorrected errors: 17409
+Corrected errors: 90043
+Error rate: 0.057233
+Time: 31
+Error: 0.948
+5.611903
+Total bytes processed: 304178
+Uncorrected errors: 16893
+Corrected errors: 88860
+Error rate: 0.055537
+Time: 29
+Error: 0.949
+5.583719
+Total bytes processed: 304178
+Uncorrected errors: 16362
+Corrected errors: 87699
+Error rate: 0.053791
+Time: 28
+Error: 0.95
+5.555146
+Total bytes processed: 304178
+Uncorrected errors: 15796
+Corrected errors: 86596
+Error rate: 0.051930
+Time: 29
+Error: 0.951
+5.527307
+Total bytes processed: 304178
+Uncorrected errors: 15240
+Corrected errors: 85520
+Error rate: 0.050102
+Time: 27
+Error: 0.952
+5.497506
+Total bytes processed: 304178
+Uncorrected errors: 14700
+Corrected errors: 84304
+Error rate: 0.048327
+Time: 29
+Error: 0.953
+5.468770
+Total bytes processed: 304178
+Uncorrected errors: 14199
+Corrected errors: 83125
+Error rate: 0.046680
+Time: 28
+Error: 0.954
+5.438300
+Total bytes processed: 304178
+Uncorrected errors: 13692
+Corrected errors: 81845
+Error rate: 0.045013
+Time: 29
+Error: 0.955
+5.408166
+Total bytes processed: 304178
+Uncorrected errors: 13190
+Corrected errors: 80596
+Error rate: 0.043363
+Time: 28
+Error: 0.956
+5.377415
+Total bytes processed: 304178
+Uncorrected errors: 12727
+Corrected errors: 79253
+Error rate: 0.041841
+Time: 30
+Error: 0.957
+5.345218
+Total bytes processed: 304178
+Uncorrected errors: 12233
+Corrected errors: 77890
+Error rate: 0.040217
+Time: 27
+Error: 0.958
+5.312158
+Total bytes processed: 304178
+Uncorrected errors: 11699
+Corrected errors: 76549
+Error rate: 0.038461
+Time: 28
+Error: 0.959
+5.281107
+Total bytes processed: 304178
+Uncorrected errors: 11211
+Corrected errors: 75288
+Error rate: 0.036857
+Time: 28
+Error: 0.96
+5.249278
+Total bytes processed: 304178
+Uncorrected errors: 10780
+Corrected errors: 73899
+Error rate: 0.035440
+Time: 29
+Error: 0.961
+5.217036
+Total bytes processed: 304178
+Uncorrected errors: 10316
+Corrected errors: 72541
+Error rate: 0.033914
+Time: 27
+Error: 0.962
+5.184296
+Total bytes processed: 304178
+Uncorrected errors: 9877
+Corrected errors: 71140
+Error rate: 0.032471
+Time: 30
+Error: 0.963
+5.151586
+Total bytes processed: 304178
+Uncorrected errors: 9433
+Corrected errors: 69769
+Error rate: 0.031011
+Time: 29
+Error: 0.964
+5.117604
+Total bytes processed: 304178
+Uncorrected errors: 8989
+Corrected errors: 68336
+Error rate: 0.029552
+Time: 27
+Error: 0.965
+5.083506
+Total bytes processed: 304178
+Uncorrected errors: 8536
+Corrected errors: 66921
+Error rate: 0.028063
+Time: 27
+Error: 0.966
+5.047679
+Total bytes processed: 304178
+Uncorrected errors: 8095
+Corrected errors: 65402
+Error rate: 0.026613
+Time: 26
+Error: 0.967
+5.011282
+Total bytes processed: 304178
+Uncorrected errors: 7654
+Corrected errors: 63877
+Error rate: 0.025163
+Time: 28
+Error: 0.968
+4.975911
+Total bytes processed: 304178
+Uncorrected errors: 7234
+Corrected errors: 62389
+Error rate: 0.023782
+Time: 29
+Error: 0.969
+4.938940
+Total bytes processed: 304178
+Uncorrected errors: 6832
+Corrected errors: 60801
+Error rate: 0.022461
+Time: 28
+Error: 0.97
+4.901509
+Total bytes processed: 304178
+Uncorrected errors: 6439
+Corrected errors: 59203
+Error rate: 0.021169
+Time: 27
+Error: 0.971
+4.865087
+Total bytes processed: 304178
+Uncorrected errors: 6102
+Corrected errors: 57587
+Error rate: 0.020061
+Time: 25
+Error: 0.972
+4.827296
+Total bytes processed: 304178
+Uncorrected errors: 5712
+Corrected errors: 55996
+Error rate: 0.018778
+Time: 26
+Error: 0.973
+4.788625
+Total bytes processed: 304178
+Uncorrected errors: 5320
+Corrected errors: 54373
+Error rate: 0.017490
+Time: 26
+Error: 0.974
+4.751971
+Total bytes processed: 304178
+Uncorrected errors: 4989
+Corrected errors: 52791
+Error rate: 0.016402
+Time: 27
+Error: 0.975
+4.713090
+Total bytes processed: 304178
+Uncorrected errors: 4635
+Corrected errors: 51158
+Error rate: 0.015238
+Time: 27
+Error: 0.976
+4.673303
+Total bytes processed: 304178
+Uncorrected errors: 4277
+Corrected errors: 49493
+Error rate: 0.014061
+Time: 27
+Error: 0.977
+4.634114
+Total bytes processed: 304178
+Uncorrected errors: 3951
+Corrected errors: 47835
+Error rate: 0.012989
+Time: 27
+Error: 0.978
+4.593878
+Total bytes processed: 304178
+Uncorrected errors: 3649
+Corrected errors: 46106
+Error rate: 0.011996
+Time: 28
+Error: 0.979
+4.551715
+Total bytes processed: 304178
+Uncorrected errors: 3339
+Corrected errors: 44312
+Error rate: 0.010977
+Time: 27
+Error: 0.98
+4.509634
+Total bytes processed: 304178
+Uncorrected errors: 3055
+Corrected errors: 42504
+Error rate: 0.010043
+Time: 26
+Error: 0.981
+4.467525
+Total bytes processed: 304178
+Uncorrected errors: 2768
+Corrected errors: 40736
+Error rate: 0.009100
+Time: 26
+Error: 0.982
+4.422628
+Total bytes processed: 304178
+Uncorrected errors: 2490
+Corrected errors: 38831
+Error rate: 0.008186
+Time: 28
+Error: 0.983
+4.378455
+Total bytes processed: 304178
+Uncorrected errors: 2238
+Corrected errors: 36951
+Error rate: 0.007358
+Time: 26
+Error: 0.984
+4.332487
+Total bytes processed: 304178
+Uncorrected errors: 1993
+Corrected errors: 35003
+Error rate: 0.006552
+Time: 26
+Error: 0.985
+4.286112
+Total bytes processed: 304178
+Uncorrected errors: 1764
+Corrected errors: 33046
+Error rate: 0.005799
+Time: 26
+Error: 0.986
+4.238748
+Total bytes processed: 304178
+Uncorrected errors: 1541
+Corrected errors: 31064
+Error rate: 0.005066
+Time: 26
+Error: 0.987
+4.191400
+Total bytes processed: 304178
+Uncorrected errors: 1360
+Corrected errors: 29050
+Error rate: 0.004471
+Time: 25
+Error: 0.988
+4.141316
+Total bytes processed: 304178
+Uncorrected errors: 1179
+Corrected errors: 26951
+Error rate: 0.003876
+Time: 25
+Error: 0.989
+4.090293
+Total bytes processed: 304178
+Uncorrected errors: 988
+Corrected errors: 24874
+Error rate: 0.003248
+Time: 27
+Error: 0.99
+4.038262
+Total bytes processed: 304178
+Uncorrected errors: 820
+Corrected errors: 22757
+Error rate: 0.002696
+Time: 26
+Error: 0.991
+3.986111
+Total bytes processed: 304178
+Uncorrected errors: 663
+Corrected errors: 20666
+Error rate: 0.002180
+Time: 26
+Error: 0.992
+3.932263
+Total bytes processed: 304178
+Uncorrected errors: 519
+Corrected errors: 18531
+Error rate: 0.001706
+Time: 25
+Error: 0.993
+3.876775
+Total bytes processed: 304178
+Uncorrected errors: 414
+Corrected errors: 16320
+Error rate: 0.001361
+Time: 25
+Error: 0.994
+3.819380
+Total bytes processed: 304178
+Uncorrected errors: 296
+Corrected errors: 14123
+Error rate: 0.000973
+Time: 24
+Error: 0.995
+3.758919
+Total bytes processed: 304178
+Uncorrected errors: 202
+Corrected errors: 11834
+Error rate: 0.000664
+Time: 25
+Error: 0.996
+3.696295
+Total bytes processed: 304178
+Uncorrected errors: 134
+Corrected errors: 9508
+Error rate: 0.000441
+Time: 25
+Error: 0.997
+3.631848
+Total bytes processed: 304178
+Uncorrected errors: 77
+Corrected errors: 7204
+Error rate: 0.000253
+Time: 26
+Error: 0.998
+3.561410
+Total bytes processed: 304178
+Uncorrected errors: 34
+Corrected errors: 4802
+Error rate: 0.000112
+Time: 25
+Error: 0.999
+3.485910
+Total bytes processed: 304178
+Uncorrected errors: 13
+Corrected errors: 2398
+Error rate: 0.000043
+Time: 24

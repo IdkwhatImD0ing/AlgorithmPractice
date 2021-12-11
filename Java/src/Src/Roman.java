@@ -5,9 +5,8 @@ public class Roman {
     	System.out.println(romanToInt("MCMXCIV"));
     }
 	
-	public static int romanToInt(String s) {
+	public static int romanToInt(String s) { //Function to find the integer form of roman numberals
 		int length = s.length();
-		boolean subtraction = false;
 		int result = 0;
 		for (int i = 0; i < length; i++) {
 			if(s.charAt(i) == 'I') {

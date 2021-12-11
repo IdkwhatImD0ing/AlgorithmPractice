@@ -1,0 +1,400 @@
+Seeks: 413082
+Average seek length: 918.449192
+Hash table load: 76.380000%
+Bloom filter load: 58.174000%
+Seeks: 401769
+Average seek length: 944.257436
+Hash table load: 76.380000%
+Bloom filter load: 51.748333%
+Seeks: 375405
+Average seek length: 1010.373064
+Hash table load: 76.380000%
+Bloom filter load: 46.490000%
+Seeks: 367385
+Average seek length: 1032.414364
+Hash table load: 76.380000%
+Bloom filter load: 42.038750%
+Seeks: 374582
+Average seek length: 1012.599263
+Hash table load: 76.380000%
+Bloom filter load: 38.416667%
+Seeks: 366106
+Average seek length: 1036.010325
+Hash table load: 76.380000%
+Bloom filter load: 35.443000%
+Seeks: 373234
+Average seek length: 1016.236549
+Hash table load: 76.380000%
+Bloom filter load: 32.827273%
+Seeks: 347905
+Average seek length: 1090.094083
+Hash table load: 76.380000%
+Bloom filter load: 30.485000%
+Seeks: 347649
+Average seek length: 1090.883612
+Hash table load: 76.380000%
+Bloom filter load: 28.506923%
+Seeks: 349850
+Average seek length: 1084.035821
+Hash table load: 76.380000%
+Bloom filter load: 26.781429%
+Seeks: 349358
+Average seek length: 1085.560502
+Hash table load: 76.380000%
+Bloom filter load: 25.242000%
+Seeks: 356231
+Average seek length: 1064.679579
+Hash table load: 76.380000%
+Bloom filter load: 23.888750%
+Seeks: 345529
+Average seek length: 1097.569402
+Hash table load: 76.380000%
+Bloom filter load: 22.642353%
+Seeks: 351864
+Average seek length: 1077.843050
+Hash table load: 76.380000%
+Bloom filter load: 21.542778%
+Seeks: 345146
+Average seek length: 1098.782396
+Hash table load: 76.380000%
+Bloom filter load: 20.505263%
+Seeks: 344541
+Average seek length: 1100.712023
+Hash table load: 76.380000%
+Bloom filter load: 19.613500%
+Seeks: 345214
+Average seek length: 1098.569258
+Hash table load: 76.380000%
+Bloom filter load: 18.800000%
+Seeks: 345008
+Average seek length: 1099.223519
+Hash table load: 76.380000%
+Bloom filter load: 18.025455%
+Seeks: 346848
+Average seek length: 1093.394712
+Hash table load: 76.380000%
+Bloom filter load: 17.281304%
+Seeks: 343860
+Average seek length: 1102.886954
+Hash table load: 76.380000%
+Bloom filter load: 16.632083%
+Seeks: 344114
+Average seek length: 1102.076233
+Hash table load: 76.380000%
+Bloom filter load: 16.023600%
+Seeks: 344768
+Average seek length: 1099.986443
+Hash table load: 76.380000%
+Bloom filter load: 15.446538%
+Seeks: 344138
+Average seek length: 1102.003362
+Hash table load: 76.380000%
+Bloom filter load: 14.924815%
+Seeks: 343549
+Average seek length: 1103.883498
+Hash table load: 76.380000%
+Bloom filter load: 14.442857%
+Seeks: 343796
+Average seek length: 1103.093221
+Hash table load: 76.380000%
+Bloom filter load: 13.983793%
+Seeks: 343607
+Average seek length: 1103.697835
+Hash table load: 76.380000%
+Bloom filter load: 13.548333%
+Seeks: 343584
+Average seek length: 1103.771590
+Hash table load: 76.380000%
+Bloom filter load: 13.165161%
+Seeks: 343748
+Average seek length: 1103.245703
+Hash table load: 76.380000%
+Bloom filter load: 12.754375%
+Seeks: 343722
+Average seek length: 1103.329135
+Hash table load: 76.380000%
+Bloom filter load: 12.415455%
+Seeks: 343658
+Average seek length: 1103.533862
+Hash table load: 76.380000%
+Bloom filter load: 12.060882%
+Seeks: 343502
+Average seek length: 1104.034492
+Hash table load: 76.380000%
+Bloom filter load: 11.737143%
+Seeks: 343823
+Average seek length: 1103.005509
+Hash table load: 76.380000%
+Bloom filter load: 11.431944%
+Seeks: 343828
+Average seek length: 1102.993436
+Hash table load: 76.380000%
+Bloom filter load: 11.136486%
+Seeks: 343576
+Average seek length: 1103.796770
+Hash table load: 76.380000%
+Bloom filter load: 10.883158%
+Seeks: 343963
+Average seek length: 1102.556455
+Hash table load: 76.380000%
+Bloom filter load: 10.588462%
+Seeks: 343867
+Average seek length: 1102.864666
+Hash table load: 76.380000%
+Bloom filter load: 10.336750%
+Seeks: 343511
+Average seek length: 1104.005569
+Hash table load: 76.380000%
+Bloom filter load: 10.096585%
+Seeks: 343509
+Average seek length: 1104.011941
+Hash table load: 76.380000%
+Bloom filter load: 9.877857%
+Seeks: 343473
+Average seek length: 1104.127489
+Hash table load: 76.380000%
+Bloom filter load: 9.672326%
+Seeks: 344171
+Average seek length: 1101.890979
+Hash table load: 76.380000%
+Bloom filter load: 9.454773%
+Seeks: 345532
+Average seek length: 1097.559702
+Hash table load: 76.380000%
+Bloom filter load: 9.260667%
+Seeks: 343558
+Average seek length: 1103.854551
+Hash table load: 76.380000%
+Bloom filter load: 9.067174%
+Seeks: 343540
+Average seek length: 1103.912720
+Hash table load: 76.380000%
+Bloom filter load: 8.871489%
+Seeks: 343514
+Average seek length: 1103.995828
+Hash table load: 76.380000%
+Bloom filter load: 8.702500%
+Seeks: 344647
+Average seek length: 1100.369784
+Hash table load: 76.380000%
+Bloom filter load: 8.533878%
+Seeks: 343498
+Average seek length: 1104.047281
+Hash table load: 76.380000%
+Bloom filter load: 8.366600%
+Seeks: 343489
+Average seek length: 1104.076075
+Hash table load: 76.380000%
+Bloom filter load: 8.194510%
+Seeks: 343965
+Average seek length: 1102.551001
+Hash table load: 76.380000%
+Bloom filter load: 8.061731%
+Seeks: 343478
+Average seek length: 1104.111402
+Hash table load: 76.380000%
+Bloom filter load: 7.915472%
+Seeks: 343470
+Average seek length: 1104.137095
+Hash table load: 76.380000%
+Bloom filter load: 7.767037%
+Seeks: 343485
+Average seek length: 1104.088930
+Hash table load: 76.380000%
+Bloom filter load: 7.635636%
+Seeks: 343469
+Average seek length: 1104.140307
+Hash table load: 76.380000%
+Bloom filter load: 7.504286%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 7.375965%
+Seeks: 343477
+Average seek length: 1104.114639
+Hash table load: 76.380000%
+Bloom filter load: 7.254138%
+Seeks: 343514
+Average seek length: 1103.995802
+Hash table load: 76.380000%
+Bloom filter load: 7.132373%
+Seeks: 343469
+Average seek length: 1104.140310
+Hash table load: 76.380000%
+Bloom filter load: 7.017500%
+Seeks: 343824
+Average seek length: 1103.002344
+Hash table load: 76.380000%
+Bloom filter load: 6.923443%
+Seeks: 343490
+Average seek length: 1104.072951
+Hash table load: 76.380000%
+Bloom filter load: 6.818065%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 6.700794%
+Seeks: 343469
+Average seek length: 1104.140310
+Hash table load: 76.380000%
+Bloom filter load: 6.604063%
+Seeks: 343488
+Average seek length: 1104.079287
+Hash table load: 76.380000%
+Bloom filter load: 6.497692%
+Seeks: 343472
+Average seek length: 1104.130671
+Hash table load: 76.380000%
+Bloom filter load: 6.407576%
+Seeks: 343536
+Average seek length: 1103.925359
+Hash table load: 76.380000%
+Bloom filter load: 6.311194%
+Seeks: 343469
+Average seek length: 1104.140313
+Hash table load: 76.380000%
+Bloom filter load: 6.222353%
+Seeks: 343570
+Average seek length: 1103.816905
+Hash table load: 76.380000%
+Bloom filter load: 6.133768%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 6.051286%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 5.959437%
+Seeks: 343500
+Average seek length: 1104.040751
+Hash table load: 76.380000%
+Bloom filter load: 5.887778%
+Seeks: 343508
+Average seek length: 1104.015062
+Hash table load: 76.380000%
+Bloom filter load: 5.808219%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 5.733243%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 5.655467%
+Seeks: 343571
+Average seek length: 1103.812804
+Hash table load: 76.380000%
+Bloom filter load: 5.591447%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 5.519481%
+Seeks: 343492
+Average seek length: 1104.066511
+Hash table load: 76.380000%
+Bloom filter load: 5.439744%
+Seeks: 343627
+Average seek length: 1103.633262
+Hash table load: 76.380000%
+Bloom filter load: 5.383038%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 5.315375%
+Seeks: 343474
+Average seek length: 1104.124315
+Hash table load: 76.380000%
+Bloom filter load: 5.251111%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 5.185976%
+Seeks: 343534
+Average seek length: 1103.931582
+Hash table load: 76.380000%
+Bloom filter load: 5.125783%
+Seeks: 343470
+Average seek length: 1104.137095
+Hash table load: 76.380000%
+Bloom filter load: 5.067738%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 5.009176%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.957209%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.899425%
+Seeks: 343679
+Average seek length: 1103.466863
+Hash table load: 76.380000%
+Bloom filter load: 4.842500%
+Seeks: 343469
+Average seek length: 1104.140307
+Hash table load: 76.380000%
+Bloom filter load: 4.786854%
+Seeks: 343474
+Average seek length: 1104.124301
+Hash table load: 76.380000%
+Bloom filter load: 4.737889%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.685385%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.638370%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.590323%
+Seeks: 343470
+Average seek length: 1104.137107
+Hash table load: 76.380000%
+Bloom filter load: 4.540000%
+Seeks: 343472
+Average seek length: 1104.130671
+Hash table load: 76.380000%
+Bloom filter load: 4.492000%
+Seeks: 343470
+Average seek length: 1104.137098
+Hash table load: 76.380000%
+Bloom filter load: 4.451563%
+Seeks: 347514
+Average seek length: 1091.311562
+Hash table load: 76.380000%
+Bloom filter load: 4.399588%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.361429%
+Seeks: 343602
+Average seek length: 1103.713698
+Hash table load: 76.380000%
+Bloom filter load: 4.320707%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.270600%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.231584%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.189314%
+Seeks: 343468
+Average seek length: 1104.143518
+Hash table load: 76.380000%
+Bloom filter load: 4.154563%
+Seeks: 343962
+Average seek length: 1102.560608
+Hash table load: 76.380000%
+Bloom filter load: 4.116731%

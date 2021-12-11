@@ -1,0 +1,1200 @@
+Quick Sort (Queue)
+0 elements, 0 moves, 0 compares 
+Max queue size: 0
+Quick Sort (Queue)
+1 elements, 0 moves, 1 compares 
+Max queue size: 1
+Quick Sort (Queue)
+2 elements, 3 moves, 3 compares 
+Max queue size: 2
+Quick Sort (Queue)
+3 elements, 3 moves, 5 compares 
+Max queue size: 2
+Quick Sort (Queue)
+4 elements, 9 moves, 11 compares 
+Max queue size: 4
+Quick Sort (Queue)
+5 elements, 6 moves, 14 compares 
+Max queue size: 2
+Quick Sort (Queue)
+6 elements, 9 moves, 21 compares 
+Max queue size: 4
+Quick Sort (Queue)
+7 elements, 12 moves, 24 compares 
+Max queue size: 6
+Quick Sort (Queue)
+8 elements, 12 moves, 29 compares 
+Max queue size: 8
+Quick Sort (Queue)
+9 elements, 15 moves, 32 compares 
+Max queue size: 8
+Quick Sort (Queue)
+10 elements, 18 moves, 35 compares 
+Max queue size: 8
+Quick Sort (Queue)
+11 elements, 15 moves, 43 compares 
+Max queue size: 6
+Quick Sort (Queue)
+12 elements, 15 moves, 46 compares 
+Max queue size: 6
+Quick Sort (Queue)
+13 elements, 21 moves, 63 compares 
+Max queue size: 6
+Quick Sort (Queue)
+14 elements, 27 moves, 77 compares 
+Max queue size: 4
+Quick Sort (Queue)
+15 elements, 27 moves, 81 compares 
+Max queue size: 6
+Quick Sort (Queue)
+16 elements, 36 moves, 89 compares 
+Max queue size: 8
+Quick Sort (Queue)
+17 elements, 33 moves, 83 compares 
+Max queue size: 10
+Quick Sort (Queue)
+18 elements, 36 moves, 93 compares 
+Max queue size: 10
+Quick Sort (Queue)
+19 elements, 42 moves, 95 compares 
+Max queue size: 8
+Quick Sort (Queue)
+20 elements, 48 moves, 95 compares 
+Max queue size: 10
+Quick Sort (Queue)
+21 elements, 48 moves, 104 compares 
+Max queue size: 12
+Quick Sort (Queue)
+22 elements, 57 moves, 110 compares 
+Max queue size: 14
+Quick Sort (Queue)
+23 elements, 42 moves, 128 compares 
+Max queue size: 8
+Quick Sort (Queue)
+24 elements, 45 moves, 126 compares 
+Max queue size: 12
+Quick Sort (Queue)
+25 elements, 54 moves, 127 compares 
+Max queue size: 14
+Quick Sort (Queue)
+26 elements, 66 moves, 140 compares 
+Max queue size: 14
+Quick Sort (Queue)
+27 elements, 63 moves, 139 compares 
+Max queue size: 12
+Quick Sort (Queue)
+28 elements, 81 moves, 149 compares 
+Max queue size: 16
+Quick Sort (Queue)
+29 elements, 81 moves, 160 compares 
+Max queue size: 16
+Quick Sort (Queue)
+30 elements, 78 moves, 166 compares 
+Max queue size: 16
+Quick Sort (Queue)
+31 elements, 87 moves, 178 compares 
+Max queue size: 14
+Quick Sort (Queue)
+32 elements, 81 moves, 185 compares 
+Max queue size: 16
+Quick Sort (Queue)
+33 elements, 78 moves, 189 compares 
+Max queue size: 14
+Quick Sort (Queue)
+34 elements, 96 moves, 206 compares 
+Max queue size: 16
+Quick Sort (Queue)
+35 elements, 84 moves, 208 compares 
+Max queue size: 14
+Quick Sort (Queue)
+36 elements, 117 moves, 202 compares 
+Max queue size: 18
+Quick Sort (Queue)
+37 elements, 117 moves, 215 compares 
+Max queue size: 22
+Quick Sort (Queue)
+38 elements, 117 moves, 219 compares 
+Max queue size: 20
+Quick Sort (Queue)
+39 elements, 120 moves, 234 compares 
+Max queue size: 20
+Quick Sort (Queue)
+40 elements, 120 moves, 243 compares 
+Max queue size: 24
+Quick Sort (Queue)
+41 elements, 120 moves, 244 compares 
+Max queue size: 18
+Quick Sort (Queue)
+42 elements, 126 moves, 268 compares 
+Max queue size: 20
+Quick Sort (Queue)
+43 elements, 117 moves, 256 compares 
+Max queue size: 20
+Quick Sort (Queue)
+44 elements, 120 moves, 265 compares 
+Max queue size: 18
+Quick Sort (Queue)
+45 elements, 117 moves, 287 compares 
+Max queue size: 14
+Quick Sort (Queue)
+46 elements, 120 moves, 298 compares 
+Max queue size: 12
+Quick Sort (Queue)
+47 elements, 129 moves, 279 compares 
+Max queue size: 16
+Quick Sort (Queue)
+48 elements, 123 moves, 302 compares 
+Max queue size: 18
+Quick Sort (Queue)
+49 elements, 144 moves, 292 compares 
+Max queue size: 26
+Quick Sort (Queue)
+50 elements, 153 moves, 298 compares 
+Max queue size: 22
+Quick Sort (Queue)
+51 elements, 156 moves, 339 compares 
+Max queue size: 22
+Quick Sort (Queue)
+52 elements, 168 moves, 344 compares 
+Max queue size: 24
+Quick Sort (Queue)
+53 elements, 177 moves, 329 compares 
+Max queue size: 28
+Quick Sort (Queue)
+54 elements, 183 moves, 344 compares 
+Max queue size: 28
+Quick Sort (Queue)
+55 elements, 156 moves, 345 compares 
+Max queue size: 16
+Quick Sort (Queue)
+56 elements, 165 moves, 362 compares 
+Max queue size: 16
+Quick Sort (Queue)
+57 elements, 177 moves, 385 compares 
+Max queue size: 22
+Quick Sort (Queue)
+58 elements, 186 moves, 389 compares 
+Max queue size: 24
+Quick Sort (Queue)
+59 elements, 186 moves, 399 compares 
+Max queue size: 24
+Quick Sort (Queue)
+60 elements, 183 moves, 403 compares 
+Max queue size: 26
+Quick Sort (Queue)
+61 elements, 198 moves, 411 compares 
+Max queue size: 22
+Quick Sort (Queue)
+62 elements, 204 moves, 434 compares 
+Max queue size: 24
+Quick Sort (Queue)
+63 elements, 174 moves, 423 compares 
+Max queue size: 20
+Quick Sort (Queue)
+64 elements, 180 moves, 435 compares 
+Max queue size: 20
+Quick Sort (Queue)
+65 elements, 195 moves, 452 compares 
+Max queue size: 20
+Quick Sort (Queue)
+66 elements, 159 moves, 576 compares 
+Max queue size: 12
+Quick Sort (Queue)
+67 elements, 213 moves, 460 compares 
+Max queue size: 24
+Quick Sort (Queue)
+68 elements, 243 moves, 474 compares 
+Max queue size: 28
+Quick Sort (Queue)
+69 elements, 228 moves, 465 compares 
+Max queue size: 34
+Quick Sort (Queue)
+70 elements, 216 moves, 502 compares 
+Max queue size: 28
+Quick Sort (Queue)
+71 elements, 219 moves, 486 compares 
+Max queue size: 22
+Quick Sort (Queue)
+72 elements, 246 moves, 484 compares 
+Max queue size: 26
+Quick Sort (Queue)
+73 elements, 231 moves, 493 compares 
+Max queue size: 36
+Quick Sort (Queue)
+74 elements, 255 moves, 503 compares 
+Max queue size: 38
+Quick Sort (Queue)
+75 elements, 222 moves, 509 compares 
+Max queue size: 36
+Quick Sort (Queue)
+76 elements, 231 moves, 524 compares 
+Max queue size: 28
+Quick Sort (Queue)
+77 elements, 243 moves, 523 compares 
+Max queue size: 26
+Quick Sort (Queue)
+78 elements, 249 moves, 533 compares 
+Max queue size: 26
+Quick Sort (Queue)
+79 elements, 282 moves, 554 compares 
+Max queue size: 30
+Quick Sort (Queue)
+80 elements, 288 moves, 570 compares 
+Max queue size: 30
+Quick Sort (Queue)
+81 elements, 276 moves, 555 compares 
+Max queue size: 34
+Quick Sort (Queue)
+82 elements, 300 moves, 582 compares 
+Max queue size: 36
+Quick Sort (Queue)
+83 elements, 291 moves, 632 compares 
+Max queue size: 30
+Quick Sort (Queue)
+84 elements, 318 moves, 669 compares 
+Max queue size: 38
+Quick Sort (Queue)
+85 elements, 294 moves, 616 compares 
+Max queue size: 38
+Quick Sort (Queue)
+86 elements, 288 moves, 623 compares 
+Max queue size: 38
+Quick Sort (Queue)
+87 elements, 306 moves, 612 compares 
+Max queue size: 32
+Quick Sort (Queue)
+88 elements, 336 moves, 632 compares 
+Max queue size: 42
+Quick Sort (Queue)
+89 elements, 300 moves, 629 compares 
+Max queue size: 40
+Quick Sort (Queue)
+90 elements, 318 moves, 636 compares 
+Max queue size: 36
+Quick Sort (Queue)
+91 elements, 345 moves, 757 compares 
+Max queue size: 34
+Quick Sort (Queue)
+92 elements, 312 moves, 719 compares 
+Max queue size: 36
+Quick Sort (Queue)
+93 elements, 312 moves, 699 compares 
+Max queue size: 28
+Quick Sort (Queue)
+94 elements, 315 moves, 718 compares 
+Max queue size: 36
+Quick Sort (Queue)
+95 elements, 288 moves, 746 compares 
+Max queue size: 30
+Quick Sort (Queue)
+96 elements, 333 moves, 834 compares 
+Max queue size: 28
+Quick Sort (Queue)
+97 elements, 327 moves, 755 compares 
+Max queue size: 42
+Quick Sort (Queue)
+98 elements, 342 moves, 728 compares 
+Max queue size: 46
+Quick Sort (Queue)
+99 elements, 330 moves, 799 compares 
+Max queue size: 34
+Quick Sort (Queue)
+100 elements, 378 moves, 763 compares 
+Max queue size: 36
+Quick Sort (Queue)
+101 elements, 390 moves, 786 compares 
+Max queue size: 40
+Quick Sort (Queue)
+102 elements, 366 moves, 786 compares 
+Max queue size: 42
+Quick Sort (Queue)
+103 elements, 381 moves, 745 compares 
+Max queue size: 42
+Quick Sort (Queue)
+104 elements, 303 moves, 732 compares 
+Max queue size: 32
+Quick Sort (Queue)
+105 elements, 378 moves, 786 compares 
+Max queue size: 36
+Quick Sort (Queue)
+106 elements, 396 moves, 773 compares 
+Max queue size: 50
+Quick Sort (Queue)
+107 elements, 378 moves, 858 compares 
+Max queue size: 38
+Quick Sort (Queue)
+108 elements, 396 moves, 882 compares 
+Max queue size: 30
+Quick Sort (Queue)
+109 elements, 354 moves, 841 compares 
+Max queue size: 40
+Quick Sort (Queue)
+110 elements, 423 moves, 840 compares 
+Max queue size: 44
+Quick Sort (Queue)
+111 elements, 405 moves, 883 compares 
+Max queue size: 46
+Quick Sort (Queue)
+112 elements, 429 moves, 921 compares 
+Max queue size: 40
+Quick Sort (Queue)
+113 elements, 414 moves, 876 compares 
+Max queue size: 52
+Quick Sort (Queue)
+114 elements, 420 moves, 912 compares 
+Max queue size: 40
+Quick Sort (Queue)
+115 elements, 399 moves, 846 compares 
+Max queue size: 36
+Quick Sort (Queue)
+116 elements, 435 moves, 876 compares 
+Max queue size: 44
+Quick Sort (Queue)
+117 elements, 411 moves, 954 compares 
+Max queue size: 40
+Quick Sort (Queue)
+118 elements, 387 moves, 921 compares 
+Max queue size: 36
+Quick Sort (Queue)
+119 elements, 447 moves, 1067 compares 
+Max queue size: 50
+Quick Sort (Queue)
+120 elements, 420 moves, 1033 compares 
+Max queue size: 46
+Quick Sort (Queue)
+121 elements, 495 moves, 949 compares 
+Max queue size: 56
+Quick Sort (Queue)
+122 elements, 477 moves, 963 compares 
+Max queue size: 46
+Quick Sort (Queue)
+123 elements, 453 moves, 960 compares 
+Max queue size: 42
+Quick Sort (Queue)
+124 elements, 471 moves, 967 compares 
+Max queue size: 44
+Quick Sort (Queue)
+125 elements, 465 moves, 972 compares 
+Max queue size: 38
+Quick Sort (Queue)
+126 elements, 444 moves, 979 compares 
+Max queue size: 36
+Quick Sort (Queue)
+127 elements, 447 moves, 999 compares 
+Max queue size: 42
+Quick Sort (Queue)
+128 elements, 417 moves, 1256 compares 
+Max queue size: 28
+Quick Sort (Queue)
+129 elements, 513 moves, 1016 compares 
+Max queue size: 48
+Quick Sort (Queue)
+130 elements, 528 moves, 1015 compares 
+Max queue size: 62
+Quick Sort (Queue)
+131 elements, 486 moves, 1157 compares 
+Max queue size: 38
+Quick Sort (Queue)
+132 elements, 483 moves, 1210 compares 
+Max queue size: 40
+Quick Sort (Queue)
+133 elements, 489 moves, 1063 compares 
+Max queue size: 48
+Quick Sort (Queue)
+134 elements, 531 moves, 1096 compares 
+Max queue size: 56
+Quick Sort (Queue)
+135 elements, 471 moves, 1004 compares 
+Max queue size: 50
+Quick Sort (Queue)
+136 elements, 510 moves, 1083 compares 
+Max queue size: 46
+Quick Sort (Queue)
+137 elements, 534 moves, 1108 compares 
+Max queue size: 46
+Quick Sort (Queue)
+138 elements, 558 moves, 1149 compares 
+Max queue size: 42
+Quick Sort (Queue)
+139 elements, 546 moves, 1152 compares 
+Max queue size: 44
+Quick Sort (Queue)
+140 elements, 555 moves, 1145 compares 
+Max queue size: 52
+Quick Sort (Queue)
+141 elements, 570 moves, 1120 compares 
+Max queue size: 54
+Quick Sort (Queue)
+142 elements, 576 moves, 1178 compares 
+Max queue size: 66
+Quick Sort (Queue)
+143 elements, 525 moves, 1214 compares 
+Max queue size: 40
+Quick Sort (Queue)
+144 elements, 537 moves, 1220 compares 
+Max queue size: 38
+Quick Sort (Queue)
+145 elements, 567 moves, 1218 compares 
+Max queue size: 46
+Quick Sort (Queue)
+146 elements, 561 moves, 1162 compares 
+Max queue size: 54
+Quick Sort (Queue)
+147 elements, 543 moves, 1205 compares 
+Max queue size: 44
+Quick Sort (Queue)
+148 elements, 588 moves, 1233 compares 
+Max queue size: 52
+Quick Sort (Queue)
+149 elements, 606 moves, 1207 compares 
+Max queue size: 50
+Quick Sort (Queue)
+150 elements, 633 moves, 1231 compares 
+Max queue size: 62
+Quick Sort (Queue)
+151 elements, 570 moves, 1262 compares 
+Max queue size: 38
+Quick Sort (Queue)
+152 elements, 591 moves, 1235 compares 
+Max queue size: 52
+Quick Sort (Queue)
+153 elements, 606 moves, 1277 compares 
+Max queue size: 54
+Quick Sort (Queue)
+154 elements, 591 moves, 1312 compares 
+Max queue size: 52
+Quick Sort (Queue)
+155 elements, 618 moves, 1307 compares 
+Max queue size: 56
+Quick Sort (Queue)
+156 elements, 660 moves, 1318 compares 
+Max queue size: 68
+Quick Sort (Queue)
+157 elements, 633 moves, 1284 compares 
+Max queue size: 48
+Quick Sort (Queue)
+158 elements, 651 moves, 1265 compares 
+Max queue size: 54
+Quick Sort (Queue)
+159 elements, 639 moves, 1357 compares 
+Max queue size: 52
+Quick Sort (Queue)
+160 elements, 675 moves, 1385 compares 
+Max queue size: 48
+Quick Sort (Queue)
+161 elements, 666 moves, 1295 compares 
+Max queue size: 52
+Quick Sort (Queue)
+162 elements, 681 moves, 1324 compares 
+Max queue size: 46
+Quick Sort (Queue)
+163 elements, 642 moves, 1493 compares 
+Max queue size: 38
+Quick Sort (Queue)
+164 elements, 675 moves, 1489 compares 
+Max queue size: 56
+Quick Sort (Queue)
+165 elements, 705 moves, 1419 compares 
+Max queue size: 62
+Quick Sort (Queue)
+166 elements, 624 moves, 1455 compares 
+Max queue size: 52
+Quick Sort (Queue)
+167 elements, 639 moves, 1418 compares 
+Max queue size: 50
+Quick Sort (Queue)
+168 elements, 711 moves, 1379 compares 
+Max queue size: 74
+Quick Sort (Queue)
+169 elements, 657 moves, 1751 compares 
+Max queue size: 44
+Quick Sort (Queue)
+170 elements, 705 moves, 1736 compares 
+Max queue size: 42
+Quick Sort (Queue)
+171 elements, 750 moves, 1482 compares 
+Max queue size: 70
+Quick Sort (Queue)
+172 elements, 723 moves, 1465 compares 
+Max queue size: 58
+Quick Sort (Queue)
+173 elements, 708 moves, 1413 compares 
+Max queue size: 56
+Quick Sort (Queue)
+174 elements, 690 moves, 1533 compares 
+Max queue size: 50
+Quick Sort (Queue)
+175 elements, 795 moves, 1437 compares 
+Max queue size: 88
+Quick Sort (Queue)
+176 elements, 741 moves, 1432 compares 
+Max queue size: 62
+Quick Sort (Queue)
+177 elements, 726 moves, 1687 compares 
+Max queue size: 62
+Quick Sort (Queue)
+178 elements, 684 moves, 1677 compares 
+Max queue size: 52
+Quick Sort (Queue)
+179 elements, 723 moves, 1555 compares 
+Max queue size: 52
+Quick Sort (Queue)
+180 elements, 771 moves, 1550 compares 
+Max queue size: 64
+Quick Sort (Queue)
+181 elements, 756 moves, 1492 compares 
+Max queue size: 66
+Quick Sort (Queue)
+182 elements, 762 moves, 1533 compares 
+Max queue size: 56
+Quick Sort (Queue)
+183 elements, 768 moves, 1573 compares 
+Max queue size: 66
+Quick Sort (Queue)
+184 elements, 762 moves, 1637 compares 
+Max queue size: 54
+Quick Sort (Queue)
+185 elements, 795 moves, 1558 compares 
+Max queue size: 70
+Quick Sort (Queue)
+186 elements, 801 moves, 1543 compares 
+Max queue size: 62
+Quick Sort (Queue)
+187 elements, 759 moves, 1914 compares 
+Max queue size: 54
+Quick Sort (Queue)
+188 elements, 846 moves, 1716 compares 
+Max queue size: 80
+Quick Sort (Queue)
+189 elements, 840 moves, 1759 compares 
+Max queue size: 80
+Quick Sort (Queue)
+190 elements, 843 moves, 1767 compares 
+Max queue size: 60
+Quick Sort (Queue)
+191 elements, 804 moves, 1704 compares 
+Max queue size: 54
+Quick Sort (Queue)
+192 elements, 789 moves, 1721 compares 
+Max queue size: 50
+Quick Sort (Queue)
+193 elements, 816 moves, 1669 compares 
+Max queue size: 66
+Quick Sort (Queue)
+194 elements, 780 moves, 1820 compares 
+Max queue size: 50
+Quick Sort (Queue)
+195 elements, 861 moves, 1755 compares 
+Max queue size: 68
+Quick Sort (Queue)
+196 elements, 810 moves, 1740 compares 
+Max queue size: 54
+Quick Sort (Queue)
+197 elements, 912 moves, 1822 compares 
+Max queue size: 70
+Quick Sort (Queue)
+198 elements, 939 moves, 1694 compares 
+Max queue size: 68
+Quick Sort (Queue)
+199 elements, 897 moves, 1636 compares 
+Max queue size: 72
+Quick Sort (Queue)
+200 elements, 915 moves, 1687 compares 
+Max queue size: 72
+Quick Sort (Queue)
+201 elements, 807 moves, 1959 compares 
+Max queue size: 64
+Quick Sort (Queue)
+202 elements, 837 moves, 1974 compares 
+Max queue size: 60
+Quick Sort (Queue)
+203 elements, 861 moves, 1683 compares 
+Max queue size: 62
+Quick Sort (Queue)
+204 elements, 864 moves, 1730 compares 
+Max queue size: 56
+Quick Sort (Queue)
+205 elements, 831 moves, 1859 compares 
+Max queue size: 60
+Quick Sort (Queue)
+206 elements, 813 moves, 1913 compares 
+Max queue size: 52
+Quick Sort (Queue)
+207 elements, 876 moves, 1744 compares 
+Max queue size: 82
+Quick Sort (Queue)
+208 elements, 912 moves, 1857 compares 
+Max queue size: 70
+Quick Sort (Queue)
+209 elements, 918 moves, 1758 compares 
+Max queue size: 74
+Quick Sort (Queue)
+210 elements, 879 moves, 1925 compares 
+Max queue size: 68
+Quick Sort (Queue)
+211 elements, 912 moves, 1869 compares 
+Max queue size: 64
+Quick Sort (Queue)
+212 elements, 909 moves, 1864 compares 
+Max queue size: 76
+Quick Sort (Queue)
+213 elements, 951 moves, 2180 compares 
+Max queue size: 64
+Quick Sort (Queue)
+214 elements, 903 moves, 2195 compares 
+Max queue size: 54
+Quick Sort (Queue)
+215 elements, 954 moves, 2018 compares 
+Max queue size: 54
+Quick Sort (Queue)
+216 elements, 954 moves, 2050 compares 
+Max queue size: 54
+Quick Sort (Queue)
+217 elements, 975 moves, 1928 compares 
+Max queue size: 90
+Quick Sort (Queue)
+218 elements, 978 moves, 1947 compares 
+Max queue size: 98
+Quick Sort (Queue)
+219 elements, 867 moves, 2037 compares 
+Max queue size: 46
+Quick Sort (Queue)
+220 elements, 909 moves, 1988 compares 
+Max queue size: 48
+Quick Sort (Queue)
+221 elements, 858 moves, 1952 compares 
+Max queue size: 48
+Quick Sort (Queue)
+222 elements, 915 moves, 1945 compares 
+Max queue size: 70
+Quick Sort (Queue)
+223 elements, 921 moves, 2243 compares 
+Max queue size: 52
+Quick Sort (Queue)
+224 elements, 996 moves, 2167 compares 
+Max queue size: 78
+Quick Sort (Queue)
+225 elements, 873 moves, 2358 compares 
+Max queue size: 38
+Quick Sort (Queue)
+226 elements, 939 moves, 2136 compares 
+Max queue size: 48
+Quick Sort (Queue)
+227 elements, 927 moves, 2007 compares 
+Max queue size: 60
+Quick Sort (Queue)
+228 elements, 1020 moves, 1985 compares 
+Max queue size: 66
+Quick Sort (Queue)
+229 elements, 1014 moves, 2139 compares 
+Max queue size: 50
+Quick Sort (Queue)
+230 elements, 984 moves, 1945 compares 
+Max queue size: 84
+Quick Sort (Queue)
+231 elements, 1044 moves, 2170 compares 
+Max queue size: 64
+Quick Sort (Queue)
+232 elements, 1035 moves, 2036 compares 
+Max queue size: 64
+Quick Sort (Queue)
+233 elements, 1020 moves, 2139 compares 
+Max queue size: 62
+Quick Sort (Queue)
+234 elements, 1008 moves, 2241 compares 
+Max queue size: 74
+Quick Sort (Queue)
+235 elements, 1065 moves, 2103 compares 
+Max queue size: 102
+Quick Sort (Queue)
+236 elements, 1059 moves, 2156 compares 
+Max queue size: 78
+Quick Sort (Queue)
+237 elements, 1080 moves, 2259 compares 
+Max queue size: 82
+Quick Sort (Queue)
+238 elements, 1065 moves, 2286 compares 
+Max queue size: 74
+Quick Sort (Queue)
+239 elements, 1095 moves, 2069 compares 
+Max queue size: 90
+Quick Sort (Queue)
+240 elements, 1116 moves, 2146 compares 
+Max queue size: 82
+Quick Sort (Queue)
+241 elements, 1002 moves, 2335 compares 
+Max queue size: 56
+Quick Sort (Queue)
+242 elements, 1020 moves, 2396 compares 
+Max queue size: 60
+Quick Sort (Queue)
+243 elements, 1080 moves, 2292 compares 
+Max queue size: 72
+Quick Sort (Queue)
+244 elements, 1080 moves, 2498 compares 
+Max queue size: 62
+Quick Sort (Queue)
+245 elements, 1068 moves, 2334 compares 
+Max queue size: 74
+Quick Sort (Queue)
+246 elements, 1092 moves, 2383 compares 
+Max queue size: 70
+Quick Sort (Queue)
+247 elements, 1122 moves, 2167 compares 
+Max queue size: 76
+Quick Sort (Queue)
+248 elements, 1188 moves, 2260 compares 
+Max queue size: 84
+Quick Sort (Queue)
+249 elements, 1167 moves, 2419 compares 
+Max queue size: 74
+Quick Sort (Queue)
+250 elements, 1158 moves, 2290 compares 
+Max queue size: 76
+Quick Sort (Queue)
+251 elements, 1110 moves, 2396 compares 
+Max queue size: 86
+Quick Sort (Queue)
+252 elements, 1164 moves, 2280 compares 
+Max queue size: 92
+Quick Sort (Queue)
+253 elements, 1164 moves, 2268 compares 
+Max queue size: 90
+Quick Sort (Queue)
+254 elements, 1155 moves, 2257 compares 
+Max queue size: 90
+Quick Sort (Queue)
+255 elements, 1224 moves, 2254 compares 
+Max queue size: 100
+Quick Sort (Queue)
+256 elements, 1158 moves, 2302 compares 
+Max queue size: 90
+Quick Sort (Queue)
+257 elements, 1200 moves, 2360 compares 
+Max queue size: 76
+Quick Sort (Queue)
+258 elements, 1194 moves, 2312 compares 
+Max queue size: 90
+Quick Sort (Queue)
+259 elements, 1095 moves, 2289 compares 
+Max queue size: 74
+Quick Sort (Queue)
+260 elements, 1245 moves, 2435 compares 
+Max queue size: 88
+Quick Sort (Queue)
+261 elements, 1179 moves, 2422 compares 
+Max queue size: 76
+Quick Sort (Queue)
+262 elements, 1182 moves, 2515 compares 
+Max queue size: 76
+Quick Sort (Queue)
+263 elements, 1104 moves, 2419 compares 
+Max queue size: 80
+Quick Sort (Queue)
+264 elements, 1146 moves, 2418 compares 
+Max queue size: 74
+Quick Sort (Queue)
+265 elements, 1038 moves, 2365 compares 
+Max queue size: 74
+Quick Sort (Queue)
+266 elements, 1128 moves, 2770 compares 
+Max queue size: 68
+Quick Sort (Queue)
+267 elements, 1182 moves, 2512 compares 
+Max queue size: 80
+Quick Sort (Queue)
+268 elements, 1257 moves, 2485 compares 
+Max queue size: 90
+Quick Sort (Queue)
+269 elements, 1245 moves, 2880 compares 
+Max queue size: 76
+Quick Sort (Queue)
+270 elements, 1221 moves, 2729 compares 
+Max queue size: 78
+Quick Sort (Queue)
+271 elements, 1209 moves, 2500 compares 
+Max queue size: 92
+Quick Sort (Queue)
+272 elements, 1191 moves, 2482 compares 
+Max queue size: 70
+Quick Sort (Queue)
+273 elements, 1323 moves, 2739 compares 
+Max queue size: 110
+Quick Sort (Queue)
+274 elements, 1281 moves, 2849 compares 
+Max queue size: 80
+Quick Sort (Queue)
+275 elements, 1296 moves, 2678 compares 
+Max queue size: 82
+Quick Sort (Queue)
+276 elements, 1305 moves, 2758 compares 
+Max queue size: 74
+Quick Sort (Queue)
+277 elements, 1341 moves, 2683 compares 
+Max queue size: 86
+Quick Sort (Queue)
+278 elements, 1353 moves, 2674 compares 
+Max queue size: 82
+Quick Sort (Queue)
+279 elements, 1290 moves, 2730 compares 
+Max queue size: 80
+Quick Sort (Queue)
+280 elements, 1224 moves, 2757 compares 
+Max queue size: 70
+Quick Sort (Queue)
+281 elements, 1350 moves, 2771 compares 
+Max queue size: 86
+Quick Sort (Queue)
+282 elements, 1263 moves, 2679 compares 
+Max queue size: 76
+Quick Sort (Queue)
+283 elements, 1374 moves, 2604 compares 
+Max queue size: 102
+Quick Sort (Queue)
+284 elements, 1365 moves, 2556 compares 
+Max queue size: 108
+Quick Sort (Queue)
+285 elements, 1326 moves, 2652 compares 
+Max queue size: 86
+Quick Sort (Queue)
+286 elements, 1275 moves, 2961 compares 
+Max queue size: 76
+Quick Sort (Queue)
+287 elements, 1290 moves, 2582 compares 
+Max queue size: 84
+Quick Sort (Queue)
+288 elements, 1293 moves, 2657 compares 
+Max queue size: 86
+Quick Sort (Queue)
+289 elements, 1410 moves, 2604 compares 
+Max queue size: 112
+Quick Sort (Queue)
+290 elements, 1452 moves, 2562 compares 
+Max queue size: 114
+Quick Sort (Queue)
+291 elements, 1338 moves, 2647 compares 
+Max queue size: 88
+Quick Sort (Queue)
+292 elements, 1398 moves, 2680 compares 
+Max queue size: 90
+Quick Sort (Queue)
+293 elements, 1353 moves, 2747 compares 
+Max queue size: 84
+Quick Sort (Queue)
+294 elements, 1299 moves, 2801 compares 
+Max queue size: 74
+Quick Sort (Queue)
+295 elements, 1329 moves, 2925 compares 
+Max queue size: 76
+Quick Sort (Queue)
+296 elements, 1416 moves, 2886 compares 
+Max queue size: 84
+Quick Sort (Queue)
+297 elements, 1368 moves, 2972 compares 
+Max queue size: 86
+Quick Sort (Queue)
+298 elements, 1377 moves, 2988 compares 
+Max queue size: 84
+Quick Sort (Queue)
+299 elements, 1437 moves, 3084 compares 
+Max queue size: 96
+Quick Sort (Queue)
+300 elements, 1440 moves, 2846 compares 
+Max queue size: 96
+Quick Sort (Queue)
+301 elements, 1347 moves, 3110 compares 
+Max queue size: 86
+Quick Sort (Queue)
+302 elements, 1368 moves, 2959 compares 
+Max queue size: 92
+Quick Sort (Queue)
+303 elements, 1383 moves, 2902 compares 
+Max queue size: 66
+Quick Sort (Queue)
+304 elements, 1383 moves, 3133 compares 
+Max queue size: 70
+Quick Sort (Queue)
+305 elements, 1347 moves, 3004 compares 
+Max queue size: 74
+Quick Sort (Queue)
+306 elements, 1458 moves, 2954 compares 
+Max queue size: 104
+Quick Sort (Queue)
+307 elements, 1476 moves, 3045 compares 
+Max queue size: 110
+Quick Sort (Queue)
+308 elements, 1521 moves, 3060 compares 
+Max queue size: 96
+Quick Sort (Queue)
+309 elements, 1380 moves, 3006 compares 
+Max queue size: 106
+Quick Sort (Queue)
+310 elements, 1374 moves, 3259 compares 
+Max queue size: 74
+Quick Sort (Queue)
+311 elements, 1431 moves, 2881 compares 
+Max queue size: 106
+Quick Sort (Queue)
+312 elements, 1461 moves, 2956 compares 
+Max queue size: 90
+Quick Sort (Queue)
+313 elements, 1446 moves, 2906 compares 
+Max queue size: 104
+Quick Sort (Queue)
+314 elements, 1518 moves, 3037 compares 
+Max queue size: 110
+Quick Sort (Queue)
+315 elements, 1506 moves, 3007 compares 
+Max queue size: 100
+Quick Sort (Queue)
+316 elements, 1479 moves, 3003 compares 
+Max queue size: 94
+Quick Sort (Queue)
+317 elements, 1578 moves, 2964 compares 
+Max queue size: 118
+Quick Sort (Queue)
+318 elements, 1533 moves, 2946 compares 
+Max queue size: 106
+Quick Sort (Queue)
+319 elements, 1470 moves, 3257 compares 
+Max queue size: 92
+Quick Sort (Queue)
+320 elements, 1464 moves, 3222 compares 
+Max queue size: 86
+Quick Sort (Queue)
+321 elements, 1602 moves, 2967 compares 
+Max queue size: 126
+Quick Sort (Queue)
+322 elements, 1626 moves, 3043 compares 
+Max queue size: 110
+Quick Sort (Queue)
+323 elements, 1596 moves, 2986 compares 
+Max queue size: 114
+Quick Sort (Queue)
+324 elements, 1608 moves, 2994 compares 
+Max queue size: 116
+Quick Sort (Queue)
+325 elements, 1512 moves, 3169 compares 
+Max queue size: 92
+Quick Sort (Queue)
+326 elements, 1539 moves, 3041 compares 
+Max queue size: 108
+Quick Sort (Queue)
+327 elements, 1563 moves, 3086 compares 
+Max queue size: 108
+Quick Sort (Queue)
+328 elements, 1575 moves, 3116 compares 
+Max queue size: 104
+Quick Sort (Queue)
+329 elements, 1512 moves, 3184 compares 
+Max queue size: 90
+Quick Sort (Queue)
+330 elements, 1530 moves, 3016 compares 
+Max queue size: 106
+Quick Sort (Queue)
+331 elements, 1566 moves, 3149 compares 
+Max queue size: 110
+Quick Sort (Queue)
+332 elements, 1602 moves, 3229 compares 
+Max queue size: 116
+Quick Sort (Queue)
+333 elements, 1653 moves, 3036 compares 
+Max queue size: 106
+Quick Sort (Queue)
+334 elements, 1569 moves, 3173 compares 
+Max queue size: 100
+Quick Sort (Queue)
+335 elements, 1566 moves, 3145 compares 
+Max queue size: 100
+Quick Sort (Queue)
+336 elements, 1557 moves, 3249 compares 
+Max queue size: 104
+Quick Sort (Queue)
+337 elements, 1422 moves, 3755 compares 
+Max queue size: 66
+Quick Sort (Queue)
+338 elements, 1533 moves, 3571 compares 
+Max queue size: 80
+Quick Sort (Queue)
+339 elements, 1725 moves, 3247 compares 
+Max queue size: 120
+Quick Sort (Queue)
+340 elements, 1767 moves, 3299 compares 
+Max queue size: 134
+Quick Sort (Queue)
+341 elements, 1521 moves, 3172 compares 
+Max queue size: 94
+Quick Sort (Queue)
+342 elements, 1611 moves, 3178 compares 
+Max queue size: 100
+Quick Sort (Queue)
+343 elements, 1668 moves, 3314 compares 
+Max queue size: 114
+Quick Sort (Queue)
+344 elements, 1464 moves, 3609 compares 
+Max queue size: 80
+Quick Sort (Queue)
+345 elements, 1608 moves, 3731 compares 
+Max queue size: 86
+Quick Sort (Queue)
+346 elements, 1569 moves, 3513 compares 
+Max queue size: 96
+Quick Sort (Queue)
+347 elements, 1653 moves, 3611 compares 
+Max queue size: 112
+Quick Sort (Queue)
+348 elements, 1713 moves, 3407 compares 
+Max queue size: 120
+Quick Sort (Queue)
+349 elements, 1668 moves, 3347 compares 
+Max queue size: 94
+Quick Sort (Queue)
+350 elements, 1725 moves, 3319 compares 
+Max queue size: 110
+Quick Sort (Queue)
+351 elements, 1707 moves, 3588 compares 
+Max queue size: 102
+Quick Sort (Queue)
+352 elements, 1725 moves, 3427 compares 
+Max queue size: 122
+Quick Sort (Queue)
+353 elements, 1593 moves, 3619 compares 
+Max queue size: 84
+Quick Sort (Queue)
+354 elements, 1596 moves, 3642 compares 
+Max queue size: 86
+Quick Sort (Queue)
+355 elements, 1686 moves, 3705 compares 
+Max queue size: 108
+Quick Sort (Queue)
+356 elements, 1659 moves, 3654 compares 
+Max queue size: 104
+Quick Sort (Queue)
+357 elements, 1656 moves, 3928 compares 
+Max queue size: 84
+Quick Sort (Queue)
+358 elements, 1542 moves, 4075 compares 
+Max queue size: 76
+Quick Sort (Queue)
+359 elements, 1773 moves, 3544 compares 
+Max queue size: 122
+Quick Sort (Queue)
+360 elements, 1734 moves, 3389 compares 
+Max queue size: 114
+Quick Sort (Queue)
+361 elements, 1836 moves, 3448 compares 
+Max queue size: 130
+Quick Sort (Queue)
+362 elements, 1794 moves, 3743 compares 
+Max queue size: 92
+Quick Sort (Queue)
+363 elements, 1788 moves, 3603 compares 
+Max queue size: 110
+Quick Sort (Queue)
+364 elements, 1785 moves, 3723 compares 
+Max queue size: 110
+Quick Sort (Queue)
+365 elements, 1857 moves, 3687 compares 
+Max queue size: 110
+Quick Sort (Queue)
+366 elements, 1875 moves, 3755 compares 
+Max queue size: 126
+Quick Sort (Queue)
+367 elements, 1719 moves, 3581 compares 
+Max queue size: 98
+Quick Sort (Queue)
+368 elements, 1743 moves, 3774 compares 
+Max queue size: 94
+Quick Sort (Queue)
+369 elements, 1650 moves, 3725 compares 
+Max queue size: 100
+Quick Sort (Queue)
+370 elements, 1824 moves, 3621 compares 
+Max queue size: 134
+Quick Sort (Queue)
+371 elements, 1890 moves, 3672 compares 
+Max queue size: 112
+Quick Sort (Queue)
+372 elements, 1809 moves, 3729 compares 
+Max queue size: 110
+Quick Sort (Queue)
+373 elements, 1821 moves, 3483 compares 
+Max queue size: 132
+Quick Sort (Queue)
+374 elements, 1779 moves, 3709 compares 
+Max queue size: 106
+Quick Sort (Queue)
+375 elements, 1770 moves, 3700 compares 
+Max queue size: 98
+Quick Sort (Queue)
+376 elements, 1743 moves, 3844 compares 
+Max queue size: 92
+Quick Sort (Queue)
+377 elements, 1932 moves, 3742 compares 
+Max queue size: 110
+Quick Sort (Queue)
+378 elements, 1878 moves, 3767 compares 
+Max queue size: 90
+Quick Sort (Queue)
+379 elements, 1776 moves, 3836 compares 
+Max queue size: 116
+Quick Sort (Queue)
+380 elements, 1785 moves, 4103 compares 
+Max queue size: 94
+Quick Sort (Queue)
+381 elements, 1824 moves, 4055 compares 
+Max queue size: 112
+Quick Sort (Queue)
+382 elements, 1860 moves, 3871 compares 
+Max queue size: 114
+Quick Sort (Queue)
+383 elements, 1899 moves, 3757 compares 
+Max queue size: 122
+Quick Sort (Queue)
+384 elements, 1965 moves, 3779 compares 
+Max queue size: 126
+Quick Sort (Queue)
+385 elements, 2058 moves, 3758 compares 
+Max queue size: 134
+Quick Sort (Queue)
+386 elements, 1893 moves, 3681 compares 
+Max queue size: 120
+Quick Sort (Queue)
+387 elements, 1935 moves, 3662 compares 
+Max queue size: 124
+Quick Sort (Queue)
+388 elements, 1890 moves, 3998 compares 
+Max queue size: 94
+Quick Sort (Queue)
+389 elements, 1908 moves, 3841 compares 
+Max queue size: 134
+Quick Sort (Queue)
+390 elements, 1875 moves, 3892 compares 
+Max queue size: 110
+Quick Sort (Queue)
+391 elements, 1932 moves, 3918 compares 
+Max queue size: 102
+Quick Sort (Queue)
+392 elements, 1944 moves, 3938 compares 
+Max queue size: 102
+Quick Sort (Queue)
+393 elements, 1824 moves, 4312 compares 
+Max queue size: 100
+Quick Sort (Queue)
+394 elements, 1854 moves, 4392 compares 
+Max queue size: 110
+Quick Sort (Queue)
+395 elements, 1935 moves, 4173 compares 
+Max queue size: 100
+Quick Sort (Queue)
+396 elements, 1965 moves, 4032 compares 
+Max queue size: 112
+Quick Sort (Queue)
+397 elements, 1962 moves, 3849 compares 
+Max queue size: 124
+Quick Sort (Queue)
+398 elements, 1956 moves, 3919 compares 
+Max queue size: 120
+Quick Sort (Queue)
+399 elements, 1965 moves, 4253 compares 
+Max queue size: 114
