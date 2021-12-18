@@ -1,3 +1,3 @@
 # AlgorithmPractice
 
-Contains small projects written in C, C++ and Java
+Contains small projects (algorithms and data structures) written in C, C++, Python and Java
