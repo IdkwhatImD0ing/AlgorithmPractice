@@ -1,5 +1,6 @@
 from numbers import Number
 from IPython.display import display, Math
+import random
 
 # Takes an expression e and returns a string 
 # which is the LaTeX representation of the expression e
@@ -70,6 +71,46 @@ def derivate(e, x):
             return("+", ("*", num2, derivate(num1, x)), ("*", num1, derivate(num2, x)))
         elif (operation == "/"):
             return("/",("-", ("*", num2, derivate(num1, x)), ("*", num1, derivate(num2, x))),("*",num2,num2))
+
+# Find all variables in expression e using recursion
+# Wrapper function
+def variables(e):
+    # Recursive function
+    def variablesr(e, set):
+        if (type(e) != tuple and (e == 'x' or e == 'y')):
+            set.add(e)
+            return
+        elif (type(e) == tuple):
+            num1 = e[1]
+            num2 = e[2]
+            variablesr(num1, set)
+            variablesr(num2, set)
+            return
+    
+    result = set()
+    variablesr(e, result)
+    return result
+
+def value_equality(e1, e2, num_samples=1000, tolerance=1e-6):
+    """Return True if the two expressions self and other are numerically
+    equivalent.  Equivalence is tested by generating
+    num_samples assignments, and checking that equality holds
+    for all of them.  Equality is checked up to tolerance, that is,
+    the values of the two expressions have to be closer than tolerance."""
+    
+    for x in range(num_samples):
+        d={}
+        string = "qwertyuiopasdfghjklzxcvbnm"
+        for i in range(len(list(string))):
+            d[string[i]] = random.randint(0,99999)
+        a = compute(e1, varval = d)
+        b = compute(e2, varval = d)
+        
+        difference = abs(a-b)
+        if (difference > tolerance):
+            return False
+        
+    return True
 
 # Prints latex in readable forms
 def niceprint(e):
@@ -164,3 +205,21 @@ f = ('/',
   ('+', ('*', 'x', 'x'), ('*', 'a', 'x'))))
 
 check_equal(derivate(e, 'x'), f)
+
+# Tests for `Expr.variables`
+print("Variable tests")
+e = ('*', ('+', 'x', 2), ('/', 'x', 'y'))
+check_equal(variables(e), {'x', 'y'})
+
+# Tests for Value equality
+print("Equality tests")
+e1 = ('+', ('*', 'x', 1), ('*', 'y', 0))
+e2 = 'x'
+check_equal(value_equality(e1, e2), True)
+
+e3 = ('/', ('*', 'x', 'x'), ('*', 'x', 1))
+check_equal(value_equality(e1, e3), True)
+
+e4 = ('/', 'y', 2)
+check_equal(value_equality(e1, e4), False)
+check_equal(value_equality(e3, e4), False)
