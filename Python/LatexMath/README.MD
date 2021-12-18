@@ -20,6 +20,8 @@ The function compute(e, varval={}) evaluates an expression with the help of a va
 
 As we have symbolic expressions, we can compute their (partial) derivative with respect to any variable. Given an expression  e  and a variable  x , we denote by  ∂e/∂x  the partial derivative of  e  with respect to  x . To compute it, we can simply rely on the definition of derivative.
 
+
+
 The function derivate, given an expression e and a variable x, returns an expression for ∂e/∂x.
 
 ## Expression Equality

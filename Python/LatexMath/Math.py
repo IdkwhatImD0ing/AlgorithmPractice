@@ -77,7 +77,7 @@ def derivate(e, x):
 def variables(e):
     # Recursive function
     def variablesr(e, set):
-        if (type(e) != tuple and (e == 'x' or e == 'y')):
+        if (type(e) != tuple and type(e) != int): #If e is not a tuple or int, it must be variable
             set.add(e)
             return
         elif (type(e) == tuple):
@@ -100,14 +100,15 @@ def value_equality(e1, e2, num_samples=1000, tolerance=1e-6):
     
     for x in range(num_samples):
         d={}
-        string = "qwertyuiopasdfghjklzxcvbnm"
+        string = "qwertyuiopasdfghjklzxcvbnm" #This ensures we account for all variables
         for i in range(len(list(string))):
-            d[string[i]] = random.randint(0,99999)
+            d[string[i]] = random.randint(0,99999) #Each variable is assigned an integer
+        
         a = compute(e1, varval = d)
         b = compute(e2, varval = d)
         
         difference = abs(a-b)
-        if (difference > tolerance):
+        if (difference > tolerance): #Difference must be below tolerance
             return False
         
     return True
