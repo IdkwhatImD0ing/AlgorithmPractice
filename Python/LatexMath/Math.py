@@ -1,3 +1,6 @@
+from numbers import Number
+from IPython.display import display, Math
+
 # Takes an expression e and returns a string 
 # which is the LaTeX representation of the expression e
 def expr_to_latex(e):
@@ -49,6 +52,29 @@ def compute(e, varval={}):
         # Not simplifiable.
         return (op, ll, rr)
 
+def derivate(e, x):
+    """Returns the derivative of e with respect to  x."""
+    if (type(e) != tuple):
+        if (e == x):
+            return 1
+        else:
+            return 0
+    elif (type(e) == tuple):
+        operation = e[0]
+        num1 = e[1]
+        num2 = e[2]
+        
+        if (operation == ("-") or operation == ("+")):
+            return(operation, derivate(num1, x), derivate(num2, x))
+        elif (operation == "*"):
+            return("+", ("*", num2, derivate(num1, x)), ("*", num1, derivate(num2, x)))
+        elif (operation == "/"):
+            return("/",("-", ("*", num2, derivate(num1, x)), ("*", num1, derivate(num2, x))),("*",num2,num2))
+
+# Prints latex in readable forms
+def niceprint(e):
+    display(Math(expr_to_latex(e)))
+
 # Checking function to see if X and Y are equal
 def check_equal(x, y, msg=None):
     if x != y:
@@ -92,3 +118,49 @@ e = ("*", ("+", 1, "x"), ("-", ("*", "x", "y"), "y"))
 check_equal(expr_to_latex(e), "(1+x)*((x*y)-y)")
 e = ("*", ("/", ("*", 3, "y"), "x"), ("-", ("*", "x", "y"), "y"))
 check_equal(expr_to_latex(e), "\\frac{3*y}{x}*((x*y)-y)")
+
+# Partial and Complete Evaluations
+e = ('+', ('-', 'y', 3), ('*', 'x', 4))
+print(compute(e, varval={'x': 2}))
+print(compute(e, varval={'y': 3}))
+print(compute(e, varval={'x': 2, 'y': 3}))
+
+print("Derivative Tests")
+# Base case tests for `derivate`
+check_equal(derivate(3, 'x'), 0)
+check_equal(derivate('y', 'x'), 0)
+check_equal(derivate('x', 'x'), 1)
+
+# Tests for `derivate` for single-operator expressions
+check_equal(derivate(('+', 'x', 'x'), 'x'), ('+', 1, 1))
+check_equal(derivate(('-', 4, 'x'), 'x'), ('-', 0, 1))
+check_equal(derivate(('*', 2, 'x'), 'x'),
+             ('+', ('*', 'x', 0), ('*', 2, 1)))
+check_equal(derivate(('/', 2, 'x'), 'x'),
+             ('/', ('-', ('*', 'x', 0), ('*', 2, 1)), ('*', 'x', 'x')))
+
+# Tests for `derivate` for composite expressions
+e1 = ('*', 'x', 'x')
+e2 = ('*', 3, 'x')
+num = ('-', e1, e2)
+e3 = ('*', 'a', 'x')
+den = ('+', e1, e3)
+e = ('/', num, den)
+
+f = ('/',
+ ('-',
+  ('*',
+   ('+', ('*', 'x', 'x'), ('*', 'a', 'x')),
+   ('-',
+    ('+', ('*', 'x', 1), ('*', 'x', 1)),
+    ('+', ('*', 'x', 0), ('*', 3, 1)))),
+  ('*',
+   ('-', ('*', 'x', 'x'), ('*', 3, 'x')),
+   ('+',
+    ('+', ('*', 'x', 1), ('*', 'x', 1)),
+    ('+', ('*', 'x', 0), ('*', 'a', 1))))),
+ ('*',
+  ('+', ('*', 'x', 'x'), ('*', 'a', 'x')),
+  ('+', ('*', 'x', 'x'), ('*', 'a', 'x'))))
+
+check_equal(derivate(e, 'x'), f)
