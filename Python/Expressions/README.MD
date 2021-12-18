@@ -16,7 +16,7 @@ The Expr class implements the various methods used to emulate numerical types, s
 
 Like LatexMath, the `Expr` also contains an eval function to evaluate an expression based on given values of variables.
 
-### The `Variable` class
+### The `V` class
 
 Variables are expressions containing only one child, of type string, which is the name of the variable. So V("x") will be a variable with name "x". The method eval of a variable over-rides that of Expr.
 
@@ -28,6 +28,6 @@ Each class also contains the derivative function, which applies the correspondin
 
 The derivative function works by:
 
--The method derivate will first call the method derivate for all the subexpressions, that is, the children of the expression, accumulating the results into a list partials (so called because these are partial derivatives).
+- The method derivate will first call the method derivate for all the subexpressions, that is, the children of the expression, accumulating the results into a list partials (so called because these are partial derivatives).
 
--Then, the method derivate will call op_derivate. This method is an abstract method of Expr, and is implemented in each operator (Plus, Minus, etc). The method op_derivate will compute the derivative of the expression, according to the operator type. For example, the derivative of of a + b would be the derivative of a + derivative of b
+- Then, the method derivate will call op_derivate. This method is an abstract method of Expr, and is implemented in each operator (Plus, Minus, etc). The method op_derivate will compute the derivative of the expression, according to the operator type. For example, the derivative of of a + b would be the derivative of a + derivative of b
