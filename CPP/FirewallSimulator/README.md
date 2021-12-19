@@ -1,11 +1,11 @@
-Assignment 6: Great Firewall of Santa Cruz
+# Great Firewall of Santa Cruz
 
 This program will simulate a firewall filtering bad words out and reminding the user of which new words to use in place of old words.
 
-Build
+## Build
 make all
 
-Running
+## Running
 ./encode
 -h for help page
 -s to print statistics
@@ -13,11 +13,11 @@ Running
 -t to specify hash table size
 -f to specify bloom filter size
 
-Formatting
+## Formatting
 make format
 
-Cleaning
+## Cleaning
 make clean
 
-Checking for build errors
+## Checking for build errors
 make scan-build

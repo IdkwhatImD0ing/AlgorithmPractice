@@ -1,10 +1,10 @@
-Assignment 2
+# Calculating Trig Equations
 This program calculates arcSin, arcCos, arcTan, and Log for a certain value. It tests arcSin and arcCos from -1 to 1, and Log and arcTan from 1 to 10.
 
-Build
+## Build
 make all
 
-Running
+## Running
 ./mathlib-test
 -a for all tests
 -s for arcSin tests
@@ -12,5 +12,5 @@ Running
 -t for arcTan tests
 -l for Log tests
 
-Cleaning
+## Cleaning
 make clean

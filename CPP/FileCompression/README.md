@@ -1,9 +1,9 @@
-Assignment 6 Huffman Coding
+# Huffman Encoding for File Compression
 This program compresses and decompresses files.
 Build
 make all
 
-Running
+## Running
 ./encode
 -h for help page
 -v to print statistics
@@ -20,9 +20,9 @@ Running
 ./entropy
 -h for help page
 
-Formatting
+## Formatting
 make format
 
-Cleaning
+## Cleaning
 make clean
 

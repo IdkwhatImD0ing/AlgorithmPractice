@@ -1,10 +1,10 @@
-Assignment 5
+# Error Correction
 This program encodes and decodes files using hamming codes and corrects any errors that appear.
 
-Build
+## Build
 make all
 
-Running
+## Running
 ./encode
 -h for help page
 -i to specify the infile
@@ -24,9 +24,9 @@ Running
 ./entropy
 -h for help page
 
-Formatting
+## Formatting
 make format
 
-Cleaning
+## Cleaning
 make clean
 
