@@ -167,8 +167,8 @@ class Negative(Expr):
     def op(self, x):
         return x * -1
 
-    def derivate(self):
-        return partials[0]
+    def op_derivate(self, var, partials):
+        return Minus(0, partials[0])
 
 class V(Expr):
     """Variable."""

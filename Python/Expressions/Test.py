@@ -13,7 +13,7 @@ def check_equal(x, y, msg=None):
         print("    Correct answer: ", y)
     assert x == y, "%r and %r are different" % (x, y)
     print("Success")
-"""
+
 e = V('x') + 3
 print(e)
 print(e.eval())
@@ -45,7 +45,7 @@ check_equal(e.derivate('x').eval(dict(x=5)), 10)
 e = V('x') / V('y')
 check_equal(e.derivate('x').eval(dict(x=3, y=2)), 0.5)
 check_equal(e.derivate('y').eval(dict(x=3, y=2)), -3 / 4) 
-"""
+
 e = V('x') ** V('y')
 check_equal(e.derivate('x').eval(dict(x=3, y=2)), 6)
 check_equal(e.derivate('y').eval(dict(x=1, y=5)), 0)
@@ -56,3 +56,7 @@ check_equal(e.derivate('x').eval(dict(x=3, y=2)), 54)
 e = (math.e * V('x')) ** V('y')
 check_equal(e.derivate('y').eval(dict(x=1, y=0)), 1)
 
+
+e = -V('x')
+check_equal(e.derivate('x'), -1)
+check_equal(e.derivate('y'), 0)
