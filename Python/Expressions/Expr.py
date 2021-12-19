@@ -36,6 +36,21 @@ class Expr(object):
         return "%s(%s)" % (self.__class__.__name__,
                         ', '.join(repr(c) for c in self.children))
 
+    def contains(self, var):
+        f = self.children[0]
+        g = self.children[-1]
+
+        if(isinstance(f, V)):
+            if(f.children[0] == var):
+                return True
+        if(isinstance(g, V)):
+            if(g.children[0] == var):
+                return True
+
+        if(f == var or g == var):
+            return True
+            
+        return False
     # Expression constructors
 
     def __add__(self, other):
@@ -147,8 +162,8 @@ class Power(Expr):
     def op_derivate(self, var, partials):
         f = self.children[0]
         g = self.children[1]
-        if (g.children[0] == var):
-            return Multiply(Power(f, g), Log(f))
+        if (g.contains(var)):
+            return Multiply(Multiply(Power(f, g), Log(f)), partials[1])
         return Multiply(Multiply(g, Power(f, g - 1)), partials[0])
 
 class Log(Expr):

@@ -56,6 +56,9 @@ check_equal(e.derivate('x').eval(dict(x=3, y=2)), 54)
 e = (math.e * V('x')) ** V('y')
 check_equal(e.derivate('y').eval(dict(x=1, y=0)), 1)
 
+e = V('x') ** (5 * V('y'))
+check_equal(e.derivate('x').eval(dict(x=2, y=1)), 80)
+check_equal(e.derivate('y').eval(dict(x=math.e, y=0)), 5)
 
 e = -V('x')
 check_equal(e.derivate('x'), -1)
