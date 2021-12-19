@@ -37,6 +37,8 @@ class Expr(object):
                         ', '.join(repr(c) for c in self.children))
 
     def contains(self, var):
+        """Checks to see if this expression or children expressions contains variable var
+        Used for Power chain rules"""
         f = self.children[0]
         g = self.children[-1]
 
@@ -49,8 +51,9 @@ class Expr(object):
 
         if(f == var or g == var):
             return True
-            
+
         return False
+    
     # Expression constructors
 
     def __add__(self, other):
@@ -107,8 +110,11 @@ class Expr(object):
         we call for each child the method compute_gradient,
         with argument de_loss_over_de_e * d expression / d child.
         The value d expression / d child is computed by self.derivate. """
+        if(isinstance(de_loss_over_de_e, Expr)): #This is for derivates where derivate[x] was a solvable expression such as V(3)
+            de_loss_over_de_e = de_loss_over_de_e.eval()
+        
         self.gradient += de_loss_over_de_e
-        derivates = self.derivate()
+        derivates = self.gradDerivate()
         x = 0
         for child in self.children:
             if (isinstance(child, Expr)):
@@ -127,12 +133,22 @@ class Plus(Expr):
     def op_derivate(self, var, partials):
         return Plus(partials[0], partials[1])
 
+    def gradDerivate(self):
+        """The derivative rule corresponds to
+        d/dx (x+y) = 1, d/dy (x+y) = 1"""
+        return [1., 1.]
+
 class Minus(Expr):
     def op(self, x, y):
         return x - y
     
     def op_derivate(self, var, partials):
         return Minus(partials[0], partials[1])
+    
+    def gradDerivate(self):
+        """The derivative rule corresponds to
+        d/dx (x-y) = 1, d/dy (x-y) = y"""
+        return [1.,-1.]
 
 class Multiply(Expr):
     def op(self, x, y):
@@ -140,6 +156,12 @@ class Multiply(Expr):
     
     def op_derivate(self, var, partials):
         return(Plus(Multiply(partials[1], self.children[0]), Multiply(self.children[1], partials[0])))
+
+    def gradDerivate(self):
+        """The derivative rule corresponds to
+        d/dx (xy) = y, d/dy(xy) = x"""
+        return [self.children[1], self.children[0]]
+
 
 class Divide(Expr):
     def op(self, x, y):
@@ -152,6 +174,11 @@ class Divide(Expr):
         print(self.children)
         print(partials)"""
         return(Divide(Minus(Multiply(partials[0],g),Multiply(f,partials[1])),g*g))
+    
+    def gradDerivate(self):
+        """The derivative rule corresponds to
+        d/dx (x/y) = 1/y, d/dy(xy) = -x/y^2"""
+        return[1/self.children[1], -self.children[0]/ Power(self.children[1], 2)]
 
 class Power(Expr):
     """Operator for x ** y"""
@@ -165,6 +192,11 @@ class Power(Expr):
         if (g.contains(var)):
             return Multiply(Multiply(Power(f, g), Log(f)), partials[1])
         return Multiply(Multiply(g, Power(f, g - 1)), partials[0])
+    
+    def gradDerivate(self):
+        """The derivative rule corresponds to
+        d/dx (x^y) = yx^(y-1), d/dy(x^y) = x^y * log(x)"""
+        return[self.children[1]*Power(self.children[0], self.children[1] - 1), Power(self.children[0], self.children[1]) * Log(self.children[0])]
 
 class Log(Expr):
     """Operator for log(x)"""
@@ -185,13 +217,17 @@ class Negative(Expr):
     def op_derivate(self, var, partials):
         return Minus(0, partials[0])
 
+    def gradDerivate(self):
+        """The derivative rule corresponds to
+        d/dx (-x) = -1"""
+        return[-1.]
+
 class V(Expr):
     """Variable."""
 
     def __init__(self, *args):
-        """Variables must be of type string."""
+        """Variables must be of type string or int."""
         assert len(args) == 1
-        assert isinstance(args[0], str)
         super().__init__(*args)
 
     def eval(self, valuation=None):
@@ -199,6 +235,8 @@ class V(Expr):
         value of the variable; otherwise, returns the expression."""
         if valuation is not None and self.children[0] in valuation:
             return valuation[self.children[0]]
+        elif not isinstance(self.children[0], str):
+            return self.children[0]
         else:
             return self 
     
@@ -206,3 +244,11 @@ class V(Expr):
         if (var == self.children[0]):
             return 1
         return 0
+
+    def gradDerivate(self):
+        return [1.] #Not really used
+
+    def assign(self, v):
+        """Assigns a value to the variable.  Used to fit a model, so we
+        can assign the various input values to the variable."""
+        self.children = [v]
