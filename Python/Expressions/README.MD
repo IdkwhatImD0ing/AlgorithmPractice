@@ -51,7 +51,7 @@ This function differes from the `derivate` function in the following ways:
 ## Optimization
 ### Optimize.py
 
-First, we come up somehow with a very complicated model y = M(x, θ), which computes an output y as a function of an input x  and of a vector of parameters θ⃗ . In general, x, y, and θ are vectors, as the model has multiple inputs, multiple outputs, and several parameters. The model M needs to be complicated, because only complicated models can represent complicated phenomena; for instance, M can be a multi-layer neural net with parameters θ =[θ1,…,θk], where k is the number of parameters of the model.
+First, we come up somehow with a very complicated model y = M(x, θ), which computes an output y as a function of an input x  and of a vector of parameters θ . In general, x, y, and θ are vectors, as the model has multiple inputs, multiple outputs, and several parameters. The model M needs to be complicated, because only complicated models can represent complicated phenomena; for instance, M can be a multi-layer neural net with parameters θ =[θ1,…,θk], where k is the number of parameters of the model.
 
 Second, you come up with a notion of loss L, that is, how badly the model is doing. Once the loss is chosen, we decrease it, by computing its gradient with respect to θ.
 
@@ -59,11 +59,15 @@ The gradient is a vector that indicates how to tweak θ to decrease the loss. Yo
 
 We will provide a representaton for expressions that enables both the calculation of the expression value, and the differentiation with respect to any of the inputs. This will enable us to implement autogradient. On the basis of this, we will be able to implement a simple ML framework.
 
+### Machine Learning
+
 We will demonstrate machine learning using `linear regression`, `quadratic regression`, and `cubic regression` on a given set of points. To build a line to fit these points, we will build an `Expr` that represents the equation we use for regression. 
 
 For quadratic regression, we will use the equation `y^=ax^2^+bx+c`, where y^ is the value of y predicted by our parabola. If y^ is the predicted value, and y is the observed value, to obtain a better prediction of the observations, we minimize the loss L =(y^−y)^2^, that is, the square prediction error.
 
 Here,  a,b,c  are parameters that we need to tune to minimize the loss, and obtain a good fit between the parabola and the points.
+
+### Tuning
 
 This tuning, or training, is done by repeating the following process many times:
 - Zero the gradient
@@ -73,6 +77,7 @@ This tuning, or training, is done by repeating the following process many times:
   - Backpropagate. This computes all gradients with respect to the loss, and in particular, the gradients of the coefficients  a,b,c .
 - Update the coefficients  a,b,c  by taking a small step in the direction of the negative gradien(negative, so that the loss decreases).
 
+### Fit line to points
 
 The `fit` function minimizes the loss of fitting a series of (x,y) points with a function. Precisely, the fit function takes as input:
 
