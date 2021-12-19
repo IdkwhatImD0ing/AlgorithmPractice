@@ -1,9 +1,12 @@
+import math
+
 class Expr(object):
     """Abstract class representing expressions"""
 
     def __init__(self, *args):
         self.children = list(args)
         self.child_values = None
+        self.gradient = 0
 
     def eval(self, valuation=None):
         """Evaluates the value of the expression with respect to a given
@@ -11,6 +14,7 @@ class Expr(object):
         # First, we evaluate the children.
         child_values = [c.eval(valuation=valuation) if isinstance(c, Expr) else c
                         for c in self.children]
+        
         # Then, we evaluate the expression itself.
         if any([isinstance(v, Expr) for v in child_values]):
             # Symbolic result.
@@ -58,11 +62,44 @@ class Expr(object):
     def __rtruediv__(self, other):
         return Divide(other, self)
 
+    def __pow__(self, other):
+        return Power(self, other)
+
+    def __rpow__(self, other):
+        return Power(other, self)
+
+    def __neg__(self):
+        return Negative(self)
+
     def derivate(self, var):
         """Computes the derivative of the expression with respect to var."""
         partials = [(c.derivate(var) if isinstance(c, Expr) else 0)
                 for c in self.children]
         return self.op_derivate(var, partials).eval()
+
+    def zero_gradient(self):
+        """Sets the gradient to 0, recursively for this expression
+        and all its children."""
+        self.gradient = 0
+        for e in self.children:
+            if isinstance(e, Expr):
+                e.zero_gradient()
+
+    def compute_gradient(self, de_loss_over_de_e=1):
+        """Computes the gradient.
+        de_loss_over_de_e is the gradient of the output.
+        de_loss_over_de_e will be added to the gradient, and then
+        we call for each child the method compute_gradient,
+        with argument de_loss_over_de_e * d expression / d child.
+        The value d expression / d child is computed by self.derivate. """
+        self.gradient += de_loss_over_de_e
+        derivates = self.derivate()
+        x = 0
+        for child in self.children:
+            if (isinstance(child, Expr)):
+                child.compute_gradient(de_loss_over_de_e * derivates[x])
+                x += 1
+        return self.gradient
 
     def op_derivate(self, var, partials):
         raise NotImplementedError()
@@ -87,7 +124,6 @@ class Multiply(Expr):
         return x * y
     
     def op_derivate(self, var, partials):
-        """Please generate a formula exactly as described by the above math formula."""
         return(Plus(Multiply(partials[1], self.children[0]), Multiply(self.children[1], partials[0])))
 
 class Divide(Expr):
@@ -101,6 +137,38 @@ class Divide(Expr):
         print(self.children)
         print(partials)"""
         return(Divide(Minus(Multiply(partials[0],g),Multiply(f,partials[1])),g*g))
+
+class Power(Expr):
+    """Operator for x ** y"""
+
+    def op(self, x, y):
+        return x ** y
+
+    def op_derivate(self, var, partials):
+        f = self.children[0]
+        g = self.children[1]
+        if (g.children[0] == var):
+            return Multiply(Power(f, g), Log(f))
+        return Multiply(Multiply(g, Power(f, g - 1)), partials[0])
+
+class Log(Expr):
+    """Operator for log(x)"""
+
+    def op(self, x):
+        return math.log(x)
+
+    def op_derivate(self, var, partials):
+        return Divide(1, self.children[0])
+
+
+class Negative(Expr):
+    """Operator for -x"""
+
+    def op(self, x):
+        return x * -1
+
+    def derivate(self):
+        return partials[0]
 
 class V(Expr):
     """Variable."""
