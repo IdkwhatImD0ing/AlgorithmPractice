@@ -4,6 +4,6 @@ Contains small projects (algorithms and data structures) written in C, C++, Pyth
 
 ## Featured Projects
 
-https://github.com/IdkwhatImD0ing/AlgorithmPractice/tree/main/Python/Expressions
+[Expressions](https://github.com/IdkwhatImD0ing/AlgorithmPractice/tree/main/Python/Expressions)
 
-https://github.com/IdkwhatImD0ing/AlgorithmPractice/tree/main/CPP/RangeSearching
+[RangeSearching](https://github.com/IdkwhatImD0ing/AlgorithmPractice/tree/main/CPP/RangeSearching)
