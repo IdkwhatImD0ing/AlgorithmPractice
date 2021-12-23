@@ -43,14 +43,14 @@ If the Sudoku problem has a solution, one of these two values must work.
 The search function works like this: 
 
 search():
-1. propagate constraints.
-1. if solved, hoorrayy!
-1. if impossible, raise Unsolvable()
-1. if not fully solved, pick a cell with multiple digits possible, and iteratively:
- * Assign one of the possible values to the cell. 
- * Call search() with that value for the cell.
- * If Unsolvable is raised by the search() call, move on to the next value.
- * If all values returned Unsolvable (if we tried them all), then we raise Unsolvable.
+ * propagate constraints.
+ * if solved, hoorrayy!
+ * if impossible, raise Unsolvable()
+ * if not fully solved, pick a cell with multiple digits possible, and iteratively:
+   * Assign one of the possible values to the cell. 
+   * Call search() with that value for the cell.
+   * If Unsolvable is raised by the search() call, move on to the next value.
+   * If all values returned Unsolvable (if we tried them all), then we raise Unsolvable.
 
 ### Where can it go?
 
