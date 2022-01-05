@@ -44,7 +44,7 @@ class Clause(object):
     def simplify(self, i):
         """Computes the result simplify the clause according to the
         truth assignment i."""
-        if i == 1 or i in self.literals:
+        if i in self.literals:
             return True
         if -i in self.literals:
             return Clause(self.literals - {-i})
