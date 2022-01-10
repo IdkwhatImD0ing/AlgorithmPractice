@@ -1,5 +1,5 @@
 # Sats
-(Open readme in VS for formatted output. Github markdown does not support some of the syntax I use)
+(Change to light mode to see equations)
 
 ## General Representation
 
