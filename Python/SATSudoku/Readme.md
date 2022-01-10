@@ -1,4 +1,4 @@
-# Sats and Sudoku
+# Sats
 
 ## General Representation
 
@@ -85,3 +85,117 @@ We recursively try to solve $S'$, via a call to `solve` of $S'$.  Then:
 
 * If the new SAT problem $S'$ has no solution, you can move on to the next candidate assignment, if any; 
 * if the new SAT problem $S'$ returns as a solution a truth-assignment $L$ ($L$ is a list of integers), the solution is obtaining by combining $L$ and $a$ (returning the set obtained by adding $a$ to $L$). 
+
+# Sudoku Using Sats
+
+## Main class
+The first thing we do is to write a Sudoku class that can represent a Sudoku problem to be solved. Unlike our previosu representation, each cell here will contain either a digit 1..9, or 0, where 0 represents an unknown digit. We do not need to represent our solver's state of knowledge in terms of sets of digits, since the seach for a solution will be done in the SAT solver.
+
+The class has three methods: one for translating the Sudoku into a SAT instance, one for solving the SAT instance, and another one for using the solution to the SAT instance to fill in the unspecified cells of the Sudoku problem.
+
+Contrary to the previous approach, we keep the state of the board as a numpy array, of size 9 x 9; this will make indexing in the array a little bit more pleasant. The reason we could not use this representation earlier is that we wanted to associate with each cell a set of digits, and sets are not pleasant to represent in Numpy; single digits are.
+
+## Variables
+We base our trasnslation of Sudoku into SAT on variables $p_{dij}$, where $p_{dij}$ expresses the fact that the digit $d$ appears at coordinates $(i, j)$. 
+Since SAT solvers represent a variable by an integer, we will have that $p_{dij}$ is encoded simply using the integer $dij$ (in decimal notation), and the literal $\bar{p}_{dij}$ will be encoded as $-dij$. 
+
+For example, to express that digit 3 appears at coordinates 6, 7, we use the literal 367.  To express the negation of this, $\bar{p}_{367}$, that is, that digit 3 _does not_ appear at coordinates 6, 7, we use the literal -367. 
+
+We thus start by writing two helper functions, `encode_variable` and `decode_variable`, that go from $d, i, j$ to the corresponding integer, and vice versa.  
+
+## Creating the clauses that represent a generic Sudoku problem
+
+The key to translating Sudoku to SAT consists in producing a list of clauses that encodes the rules of Sudoku.  We will create list of clauses expressing the following. 
+Below, we have $1 \leq d \leq 9$, and $0 \leq i, j \leq 8$. 
+
+1. At each cell $i, j$ at least one digit $d$ must appear.
+2. At each cell $i, j$, at most one digit $d$ must appear. 
+* If a digit $d$ appears at cell $i, j$, the same digit $d$ will not appear elsewhere on: 
+    3. The same column. 
+    4. The same row. 
+    5. The same 3x3 Sudoku block. 
+
+Note that conditions 1 and 2 are obvious to a human, and were encoded implicitly in our Sudoku solver.  Our SAT solver, however, has no idea of what a variable like $p_{367}$ means, or that digit 3 appears in cell 6, 7; therefore, we must teach it that exactly one digit apppears in each cell, via clauses. 
+
+As an example, you can say that at at least one digit appears in cell 6, 7 via the clause: 
+
+$$
+[p_{167}, p_{267}, \ldots, p_{967}]
+$$
+
+and you can say that if 2 appears in cell 67, then 3 does not apper in that same cell, via: 
+
+$$
+[\bar{p}_{267}, \bar{p}_{367}] \; . 
+$$
+
+In literals ready for SAT, the latter is [-267, -367]. 
+Similarly, to say that if a 2 appears at 6, 7, it does not appear on the same row at 6, 8, you would use the clause [-267, -268]. 
+
+### Cells contain at least one digit
+For each cell $i, j$, you have to create a clause stating that at least one $p_{dij}$ is true, for some $d$.  You can easily build it as the disjunction $p_{1ij} \vee p_{2ij} \vee \cdots \vee p_{9ij}$, corresponding to the clause:  
+
+$$
+[p_{1ij}, p_{2ij}, \ldots, p_{9ij}] \; . 
+$$
+
+### Cells contain at most one digit
+Next, we need to express the fact that each cell can contain at most one digit $d$. 
+The idea is to write clauses that say that if a cell $i,j$ contains a digit $d$, it does not contain a different digit $d'$. 
+This is expressed by $p_{dij} \rightarrow \bar{p}_{d'ij}$ for all $0 \leq i, j \leq 8$ and all $1 \leq d, d' \leq 9$ with $d \neq d'$.  In turn, the implication $p_{dij} \rightarrow \bar{p}_{d'ij}$ can be expressed as the clause 
+
+$$
+[\bar{p}_{dij}, \bar{p}_{d'ij}] \; , 
+$$
+
+for all $0 \leq i, j \leq 8$ and all $1 \leq d, d' \leq 9$ with $d \neq d'$. 
+The clause says that either $d$ is not at $i,j$, or $d'$ is not at $i,j$: this ensures that $d, d'$ are not both at $i, j$.
+
+### No identical digits in the same row
+We now need to experss one of the basic rules of Sudoku: a digit can appear in only one cell along a row. 
+Precisely, for all rows $0 \leq i \leq 8$, and all digits $1 \leq d \leq 9$, we write 
+
+$$
+    p_{dij} \rightarrow \bar{p}_{dij'}
+$$
+
+for all $0 \leq j, j' \leq 8$ with $j \neq j'$. 
+These implications stipulate that if digit $d$ is at position $j$ in the row, it cannot also be in position $j'$ with $j' \neq j$. 
+These implications can be translated into clauses with two literals, exactly as we did in point 2 above. 
+
+### No idientical digits in same column
+Similar idea as rows, but for columns
+
+### No idientical digits in the same 3x3 block
+The idea here is to state that if a digit $d$ appears at a position $i,j$ in a 3x3 Sudoku block, it does not appear in any other position $i',j'$ in the same 3x3 block, with $i \neq i'$ or $j \neq j'$. 
+
+## Putting everything togethor
+We can create the rules for sudoku bu adding all these rules to a single list in `sudoku_rules`
+
+### Translating state of board into clauses
+We now need to translate the intial state of the board into clauses.  This is easy to do: whenever the board contains a (known) digit $d$ in position $i,j$, you generate a clause
+
+$$
+[p_{dij}]
+$$
+
+stating that $d$ is in position $i,j$.  That's all! 
+Method `_board_to_SAT` returns the list of such unary clauses.
+
+### Translating Sudoku to SAT
+We now write a `_to_SAT` method for `SudokuViaSAT`, that translates a Sudoku problem into a list of SAT clauses, and returns the list of clauses.  The list contains: 
+
+* all the clauses returned by the `sudoku_rules` function above, 
+* all the clauses that represent the initial state of the board, returned by the `_board_to_SAT` method.  
+
+### Solving Sudoku
+It is time to put everything together in a `solve` method for `SudokuViaSAT`.  The method works as follows.  It takes as input one of the SAT solver classes, such as `Glucose3`, `Glucose4`, or `Minisat22`.  Then: 
+
+* It uses the method `_to_SAT` to create the clauses for a SAT instance encoding the Sudoku problem. 
+* It adds those clauses to the SAT solver. 
+* It solves the SAT problem. 
+* If the problem has a solution, it uses the solution of the SAT problem to complete the cell in the Sudoku board. 
+
+For the last step, we can check that the problem has a solution via `g.solve()`, as in the test cases above. 
+If the problem has a solution, `g.get_model()` gives us a truth assignment satisfying the SAT problem.
+The model of the SAT solver enables us to directly fill the Sudoku board.
