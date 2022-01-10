@@ -7,3 +7,5 @@ Contains small projects (algorithms and data structures) written in C, C++, Pyth
 [Expressions](https://github.com/IdkwhatImD0ing/AlgorithmPractice/tree/main/Python/Expressions)
 
 [RangeSearching](https://github.com/IdkwhatImD0ing/AlgorithmPractice/tree/main/CPP/RangeSearching)
+
+[SolvingSudokusUsingSATS](https://github.com/IdkwhatImD0ing/AlgorithmPractice/tree/main/Python/SATSudoku)
