@@ -44,6 +44,7 @@ What is the result on the clause?  Consider a clause  with representation $c$ (t
 * If neither $i$ nor $-i$ is in $c$, then we return $c$ itself, as $c$ is not affected by the truth assignment $i$. 
 
 ## SAT Representation
+
 Sat.py
 
 A SAT instance consists in a set of clauses. 
