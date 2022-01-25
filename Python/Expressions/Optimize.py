@@ -109,7 +109,11 @@ oy = va * vx + vb
 loss = (vy - oy) * (vy - oy)
 
 #Start
-fit(loss, points, [va, vb])
+final_loss = fit(loss, points, [va, vb])
+check_true(final_loss < 15)
+
+#Let's display the parameter values after the training:
+print("a:", va.eval(), "b:", vb.eval())
 
 #Plot linear regression line
 plot_points_and_y(points, vx, oy)
@@ -152,6 +156,11 @@ vd = V(0.4)
 oy = va * vx * vx * vx + vb * vx * vx + vc * vx + vd
 loss = (vy - oy) * (vy - oy)
 final_loss = fit(loss, points, [va, vb, vc, vd], delta=2e-5, num_iterations=10000)
+check_true(final_loss < 5)
+
+#Let's display the parameter values after the training:
+print("a:", va.eval(), "b:", vb.eval(), "c:", vc.eval(), "d:", vd.eval())
 
 #Plot line
 plot_points_and_y(points, vx, oy)
+
