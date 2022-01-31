@@ -140,7 +140,7 @@ def gradientDescent(X, y, theta, alpha, num_iters):
     for i in range(num_iters):
         # ==================== YOUR CODE HERE =================================
         #print(np.dot(X, theta))
-        print("line break")
+        #print("line break")
         #print(X)
         #print(X[0])
         #print(X[1])
@@ -195,9 +195,11 @@ print('Theta found by gradient descent: {:.4f}, {:.4f}'.format(*theta))
 print('Expected theta values (approximately): [-3.6303, 1.1664]')
 
 # plot the linear fit
-plotData(X[:, 1], y)
+pyplot.plot(X[:, 1], y, 'ro', ms=10, mec='k')
+pyplot.ylabel('Profit in $10,000')
+pyplot.xlabel('Population of City in 10,000s')
 pyplot.plot(X[:, 1], np.dot(X, theta), '-')
-pyplot.legend(['Training data', 'Linear regression']);
+pyplot.legend(['Training data', 'Linear regression'])
 pyplot.show()
 
 # Predict values for population sizes of 35,000 and 70,000
