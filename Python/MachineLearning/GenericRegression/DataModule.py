@@ -67,7 +67,7 @@ class DataModule:
 
         for x in features:
             encoded_data = pd.get_dummies(self.dataset[x], prefix = x)
-            self.dataset = self.dataset.drop(x, 1)
+            self.dataset = self.dataset.drop(x, axis = 1)
             self.dataset = self.dataset.join(encoded_data)
             #print("--------- encoding " + x + "---------")
             #print(self.dataset.columns)
@@ -149,16 +149,17 @@ class DataModule:
         #print(train)
         #print(val)
         y_train = train["mpg"]
-        train.drop("mpg", 1)
+        train = train.drop("mpg", axis = 1)
         x_train = train.to_numpy()
         
         y_val = val["mpg"]
-        val.drop("mpg", 1)
+        val = val.drop("mpg", axis = 1)
         x_val = val.to_numpy()
         
         y_test = test["mpg"]
-        test.drop("mpg", 1)
+        test = test.drop("mpg", axis = 1)
         x_test = test.to_numpy()
+        
         
 
 

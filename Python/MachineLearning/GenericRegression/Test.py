@@ -28,7 +28,7 @@ x_val, y_val = val
 x_test, y_test = test
 
 # Train a linear regression trainer
-trainer = LinearRegressionTrainer(datamodule.dataset.columns.size - 1, learning_rate = 0.8, num_epochs = 5000)
+trainer = LinearRegressionTrainer(datamodule.dataset.columns.size - 1, learning_rate = 0.01, num_epochs = 5000)
 trainer.train(x_train, y_train, x_val, y_val)
 
 
@@ -46,5 +46,17 @@ plt.show()
 # Use the below lines only after tuning hyperparameters
 
 trainer.evaluate(x_test, y_test)
-
+x_test = np.hstack((x_test, np.ones((len(x_test),1))))
+hypotheses = np.dot(x_test,trainer.theta)
+print(trainer.theta)
 print(f"Test loss: {trainer.test_loss}")
+
+myHypo = open("myHypotheses.txt", "w")
+actual = open("actualValue.txt", "w")
+
+np.savetxt(myHypo, hypotheses)
+np.savetxt(actual, y_test)
+
+myHypo.close()
+actual.close()
+

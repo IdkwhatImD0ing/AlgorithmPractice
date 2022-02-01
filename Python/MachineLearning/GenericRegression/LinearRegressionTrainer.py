@@ -60,8 +60,12 @@ class LinearRegressionTrainer:
             x: A matrix of features.
             y: A vector of labels.
         """
-
-
+        #print(x_train.shape)
+        #print(len(x_train))
+        #print(np.ones(len(x_train)).shape)
+        x_train = np.hstack((x_train, np.ones((len(x_train),1))))
+        x_val = np.hstack((x_val, np.ones((len(x_val),1))))
+        #print(x_train.shape)
         for i in range(self.num_epochs):
             hypo_train = np.dot(x_train, self.theta)
             hypo_val = np.dot(x_val, self.theta)
@@ -110,11 +114,11 @@ class LinearRegressionTrainer:
             y_test: A vector of labels.
         """
 
-
+        x_test = np.hstack((x_test, np.ones((len(x_test),1))))
         hypo_test = np.dot(x_test, self.theta)
-        print(hypo_test)
-        with np.printoptions(edgeitems=50):
-            print(y_test)
+        #print(hypo_test)
+        #with np.printoptions(edgeitems=50):
+            #print(y_test)
         self.test_loss = LinearRegressionTrainer.mse_loss(hypo_test, y_test)
      
 
