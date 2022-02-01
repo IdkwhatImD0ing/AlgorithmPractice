@@ -74,17 +74,10 @@ def computeCost(X, y, theta):
     Compute the cost of a particular choice of theta. 
     You should set J to the cost.
     """
-    
-    # initialize some useful values
+
     m = y.size  # number of training examples
-    
-    # You need to return the following variables correctly
-    J = 0
-    
-    # ====================== YOUR CODE HERE =====================
     J = (1 /(2*m)) * (np.sum((np.dot(X, theta) - y) ** 2))
     
-    # ===========================================================
     return J
 
 def gradientDescent(X, y, theta, alpha, num_iters):
@@ -138,7 +131,6 @@ def gradientDescent(X, y, theta, alpha, num_iters):
     #print(X.shape[0])
     #print(X.shape[1])
     for i in range(num_iters):
-        # ==================== YOUR CODE HERE =================================
         #print(np.dot(X, theta))
         #print("line break")
         #print(X)
@@ -154,7 +146,6 @@ def gradientDescent(X, y, theta, alpha, num_iters):
         print(np.sum((np.dot(X, theta) - y)[:, None] * X, axis = 0))
         #print(theta)
         theta = theta - (alpha * (1/m) * np.sum(((np.dot(X, theta) - y)[:, None] * X), axis = 0))
-        # =====================================================================
         
         # save the cost J in every iteration
         J_history.append(computeCost(X, y, theta))
