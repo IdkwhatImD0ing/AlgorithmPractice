@@ -63,8 +63,8 @@ class LinearRegressionTrainer:
         #print(x_train.shape)
         #print(len(x_train))
         #print(np.ones(len(x_train)).shape)
-        x_train = np.hstack((x_train, np.ones((len(x_train),1))))
-        x_val = np.hstack((x_val, np.ones((len(x_val),1))))
+        x_train = np.hstack((np.ones((len(x_train),1)), x_train))
+        x_val = np.hstack((np.ones((len(x_val),1)), x_val))
         #print(x_train.shape)
         for i in range(self.num_epochs):
             hypo_train = np.dot(x_train, self.theta)

@@ -28,7 +28,7 @@ x_val, y_val = val
 x_test, y_test = test
 
 # Train a linear regression trainer
-trainer = LinearRegressionTrainer(datamodule.dataset.columns.size - 1, learning_rate = 0.01, num_epochs = 5000)
+trainer = LinearRegressionTrainer(datamodule.dataset.columns.size - 1, learning_rate = 0.001, num_epochs = 5000)
 trainer.train(x_train, y_train, x_val, y_val)
 
 

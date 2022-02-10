@@ -160,7 +160,6 @@ class DataModule:
         test = test.drop("mpg", axis = 1)
         x_test = test.to_numpy()
         
-        
 
 
 
