@@ -7,7 +7,6 @@ import io
 import pandas as pd
 
 
-
 def plotData(x, y):
     """
     Plots the data points x and y into a new figure. Plots the data 
@@ -42,8 +41,6 @@ def plotData(x, y):
     pyplot.show()
 
 
-
-
 def computeCost(X, y, theta):
     """
     Compute cost for linear regression. Computes the cost of using theta as the
@@ -76,9 +73,10 @@ def computeCost(X, y, theta):
     """
 
     m = y.size  # number of training examples
-    J = (1 /(2*m)) * (np.sum((np.dot(X, theta) - y) ** 2))
-    
+    J = (1 / (2 * m)) * (np.sum((np.dot(X, theta) - y)**2))
+
     return J
+
 
 def gradientDescent(X, y, theta, alpha, num_iters):
     """
@@ -120,12 +118,12 @@ def gradientDescent(X, y, theta, alpha, num_iters):
     """
     # Initialize some useful values
     m = y.shape[0]  # number of training examples
-    
+
     # make a copy of theta, to avoid changing the original array, since numpy arrays
     # are passed by reference to functions
     theta = theta.copy()
-    
-    J_history = [] # Use a python list to save cost in every iteration
+
+    J_history = []  # Use a python list to save cost in every iteration
     #print(X)
     #print(y)
     #print(X.shape[0])
@@ -143,25 +141,26 @@ def gradientDescent(X, y, theta, alpha, num_iters):
         #print(((np.dot(X, theta) - y)[:, None] * X)[1])
         #print(((np.dot(X, theta) - y)[:, None] * X)[2])
         #print(((np.dot(X, theta) - y)[:, None] * X)[3])
-        print(np.sum((np.dot(X, theta) - y)[:, None] * X, axis = 0))
+        print(np.sum((np.dot(X, theta) - y)[:, None] * X, axis=0))
         #print(theta)
-        theta = theta - (alpha * (1/m) * np.sum(((np.dot(X, theta) - y)[:, None] * X), axis = 0))
-        
+        theta = theta - (alpha * (1 / m) * np.sum(
+            ((np.dot(X, theta) - y)[:, None] * X), axis=0))
+
         # save the cost J in every iteration
         J_history.append(computeCost(X, y, theta))
-    
+
     return theta, J_history
 
-uploaded = open("ex1data1.txt","r")
+
+uploaded = open("ex1data1.txt", "r")
 data = pd.read_csv(uploaded, header=None).to_numpy()
 X, y = data[:, 0], data[:, 1]
 m = y.size  # number of training examples
 
-
 plotData(X, y)
 
-# Add a column of ones to X. The numpy function stack joins arrays along a given axis. 
-# The first axis (axis=0) refers to rows (training examples) 
+# Add a column of ones to X. The numpy function stack joins arrays along a given axis.
+# The first axis (axis=0) refers to rows (training examples)
 # and second axis (axis=1) refers to columns (features).
 X = np.stack([np.ones(m), X], axis=1)
 
@@ -181,7 +180,7 @@ theta = np.zeros(2)
 iterations = 1500
 alpha = 0.01
 
-theta, J_history = gradientDescent(X ,y, theta, alpha, iterations)
+theta, J_history = gradientDescent(X, y, theta, alpha, iterations)
 print('Theta found by gradient descent: {:.4f}, {:.4f}'.format(*theta))
 print('Expected theta values (approximately): [-3.6303, 1.1664]')
 
@@ -195,10 +194,12 @@ pyplot.show()
 
 # Predict values for population sizes of 35,000 and 70,000
 predict1 = np.dot([1, 3.5], theta)
-print('For population = 35,000, we predict a profit of {:.2f}\n'.format(predict1*10000))
+print('For population = 35,000, we predict a profit of {:.2f}\n'.format(
+    predict1 * 10000))
 
 predict2 = np.dot([1, 7], theta)
-print('For population = 70,000, we predict a profit of {:.2f}\n'.format(predict2*10000))
+print('For population = 70,000, we predict a profit of {:.2f}\n'.format(
+    predict2 * 10000))
 
 # grid over which we will calculate J
 theta0_vals = np.linspace(-10, 10, 100)
@@ -211,7 +212,7 @@ J_vals = np.zeros((theta0_vals.shape[0], theta1_vals.shape[0]))
 for i, theta0 in enumerate(theta0_vals):
     for j, theta1 in enumerate(theta1_vals):
         J_vals[i, j] = computeCost(X, y, [theta0, theta1])
-        
+
 # Because of the way meshgrids work in the surf command, we need to
 # transpose J_vals before calling surf, or else the axes will be flipped
 J_vals = J_vals.T
@@ -227,7 +228,12 @@ pyplot.title('Surface')
 # contour plot
 # Plot J_vals as 15 contours spaced logarithmically between 0.01 and 100
 ax = pyplot.subplot(122)
-pyplot.contour(theta0_vals, theta1_vals, J_vals, linewidths=2, cmap='viridis', levels=np.logspace(-2, 3, 20))
+pyplot.contour(theta0_vals,
+               theta1_vals,
+               J_vals,
+               linewidths=2,
+               cmap='viridis',
+               levels=np.logspace(-2, 3, 20))
 pyplot.xlabel('theta0')
 pyplot.ylabel('theta1')
 pyplot.plot(theta[0], theta[1], 'ro', ms=10, lw=2)
