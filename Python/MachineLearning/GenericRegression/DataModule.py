@@ -6,7 +6,9 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from tqdm.notebook import trange
 
+
 class DataModule:
+
     def __init__(self) -> None:
         """
         Inits data module with dataset url and column names. Do not modify.
@@ -49,11 +51,10 @@ class DataModule:
             bins: Bin intervals represented by pd.IntervalIndex.
         """
 
-
-        self.dataset[feature+'_bin'] = pd.cut(self.dataset[feature], bins = bins)
-        self.dataset = pd.get_dummies(self.dataset, columns=[feature+'_bin'])
+        self.dataset[feature + '_bin'] = pd.cut(self.dataset[feature],
+                                                bins=bins)
+        self.dataset = pd.get_dummies(self.dataset, columns=[feature + '_bin'])
         #print(self.dataset)
-
 
     def one_hot_encode(self, features: List[str]) -> None:
         """
@@ -64,10 +65,9 @@ class DataModule:
             features: The column names of the features that need to be encoded.
         """
 
-
         for x in features:
-            encoded_data = pd.get_dummies(self.dataset[x], prefix = x)
-            self.dataset = self.dataset.drop(x, axis = 1)
+            encoded_data = pd.get_dummies(self.dataset[x], prefix=x)
+            self.dataset = self.dataset.drop(x, axis=1)
             self.dataset = self.dataset.join(encoded_data)
             #print("--------- encoding " + x + "---------")
             #print(self.dataset.columns)
@@ -76,8 +76,6 @@ class DataModule:
 
         #print(self.dataset.columns)
         #print(self.dataset)
-        
-
 
     def cross_feature(self, feature_a: str, feature_b: str) -> None:
         """
@@ -89,11 +87,9 @@ class DataModule:
             feature_b: The column name of feature B.
         """
 
-
-        self.dataset["crossed_feature"] = self.dataset[feature_a] * self.dataset[feature_b]
+        self.dataset["crossed_feature"] = self.dataset[
+            feature_a] * self.dataset[feature_b]
         #print(self.dataset)
-
-
 
     def normalize(self) -> None:
         """
@@ -103,13 +99,15 @@ class DataModule:
         """
 
         for column in self.dataset.columns:
-            self.dataset[column] = (self.dataset[column] - self.dataset[column].min())/(self.dataset[column].max() - self.dataset[column].min())
-        
-
-
+            self.dataset[column] = (
+                self.dataset[column] - self.dataset[column].min()) / (
+                    self.dataset[column].max() - self.dataset[column].min())
 
     def train_val_test_split(
-        self, val_size: float = 0.2, test_size: float = 0.5, seed: int = 144
+        self,
+        val_size: float = 0.2,
+        test_size: float = 0.5,
+        seed: int = 144
     ) -> Tuple[Tuple[np.ndarray], Tuple[np.ndarray], Tuple[np.ndarray]]:
         """
         Split a dataframe into features and labels for train, validation, and test sets.
@@ -141,27 +139,30 @@ class DataModule:
         """
 
         #print("-----------SPLITTING------------")
-        train, test = train_test_split(self.dataset, test_size = test_size, random_state = seed, shuffle = True)
+        train, test = train_test_split(self.dataset,
+                                       test_size=test_size,
+                                       random_state=seed,
+                                       shuffle=True)
         #print(train)
         #print(test)
 
-        train, val = train_test_split(train, test_size = val_size, random_state = seed, shuffle = True)
+        train, val = train_test_split(train,
+                                      test_size=val_size,
+                                      random_state=seed,
+                                      shuffle=True)
         #print(train)
         #print(val)
         y_train = train["mpg"]
-        train = train.drop("mpg", axis = 1)
+        train = train.drop("mpg", axis=1)
         x_train = train.to_numpy()
-        
+
         y_val = val["mpg"]
-        val = val.drop("mpg", axis = 1)
+        val = val.drop("mpg", axis=1)
         x_val = val.to_numpy()
-        
+
         y_test = test["mpg"]
-        test = test.drop("mpg", axis = 1)
+        test = test.drop("mpg", axis=1)
         x_test = test.to_numpy()
-        
-
-
 
         return (
             (x_train, y_train),

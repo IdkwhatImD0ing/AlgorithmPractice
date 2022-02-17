@@ -6,10 +6,13 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from tqdm.notebook import trange
 
+
 class LinearRegressionTrainer:
-    def __init__(
-        self, num_features: int, learning_rate: float = 1e-3, num_epochs: int = 5000
-    ) -> None:
+
+    def __init__(self,
+                 num_features: int,
+                 learning_rate: float = 1e-3,
+                 num_epochs: int = 5000) -> None:
         """
         Inits the linear regression model.
         """
@@ -33,11 +36,8 @@ class LinearRegressionTrainer:
             y: A vector of labels.
         """
 
-
         alpha = self.learning_rate
         self.theta = self.theta - (alpha * self.mse_loss_derivative(x, y))
-
-
 
     def train(
         self,
@@ -63,8 +63,8 @@ class LinearRegressionTrainer:
         #print(x_train.shape)
         #print(len(x_train))
         #print(np.ones(len(x_train)).shape)
-        x_train = np.hstack((np.ones((len(x_train),1)), x_train))
-        x_val = np.hstack((np.ones((len(x_val),1)), x_val))
+        x_train = np.hstack((np.ones((len(x_train), 1)), x_train))
+        x_val = np.hstack((np.ones((len(x_val), 1)), x_val))
         #print(x_train.shape)
         for i in range(self.num_epochs):
             hypo_train = np.dot(x_train, self.theta)
@@ -76,11 +76,11 @@ class LinearRegressionTrainer:
             print(y_train.shape)
             print(y_val.shape)
             '''
-            self.train_loss_history.append(LinearRegressionTrainer.mse_loss(hypo_train, y_train))
-            self.val_loss_history.append(LinearRegressionTrainer.mse_loss(hypo_val, y_val))
+            self.train_loss_history.append(
+                LinearRegressionTrainer.mse_loss(hypo_train, y_train))
+            self.val_loss_history.append(
+                LinearRegressionTrainer.mse_loss(hypo_val, y_val))
             self.gradient_descent_step(x_train, y_train)
-
-
 
     def mse_loss_derivative(self, x: np.ndarray, y: np.ndarray) -> np.ndarray:
         """
@@ -97,10 +97,10 @@ class LinearRegressionTrainer:
         """
 
         m = y.size
-        J = (1/m) * np.sum(((np.dot(x, self.theta) - y)[:, None] * x), axis = 0)
+        J = (1 / m) * np.sum(
+            ((np.dot(x, self.theta) - y)[:, None] * x), axis=0)
 
         return J
-
 
     def evaluate(self, x_test: np.ndarray, y_test: np.ndarray) -> None:
         """
@@ -114,14 +114,12 @@ class LinearRegressionTrainer:
             y_test: A vector of labels.
         """
 
-        x_test = np.hstack((x_test, np.ones((len(x_test),1))))
+        x_test = np.hstack((x_test, np.ones((len(x_test), 1))))
         hypo_test = np.dot(x_test, self.theta)
         #print(hypo_test)
         #with np.printoptions(edgeitems=50):
-            #print(y_test)
+        #print(y_test)
         self.test_loss = LinearRegressionTrainer.mse_loss(hypo_test, y_test)
-     
-
 
     def mse_loss(pred: np.ndarray, target: np.ndarray) -> float:
         """
@@ -140,5 +138,5 @@ class LinearRegressionTrainer:
         assert pred.shape == target.shape
         n = target.size
 
-        answer = sum((pred - target) ** 2) / (2 * n)
+        answer = sum((pred - target)**2) / (2 * n)
         return answer
