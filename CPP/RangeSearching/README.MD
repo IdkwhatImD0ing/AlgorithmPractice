@@ -1,7 +1,8 @@
 # Range Searching using Self-Balancing Avl Trees
 
 ## Description:
-  This algorithm inserts strings into an avl tree and finds the range of two strings. Input file should be structured with 
+  This algorithm inserts strings into an avl tree and finds the range of two strings. Input file should be structured with:
+  
   i string - to insert strings into the tree
   r str1 str2 - find the numbers of strings that fall between these two strings lexicographically, inclusive
 
