@@ -22,10 +22,6 @@
     "**/.vscode/**"
   ],
   "files.associations": {
-    "*.tcc": "cpp",
-    "iostream": "cpp"
-  },
-  "[dart]": {
-    "editor.formatOnSave": true
+    "cmath": "cpp"
   }
 }
